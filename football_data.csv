@@ -1,407 +1,3041 @@
 date,home_team,score,away_team
-12-08-2023,Arsenal,2 -- 1,Nott'm Forest
-21-08-2023,Crystal Palace,0 -- 1,Arsenal
-26-08-2023,Arsenal,2 -- 2,Fulham
-03-09-2023,Arsenal,3 -- 1,Man United
-17-09-2023,Everton,0 -- 1,Arsenal
-24-09-2023,Arsenal,2 -- 2,Tottenham
-30-09-2023,Bournemouth,0 -- 4,Arsenal
-08-10-2023,Arsenal,1 -- 0,Man City
-21-10-2023,Chelsea,2 -- 2,Arsenal
-28-10-2023,Arsenal,5 -- 0,Sheffield United
-04-11-2023,Newcastle,1 -- 0,Arsenal
-11-11-2023,Arsenal,3 -- 1,Burnley
-25-11-2023,Brentford,0 -- 1,Arsenal
-02-12-2023,Arsenal,2 -- 1,Wolves
-05-12-2023,Luton,3 -- 4,Arsenal
-09-12-2023,Aston Villa,1 -- 0,Arsenal
-17-12-2023,Arsenal,2 -- 0,Brighton
-23-12-2023,Liverpool,1 -- 1,Arsenal
-28-12-2023,Arsenal,0 -- 2,West Ham
-31-12-2023,Fulham,2 -- 1,Arsenal
-12-08-2023,Newcastle,5 -- 1,Aston Villa
-20-08-2023,Aston Villa,4 -- 0,Everton
-27-08-2023,Burnley,1 -- 3,Aston Villa
-03-09-2023,Liverpool,3 -- 0,Aston Villa
-16-09-2023,Aston Villa,3 -- 1,Crystal Palace
-24-09-2023,Chelsea,0 -- 1,Aston Villa
-30-09-2023,Aston Villa,6 -- 1,Brighton
-08-10-2023,Wolves,1 -- 1,Aston Villa
-22-10-2023,Aston Villa,4 -- 1,West Ham
-29-10-2023,Aston Villa,3 -- 1,Luton
-05-11-2023,Nott'm Forest,2 -- 0,Aston Villa
-12-11-2023,Aston Villa,3 -- 1,Fulham
-26-11-2023,Tottenham,1 -- 2,Aston Villa
-03-12-2023,Bournemouth,2 -- 2,Aston Villa
-06-12-2023,Aston Villa,1 -- 0,Man City
-09-12-2023,Aston Villa,1 -- 0,Arsenal
-17-12-2023,Brentford,1 -- 2,Aston Villa
-22-12-2023,Aston Villa,1 -- 1,Sheffield United
-26-12-2023,Man United,3 -- 2,Aston Villa
-30-12-2023,Aston Villa,3 -- 2,Burnley
-14-01-2024,Everton,? -- ?,Aston Villa
-12-08-2023,Bournemouth,1 -- 1,West Ham
-19-08-2023,Liverpool,3 -- 1,Bournemouth
-26-08-2023,Bournemouth,0 -- 2,Tottenham
-02-09-2023,Brentford,2 -- 2,Bournemouth
-17-09-2023,Bournemouth,0 -- 0,Chelsea
-24-09-2023,Brighton,3 -- 1,Bournemouth
-30-09-2023,Bournemouth,0 -- 4,Arsenal
-07-10-2023,Everton,3 -- 0,Bournemouth
-21-10-2023,Bournemouth,1 -- 2,Wolves
-28-10-2023,Bournemouth,2 -- 1,Burnley
-04-11-2023,Man City,6 -- 1,Bournemouth
-11-11-2023,Bournemouth,2 -- 0,Newcastle
-25-11-2023,Sheffield United,1 -- 3,Bournemouth
-03-12-2023,Bournemouth,2 -- 2,Aston Villa
-06-12-2023,Crystal Palace,0 -- 2,Bournemouth
-09-12-2023,Man United,0 -- 3,Bournemouth
-23-12-2023,Nott'm Forest,2 -- 3,Bournemouth
-26-12-2023,Bournemouth,3 -- 0,Fulham
-31-12-2023,Tottenham,3 -- 1,Bournemouth
-13-08-2023,Brentford,2 -- 2,Tottenham
-19-08-2023,Fulham,0 -- 3,Brentford
-26-08-2023,Brentford,1 -- 1,Crystal Palace
-02-09-2023,Brentford,2 -- 2,Bournemouth
-16-09-2023,Newcastle,1 -- 0,Brentford
-23-09-2023,Brentford,1 -- 3,Everton
-01-10-2023,Nott'm Forest,1 -- 1,Brentford
-07-10-2023,Man United,2 -- 1,Brentford
-21-10-2023,Brentford,3 -- 0,Burnley
-28-10-2023,Chelsea,0 -- 2,Brentford
-04-11-2023,Brentford,3 -- 2,West Ham
-12-11-2023,Liverpool,3 -- 0,Brentford
-25-11-2023,Brentford,0 -- 1,Arsenal
-02-12-2023,Brentford,3 -- 1,Luton
-06-12-2023,Brighton,2 -- 1,Brentford
-09-12-2023,Sheffield United,1 -- 0,Brentford
-17-12-2023,Brentford,1 -- 2,Aston Villa
-27-12-2023,Brentford,1 -- 4,Wolves
-30-12-2023,Crystal Palace,3 -- 1,Brentford
-12-08-2023,Brighton,4 -- 1,Luton
-19-08-2023,Wolves,1 -- 4,Brighton
-26-08-2023,Brighton,1 -- 3,West Ham
-02-09-2023,Brighton,3 -- 1,Newcastle
-16-09-2023,Man United,1 -- 3,Brighton
-24-09-2023,Brighton,3 -- 1,Bournemouth
-30-09-2023,Aston Villa,6 -- 1,Brighton
-08-10-2023,Brighton,2 -- 2,Liverpool
-21-10-2023,Man City,2 -- 1,Brighton
-29-10-2023,Brighton,1 -- 1,Fulham
-04-11-2023,Everton,1 -- 1,Brighton
-12-11-2023,Brighton,1 -- 1,Sheffield United
-25-11-2023,Nott'm Forest,2 -- 3,Brighton
-03-12-2023,Chelsea,3 -- 2,Brighton
-06-12-2023,Brighton,2 -- 1,Brentford
-09-12-2023,Brighton,1 -- 1,Burnley
-17-12-2023,Arsenal,2 -- 0,Brighton
-21-12-2023,Crystal Palace,1 -- 1,Brighton
-28-12-2023,Brighton,4 -- 2,Tottenham
-02-01-2024,West Ham,0 -- 0,Brighton
-11-08-2023,Burnley,0 -- 3,Man City
-27-08-2023,Burnley,1 -- 3,Aston Villa
-02-09-2023,Burnley,2 -- 5,Tottenham
-18-09-2023,Nott'm Forest,1 -- 1,Burnley
-23-09-2023,Burnley,0 -- 1,Man United
-30-09-2023,Newcastle,2 -- 0,Burnley
-03-10-2023,Luton,1 -- 2,Burnley
-07-10-2023,Burnley,1 -- 4,Chelsea
-21-10-2023,Brentford,3 -- 0,Burnley
-28-10-2023,Bournemouth,2 -- 1,Burnley
-04-11-2023,Burnley,0 -- 2,Crystal Palace
-11-11-2023,Arsenal,3 -- 1,Burnley
-25-11-2023,Burnley,1 -- 2,West Ham
-02-12-2023,Burnley,5 -- 0,Sheffield United
-05-12-2023,Wolves,1 -- 0,Burnley
-09-12-2023,Brighton,1 -- 1,Burnley
-16-12-2023,Burnley,0 -- 2,Everton
-23-12-2023,Fulham,0 -- 2,Burnley
-26-12-2023,Burnley,0 -- 2,Liverpool
-30-12-2023,Aston Villa,3 -- 2,Burnley
-15-01-2024,Burnley,? -- ?,Luton
-13-08-2023,Chelsea,1 -- 1,Liverpool
-20-08-2023,West Ham,3 -- 1,Chelsea
-25-08-2023,Chelsea,3 -- 0,Luton
-02-09-2023,Chelsea,0 -- 1,Nott'm Forest
-17-09-2023,Bournemouth,0 -- 0,Chelsea
-24-09-2023,Chelsea,0 -- 1,Aston Villa
-02-10-2023,Fulham,0 -- 2,Chelsea
-07-10-2023,Burnley,1 -- 4,Chelsea
-21-10-2023,Chelsea,2 -- 2,Arsenal
-28-10-2023,Chelsea,0 -- 2,Brentford
-06-11-2023,Tottenham,1 -- 4,Chelsea
-12-11-2023,Chelsea,4 -- 4,Man City
-25-11-2023,Newcastle,4 -- 1,Chelsea
-03-12-2023,Chelsea,3 -- 2,Brighton
-06-12-2023,Man United,2 -- 1,Chelsea
-10-12-2023,Everton,2 -- 0,Chelsea
-16-12-2023,Chelsea,2 -- 0,Sheffield United
-24-12-2023,Wolves,2 -- 1,Chelsea
-27-12-2023,Chelsea,2 -- 1,Crystal Palace
-30-12-2023,Luton,2 -- 3,Chelsea
-13-01-2024,Chelsea,? -- ?,Fulham
-12-08-2023,Sheffield United,0 -- 1,Crystal Palace
-21-08-2023,Crystal Palace,0 -- 1,Arsenal
-26-08-2023,Brentford,1 -- 1,Crystal Palace
-03-09-2023,Crystal Palace,3 -- 2,Wolves
-16-09-2023,Aston Villa,3 -- 1,Crystal Palace
-23-09-2023,Crystal Palace,0 -- 0,Fulham
-30-09-2023,Man United,0 -- 1,Crystal Palace
-07-10-2023,Crystal Palace,0 -- 0,Nott'm Forest
-21-10-2023,Newcastle,4 -- 0,Crystal Palace
-27-10-2023,Crystal Palace,1 -- 2,Tottenham
-04-11-2023,Burnley,0 -- 2,Crystal Palace
-11-11-2023,Crystal Palace,2 -- 3,Everton
-25-11-2023,Luton,2 -- 1,Crystal Palace
-03-12-2023,West Ham,1 -- 1,Crystal Palace
-06-12-2023,Crystal Palace,0 -- 2,Bournemouth
-09-12-2023,Crystal Palace,1 -- 2,Liverpool
-16-12-2023,Man City,2 -- 2,Crystal Palace
-21-12-2023,Crystal Palace,1 -- 1,Brighton
-27-12-2023,Chelsea,2 -- 1,Crystal Palace
-30-12-2023,Crystal Palace,3 -- 1,Brentford
-12-08-2023,Everton,0 -- 1,Fulham
-20-08-2023,Aston Villa,4 -- 0,Everton
-26-08-2023,Everton,0 -- 1,Wolves
-02-09-2023,Sheffield United,2 -- 2,Everton
-17-09-2023,Everton,0 -- 1,Arsenal
-23-09-2023,Brentford,1 -- 3,Everton
-30-09-2023,Everton,1 -- 2,Luton
-07-10-2023,Everton,3 -- 0,Bournemouth
-21-10-2023,Liverpool,2 -- 0,Everton
-29-10-2023,West Ham,0 -- 1,Everton
-04-11-2023,Everton,1 -- 1,Brighton
-11-11-2023,Crystal Palace,2 -- 3,Everton
-26-11-2023,Everton,0 -- 3,Man United
-02-12-2023,Nott'm Forest,0 -- 1,Everton
-07-12-2023,Everton,3 -- 0,Newcastle
-10-12-2023,Everton,2 -- 0,Chelsea
-16-12-2023,Burnley,0 -- 2,Everton
-23-12-2023,Tottenham,2 -- 1,Everton
-27-12-2023,Everton,1 -- 3,Man City
-30-12-2023,Wolves,3 -- 0,Everton
-14-01-2024,Everton,? -- ?,Aston Villa
-12-08-2023,Everton,0 -- 1,Fulham
-19-08-2023,Fulham,0 -- 3,Brentford
-26-08-2023,Arsenal,2 -- 2,Fulham
-02-09-2023,Man City,5 -- 1,Fulham
-16-09-2023,Fulham,1 -- 0,Luton
-23-09-2023,Crystal Palace,0 -- 0,Fulham
-02-10-2023,Fulham,0 -- 2,Chelsea
-07-10-2023,Fulham,3 -- 1,Sheffield United
-23-10-2023,Tottenham,2 -- 0,Fulham
-29-10-2023,Brighton,1 -- 1,Fulham
-04-11-2023,Fulham,0 -- 1,Man United
-12-11-2023,Aston Villa,3 -- 1,Fulham
-27-11-2023,Fulham,3 -- 2,Wolves
-03-12-2023,Liverpool,4 -- 3,Fulham
-06-12-2023,Fulham,5 -- 0,Nott'm Forest
-10-12-2023,Fulham,5 -- 0,West Ham
-16-12-2023,Newcastle,3 -- 0,Fulham
-23-12-2023,Fulham,0 -- 2,Burnley
-26-12-2023,Bournemouth,3 -- 0,Fulham
-31-12-2023,Fulham,2 -- 1,Arsenal
-13-01-2024,Chelsea,? -- ?,Fulham
-13-08-2023,Chelsea,1 -- 1,Liverpool
-19-08-2023,Liverpool,3 -- 1,Bournemouth
-27-08-2023,Newcastle,1 -- 2,Liverpool
-03-09-2023,Liverpool,3 -- 0,Aston Villa
-16-09-2023,Wolves,1 -- 3,Liverpool
-24-09-2023,Liverpool,3 -- 1,West Ham
-30-09-2023,Tottenham,2 -- 1,Liverpool
-08-10-2023,Brighton,2 -- 2,Liverpool
-21-10-2023,Liverpool,2 -- 0,Everton
-29-10-2023,Liverpool,3 -- 0,Nott'm Forest
-05-11-2023,Luton,1 -- 1,Liverpool
-12-11-2023,Liverpool,3 -- 0,Brentford
-25-11-2023,Man City,1 -- 1,Liverpool
-03-12-2023,Liverpool,4 -- 3,Fulham
-06-12-2023,Sheffield United,0 -- 2,Liverpool
-09-12-2023,Crystal Palace,1 -- 2,Liverpool
-17-12-2023,Liverpool,0 -- 0,Man United
-23-12-2023,Liverpool,1 -- 1,Arsenal
-26-12-2023,Burnley,0 -- 2,Liverpool
-01-01-2024,Liverpool,4 -- 2,Newcastle
-12-08-2023,Brighton,4 -- 1,Luton
-25-08-2023,Chelsea,3 -- 0,Luton
-01-09-2023,Luton,1 -- 2,West Ham
-16-09-2023,Fulham,1 -- 0,Luton
-23-09-2023,Luton,1 -- 1,Wolves
-30-09-2023,Everton,1 -- 2,Luton
-03-10-2023,Luton,1 -- 2,Burnley
-07-10-2023,Luton,0 -- 1,Tottenham
-21-10-2023,Nott'm Forest,2 -- 2,Luton
-29-10-2023,Aston Villa,3 -- 1,Luton
-05-11-2023,Luton,1 -- 1,Liverpool
-11-11-2023,Man United,1 -- 0,Luton
-25-11-2023,Luton,2 -- 1,Crystal Palace
-02-12-2023,Brentford,3 -- 1,Luton
-05-12-2023,Luton,3 -- 4,Arsenal
-10-12-2023,Luton,1 -- 2,Man City
-23-12-2023,Luton,1 -- 0,Newcastle
-26-12-2023,Sheffield United,2 -- 3,Luton
-30-12-2023,Luton,2 -- 3,Chelsea
-15-01-2024,Burnley,? -- ?,Luton
-11-08-2023,Burnley,0 -- 3,Man City
-19-08-2023,Man City,1 -- 0,Newcastle
-27-08-2023,Sheffield United,1 -- 2,Man City
-02-09-2023,Man City,5 -- 1,Fulham
-16-09-2023,West Ham,1 -- 3,Man City
-23-09-2023,Man City,2 -- 0,Nott'm Forest
-30-09-2023,Wolves,2 -- 1,Man City
-08-10-2023,Arsenal,1 -- 0,Man City
-21-10-2023,Man City,2 -- 1,Brighton
-29-10-2023,Man United,0 -- 3,Man City
-04-11-2023,Man City,6 -- 1,Bournemouth
-12-11-2023,Chelsea,4 -- 4,Man City
-25-11-2023,Man City,1 -- 1,Liverpool
-03-12-2023,Man City,3 -- 3,Tottenham
-06-12-2023,Aston Villa,1 -- 0,Man City
-10-12-2023,Luton,1 -- 2,Man City
-16-12-2023,Man City,2 -- 2,Crystal Palace
-27-12-2023,Everton,1 -- 3,Man City
-30-12-2023,Man City,2 -- 0,Sheffield United
-13-01-2024,Newcastle,? -- ?,Man City
-14-08-2023,Man United,1 -- 0,Wolves
-19-08-2023,Tottenham,2 -- 0,Man United
-26-08-2023,Man United,3 -- 2,Nott'm Forest
-03-09-2023,Arsenal,3 -- 1,Man United
-16-09-2023,Man United,1 -- 3,Brighton
-23-09-2023,Burnley,0 -- 1,Man United
-30-09-2023,Man United,0 -- 1,Crystal Palace
-07-10-2023,Man United,2 -- 1,Brentford
-21-10-2023,Sheffield United,1 -- 2,Man United
-29-10-2023,Man United,0 -- 3,Man City
-04-11-2023,Fulham,0 -- 1,Man United
-11-11-2023,Man United,1 -- 0,Luton
-26-11-2023,Everton,0 -- 3,Man United
-02-12-2023,Newcastle,1 -- 0,Man United
-06-12-2023,Man United,2 -- 1,Chelsea
-09-12-2023,Man United,0 -- 3,Bournemouth
-17-12-2023,Liverpool,0 -- 0,Man United
-23-12-2023,West Ham,2 -- 0,Man United
-26-12-2023,Man United,3 -- 2,Aston Villa
-30-12-2023,Nott'm Forest,2 -- 1,Man United
-14-01-2024,Man United,? -- ?,Tottenham
-12-08-2023,Newcastle,5 -- 1,Aston Villa
-19-08-2023,Man City,1 -- 0,Newcastle
-27-08-2023,Newcastle,1 -- 2,Liverpool
-02-09-2023,Brighton,3 -- 1,Newcastle
-16-09-2023,Newcastle,1 -- 0,Brentford
-24-09-2023,Sheffield United,0 -- 8,Newcastle
-30-09-2023,Newcastle,2 -- 0,Burnley
-08-10-2023,West Ham,2 -- 2,Newcastle
-21-10-2023,Newcastle,4 -- 0,Crystal Palace
-28-10-2023,Wolves,2 -- 2,Newcastle
-04-11-2023,Newcastle,1 -- 0,Arsenal
-11-11-2023,Bournemouth,2 -- 0,Newcastle
-25-11-2023,Newcastle,4 -- 1,Chelsea
-02-12-2023,Newcastle,1 -- 0,Man United
-07-12-2023,Everton,3 -- 0,Newcastle
-10-12-2023,Tottenham,4 -- 1,Newcastle
-16-12-2023,Newcastle,3 -- 0,Fulham
-23-12-2023,Luton,1 -- 0,Newcastle
-26-12-2023,Newcastle,1 -- 3,Nott'm Forest
-01-01-2024,Liverpool,4 -- 2,Newcastle
-13-01-2024,Newcastle,? -- ?,Man City
-12-08-2023,Arsenal,2 -- 1,Nott'm Forest
-18-08-2023,Nott'm Forest,2 -- 1,Sheffield United
-26-08-2023,Man United,3 -- 2,Nott'm Forest
-02-09-2023,Chelsea,0 -- 1,Nott'm Forest
-18-09-2023,Nott'm Forest,1 -- 1,Burnley
-23-09-2023,Man City,2 -- 0,Nott'm Forest
-01-10-2023,Nott'm Forest,1 -- 1,Brentford
-07-10-2023,Crystal Palace,0 -- 0,Nott'm Forest
-21-10-2023,Nott'm Forest,2 -- 2,Luton
-29-10-2023,Liverpool,3 -- 0,Nott'm Forest
-05-11-2023,Nott'm Forest,2 -- 0,Aston Villa
-12-11-2023,West Ham,3 -- 2,Nott'm Forest
-25-11-2023,Nott'm Forest,2 -- 3,Brighton
-02-12-2023,Nott'm Forest,0 -- 1,Everton
-06-12-2023,Fulham,5 -- 0,Nott'm Forest
-09-12-2023,Wolves,1 -- 1,Nott'm Forest
-15-12-2023,Nott'm Forest,0 -- 2,Tottenham
-23-12-2023,Nott'm Forest,2 -- 3,Bournemouth
-26-12-2023,Newcastle,1 -- 3,Nott'm Forest
-30-12-2023,Nott'm Forest,2 -- 1,Man United
-12-08-2023,Sheffield United,0 -- 1,Crystal Palace
-18-08-2023,Nott'm Forest,2 -- 1,Sheffield United
-27-08-2023,Sheffield United,1 -- 2,Man City
-02-09-2023,Sheffield United,2 -- 2,Everton
-16-09-2023,Tottenham,2 -- 1,Sheffield United
-24-09-2023,Sheffield United,0 -- 8,Newcastle
-30-09-2023,West Ham,2 -- 0,Sheffield United
-07-10-2023,Fulham,3 -- 1,Sheffield United
-21-10-2023,Sheffield United,1 -- 2,Man United
-28-10-2023,Arsenal,5 -- 0,Sheffield United
-04-11-2023,Sheffield United,2 -- 1,Wolves
-12-11-2023,Brighton,1 -- 1,Sheffield United
-25-11-2023,Sheffield United,1 -- 3,Bournemouth
-02-12-2023,Burnley,5 -- 0,Sheffield United
-06-12-2023,Sheffield United,0 -- 2,Liverpool
-09-12-2023,Sheffield United,1 -- 0,Brentford
-16-12-2023,Chelsea,2 -- 0,Sheffield United
-22-12-2023,Aston Villa,1 -- 1,Sheffield United
-26-12-2023,Sheffield United,2 -- 3,Luton
-30-12-2023,Man City,2 -- 0,Sheffield United
-13-08-2023,Brentford,2 -- 2,Tottenham
-19-08-2023,Tottenham,2 -- 0,Man United
-26-08-2023,Bournemouth,0 -- 2,Tottenham
-02-09-2023,Burnley,2 -- 5,Tottenham
-16-09-2023,Tottenham,2 -- 1,Sheffield United
-24-09-2023,Arsenal,2 -- 2,Tottenham
-30-09-2023,Tottenham,2 -- 1,Liverpool
-07-10-2023,Luton,0 -- 1,Tottenham
-23-10-2023,Tottenham,2 -- 0,Fulham
-27-10-2023,Crystal Palace,1 -- 2,Tottenham
-06-11-2023,Tottenham,1 -- 4,Chelsea
-11-11-2023,Wolves,2 -- 1,Tottenham
-26-11-2023,Tottenham,1 -- 2,Aston Villa
-03-12-2023,Man City,3 -- 3,Tottenham
-07-12-2023,Tottenham,1 -- 2,West Ham
-10-12-2023,Tottenham,4 -- 1,Newcastle
-15-12-2023,Nott'm Forest,0 -- 2,Tottenham
-23-12-2023,Tottenham,2 -- 1,Everton
-28-12-2023,Brighton,4 -- 2,Tottenham
-31-12-2023,Tottenham,3 -- 1,Bournemouth
-14-01-2024,Man United,? -- ?,Tottenham
-12-08-2023,Bournemouth,1 -- 1,West Ham
-20-08-2023,West Ham,3 -- 1,Chelsea
-26-08-2023,Brighton,1 -- 3,West Ham
-01-09-2023,Luton,1 -- 2,West Ham
-16-09-2023,West Ham,1 -- 3,Man City
-24-09-2023,Liverpool,3 -- 1,West Ham
-30-09-2023,West Ham,2 -- 0,Sheffield United
-08-10-2023,West Ham,2 -- 2,Newcastle
-22-10-2023,Aston Villa,4 -- 1,West Ham
-29-10-2023,West Ham,0 -- 1,Everton
-04-11-2023,Brentford,3 -- 2,West Ham
-12-11-2023,West Ham,3 -- 2,Nott'm Forest
-25-11-2023,Burnley,1 -- 2,West Ham
-03-12-2023,West Ham,1 -- 1,Crystal Palace
-07-12-2023,Tottenham,1 -- 2,West Ham
-10-12-2023,Fulham,5 -- 0,West Ham
-17-12-2023,West Ham,3 -- 0,Wolves
-23-12-2023,West Ham,2 -- 0,Man United
-28-12-2023,Arsenal,0 -- 2,West Ham
-02-01-2024,West Ham,0 -- 0,Brighton
-14-08-2023,Man United,1 -- 0,Wolves
-19-08-2023,Wolves,1 -- 4,Brighton
-26-08-2023,Everton,0 -- 1,Wolves
-03-09-2023,Crystal Palace,3 -- 2,Wolves
-16-09-2023,Wolves,1 -- 3,Liverpool
-23-09-2023,Luton,1 -- 1,Wolves
-30-09-2023,Wolves,2 -- 1,Man City
-08-10-2023,Wolves,1 -- 1,Aston Villa
-21-10-2023,Bournemouth,1 -- 2,Wolves
-28-10-2023,Wolves,2 -- 2,Newcastle
-04-11-2023,Sheffield United,2 -- 1,Wolves
-11-11-2023,Wolves,2 -- 1,Tottenham
-27-11-2023,Fulham,3 -- 2,Wolves
-02-12-2023,Arsenal,2 -- 1,Wolves
-05-12-2023,Wolves,1 -- 0,Burnley
-09-12-2023,Wolves,1 -- 1,Nott'm Forest
-17-12-2023,West Ham,3 -- 0,Wolves
-24-12-2023,Wolves,2 -- 1,Chelsea
-27-12-2023,Brentford,1 -- 4,Wolves
-30-12-2023,Wolves,3 -- 0,Everton
+13-08-2021,Brentford,2 -- 0,Arsenal
+22-08-2021,Arsenal,0 -- 2,Chelsea
+28-08-2021,Man City,5 -- 0,Arsenal
+11-09-2021,Arsenal,1 -- 0,Norwich
+18-09-2021,Burnley,0 -- 1,Arsenal
+26-09-2021,Arsenal,3 -- 1,Tottenham
+02-10-2021,Brighton,0 -- 0,Arsenal
+18-10-2021,Arsenal,2 -- 2,Crystal Palace
+22-10-2021,Arsenal,3 -- 1,Aston Villa
+30-10-2021,Leicester,0 -- 2,Arsenal
+07-11-2021,Arsenal,1 -- 0,Watford
+20-11-2021,Liverpool,4 -- 0,Arsenal
+27-11-2021,Arsenal,2 -- 0,Newcastle
+02-12-2021,Man United,3 -- 2,Arsenal
+06-12-2021,Everton,2 -- 1,Arsenal
+11-12-2021,Arsenal,3 -- 0,Southampton
+15-12-2021,Arsenal,2 -- 0,West Ham
+18-12-2021,Leeds,1 -- 4,Arsenal
+26-12-2021,Norwich,0 -- 5,Arsenal
+01-01-2022,Arsenal,1 -- 2,Man City
+23-01-2022,Arsenal,0 -- 0,Burnley
+10-02-2022,Wolves,0 -- 1,Arsenal
+19-02-2022,Arsenal,2 -- 1,Brentford
+24-02-2022,Arsenal,2 -- 1,Wolves
+06-03-2022,Watford,2 -- 3,Arsenal
+13-03-2022,Arsenal,2 -- 0,Leicester
+16-03-2022,Arsenal,0 -- 2,Liverpool
+19-03-2022,Aston Villa,0 -- 1,Arsenal
+04-04-2022,Crystal Palace,3 -- 0,Arsenal
+09-04-2022,Arsenal,1 -- 2,Brighton
+16-04-2022,Southampton,1 -- 0,Arsenal
+20-04-2022,Chelsea,2 -- 4,Arsenal
+23-04-2022,Arsenal,3 -- 1,Man United
+01-05-2022,West Ham,1 -- 2,Arsenal
+08-05-2022,Arsenal,2 -- 1,Leeds
+12-05-2022,Tottenham,3 -- 0,Arsenal
+16-05-2022,Newcastle,2 -- 0,Arsenal
+22-05-2022,Arsenal,5 -- 1,Everton
+14-08-2021,Watford,3 -- 2,Aston Villa
+21-08-2021,Aston Villa,2 -- 0,Newcastle
+28-08-2021,Aston Villa,1 -- 1,Brentford
+11-09-2021,Chelsea,3 -- 0,Aston Villa
+18-09-2021,Aston Villa,3 -- 0,Everton
+25-09-2021,Man United,0 -- 1,Aston Villa
+03-10-2021,Tottenham,2 -- 1,Aston Villa
+16-10-2021,Aston Villa,2 -- 3,Wolves
+22-10-2021,Arsenal,3 -- 1,Aston Villa
+31-10-2021,Aston Villa,1 -- 4,West Ham
+05-11-2021,Southampton,1 -- 0,Aston Villa
+20-11-2021,Aston Villa,2 -- 0,Brighton
+27-11-2021,Crystal Palace,1 -- 2,Aston Villa
+01-12-2021,Aston Villa,1 -- 2,Man City
+05-12-2021,Aston Villa,2 -- 1,Leicester
+11-12-2021,Liverpool,1 -- 0,Aston Villa
+14-12-2021,Norwich,0 -- 2,Aston Villa
+26-12-2021,Aston Villa,1 -- 3,Chelsea
+02-01-2022,Brentford,2 -- 1,Aston Villa
+15-01-2022,Aston Villa,2 -- 2,Man United
+22-01-2022,Everton,0 -- 1,Aston Villa
+09-02-2022,Aston Villa,3 -- 3,Leeds
+13-02-2022,Newcastle,1 -- 0,Aston Villa
+19-02-2022,Aston Villa,0 -- 1,Watford
+26-02-2022,Brighton,0 -- 2,Aston Villa
+05-03-2022,Aston Villa,4 -- 0,Southampton
+10-03-2022,Leeds,0 -- 3,Aston Villa
+13-03-2022,West Ham,2 -- 1,Aston Villa
+19-03-2022,Aston Villa,0 -- 1,Arsenal
+02-04-2022,Wolves,2 -- 1,Aston Villa
+09-04-2022,Aston Villa,0 -- 4,Tottenham
+23-04-2022,Leicester,0 -- 0,Aston Villa
+30-04-2022,Aston Villa,2 -- 0,Norwich
+07-05-2022,Burnley,1 -- 3,Aston Villa
+10-05-2022,Aston Villa,1 -- 2,Liverpool
+15-05-2022,Aston Villa,1 -- 1,Crystal Palace
+19-05-2022,Aston Villa,1 -- 1,Burnley
+22-05-2022,Man City,3 -- 2,Aston Villa
+13-08-2021,Brentford,2 -- 0,Arsenal
+21-08-2021,Crystal Palace,0 -- 0,Brentford
+28-08-2021,Aston Villa,1 -- 1,Brentford
+11-09-2021,Brentford,0 -- 1,Brighton
+18-09-2021,Wolves,0 -- 2,Brentford
+25-09-2021,Brentford,3 -- 3,Liverpool
+03-10-2021,West Ham,1 -- 2,Brentford
+16-10-2021,Brentford,0 -- 1,Chelsea
+24-10-2021,Brentford,1 -- 2,Leicester
+30-10-2021,Burnley,3 -- 1,Brentford
+06-11-2021,Brentford,1 -- 2,Norwich
+20-11-2021,Newcastle,3 -- 3,Brentford
+28-11-2021,Brentford,1 -- 0,Everton
+02-12-2021,Tottenham,2 -- 0,Brentford
+05-12-2021,Leeds,2 -- 2,Brentford
+10-12-2021,Brentford,2 -- 1,Watford
+26-12-2021,Brighton,2 -- 0,Brentford
+29-12-2021,Brentford,0 -- 1,Man City
+02-01-2022,Brentford,2 -- 1,Aston Villa
+11-01-2022,Southampton,4 -- 1,Brentford
+16-01-2022,Liverpool,3 -- 0,Brentford
+19-01-2022,Brentford,1 -- 3,Man United
+22-01-2022,Brentford,1 -- 2,Wolves
+09-02-2022,Man City,2 -- 0,Brentford
+12-02-2022,Brentford,0 -- 0,Crystal Palace
+19-02-2022,Arsenal,2 -- 1,Brentford
+26-02-2022,Brentford,0 -- 2,Newcastle
+05-03-2022,Norwich,1 -- 3,Brentford
+12-03-2022,Brentford,2 -- 0,Burnley
+20-03-2022,Leicester,2 -- 1,Brentford
+02-04-2022,Chelsea,1 -- 4,Brentford
+10-04-2022,Brentford,2 -- 0,West Ham
+16-04-2022,Watford,1 -- 2,Brentford
+23-04-2022,Brentford,0 -- 0,Tottenham
+02-05-2022,Man United,3 -- 0,Brentford
+07-05-2022,Brentford,3 -- 0,Southampton
+15-05-2022,Everton,2 -- 3,Brentford
+22-05-2022,Brentford,1 -- 2,Leeds
+14-08-2021,Burnley,1 -- 2,Brighton
+21-08-2021,Brighton,2 -- 0,Watford
+28-08-2021,Brighton,0 -- 2,Everton
+11-09-2021,Brentford,0 -- 1,Brighton
+19-09-2021,Brighton,2 -- 1,Leicester
+27-09-2021,Crystal Palace,1 -- 1,Brighton
+02-10-2021,Brighton,0 -- 0,Arsenal
+16-10-2021,Norwich,0 -- 0,Brighton
+23-10-2021,Brighton,1 -- 4,Man City
+30-10-2021,Liverpool,2 -- 2,Brighton
+06-11-2021,Brighton,1 -- 1,Newcastle
+20-11-2021,Aston Villa,2 -- 0,Brighton
+27-11-2021,Brighton,0 -- 0,Leeds
+01-12-2021,West Ham,1 -- 1,Brighton
+04-12-2021,Southampton,1 -- 1,Brighton
+15-12-2021,Brighton,0 -- 1,Wolves
+26-12-2021,Brighton,2 -- 0,Brentford
+29-12-2021,Chelsea,1 -- 1,Brighton
+02-01-2022,Everton,2 -- 3,Brighton
+14-01-2022,Brighton,1 -- 1,Crystal Palace
+18-01-2022,Brighton,1 -- 1,Chelsea
+23-01-2022,Leicester,1 -- 1,Brighton
+12-02-2022,Watford,0 -- 2,Brighton
+15-02-2022,Man United,2 -- 0,Brighton
+19-02-2022,Brighton,0 -- 3,Burnley
+26-02-2022,Brighton,0 -- 2,Aston Villa
+05-03-2022,Newcastle,2 -- 1,Brighton
+12-03-2022,Brighton,0 -- 2,Liverpool
+16-03-2022,Brighton,0 -- 2,Tottenham
+02-04-2022,Brighton,0 -- 0,Norwich
+09-04-2022,Arsenal,1 -- 2,Brighton
+16-04-2022,Tottenham,0 -- 1,Brighton
+20-04-2022,Man City,3 -- 0,Brighton
+24-04-2022,Brighton,2 -- 2,Southampton
+30-04-2022,Wolves,0 -- 3,Brighton
+07-05-2022,Brighton,4 -- 0,Man United
+15-05-2022,Leeds,1 -- 1,Brighton
+22-05-2022,Brighton,3 -- 1,West Ham
+14-08-2021,Burnley,1 -- 2,Brighton
+21-08-2021,Liverpool,2 -- 0,Burnley
+29-08-2021,Burnley,1 -- 1,Leeds
+13-09-2021,Everton,3 -- 1,Burnley
+18-09-2021,Burnley,0 -- 1,Arsenal
+25-09-2021,Leicester,2 -- 2,Burnley
+02-10-2021,Burnley,0 -- 0,Norwich
+16-10-2021,Man City,2 -- 0,Burnley
+23-10-2021,Southampton,2 -- 2,Burnley
+30-10-2021,Burnley,3 -- 1,Brentford
+06-11-2021,Chelsea,1 -- 1,Burnley
+20-11-2021,Burnley,3 -- 3,Crystal Palace
+01-12-2021,Wolves,0 -- 0,Burnley
+04-12-2021,Newcastle,1 -- 0,Burnley
+12-12-2021,Burnley,0 -- 0,West Ham
+30-12-2021,Man United,3 -- 1,Burnley
+02-01-2022,Leeds,3 -- 1,Burnley
+23-01-2022,Arsenal,0 -- 0,Burnley
+05-02-2022,Burnley,0 -- 0,Watford
+08-02-2022,Burnley,1 -- 1,Man United
+13-02-2022,Burnley,0 -- 1,Liverpool
+19-02-2022,Brighton,0 -- 3,Burnley
+23-02-2022,Burnley,1 -- 0,Tottenham
+26-02-2022,Crystal Palace,1 -- 1,Burnley
+01-03-2022,Burnley,0 -- 2,Leicester
+05-03-2022,Burnley,0 -- 4,Chelsea
+12-03-2022,Brentford,2 -- 0,Burnley
+02-04-2022,Burnley,0 -- 2,Man City
+06-04-2022,Burnley,3 -- 2,Everton
+10-04-2022,Norwich,2 -- 0,Burnley
+17-04-2022,West Ham,1 -- 1,Burnley
+21-04-2022,Burnley,2 -- 0,Southampton
+24-04-2022,Burnley,1 -- 0,Wolves
+30-04-2022,Watford,1 -- 2,Burnley
+07-05-2022,Burnley,1 -- 3,Aston Villa
+15-05-2022,Tottenham,1 -- 0,Burnley
+19-05-2022,Aston Villa,1 -- 1,Burnley
+22-05-2022,Burnley,1 -- 2,Newcastle
+14-08-2021,Chelsea,3 -- 0,Crystal Palace
+22-08-2021,Arsenal,0 -- 2,Chelsea
+28-08-2021,Liverpool,1 -- 1,Chelsea
+11-09-2021,Chelsea,3 -- 0,Aston Villa
+19-09-2021,Tottenham,0 -- 3,Chelsea
+25-09-2021,Chelsea,0 -- 1,Man City
+02-10-2021,Chelsea,3 -- 1,Southampton
+16-10-2021,Brentford,0 -- 1,Chelsea
+23-10-2021,Chelsea,7 -- 0,Norwich
+30-10-2021,Newcastle,0 -- 3,Chelsea
+06-11-2021,Chelsea,1 -- 1,Burnley
+20-11-2021,Leicester,0 -- 3,Chelsea
+28-11-2021,Chelsea,1 -- 1,Man United
+01-12-2021,Watford,1 -- 2,Chelsea
+04-12-2021,West Ham,3 -- 2,Chelsea
+11-12-2021,Chelsea,3 -- 2,Leeds
+16-12-2021,Chelsea,1 -- 1,Everton
+19-12-2021,Wolves,0 -- 0,Chelsea
+26-12-2021,Aston Villa,1 -- 3,Chelsea
+29-12-2021,Chelsea,1 -- 1,Brighton
+02-01-2022,Chelsea,2 -- 2,Liverpool
+15-01-2022,Man City,1 -- 0,Chelsea
+18-01-2022,Brighton,1 -- 1,Chelsea
+23-01-2022,Chelsea,2 -- 0,Tottenham
+19-02-2022,Crystal Palace,0 -- 1,Chelsea
+05-03-2022,Burnley,0 -- 4,Chelsea
+10-03-2022,Norwich,1 -- 3,Chelsea
+13-03-2022,Chelsea,1 -- 0,Newcastle
+02-04-2022,Chelsea,1 -- 4,Brentford
+09-04-2022,Southampton,0 -- 6,Chelsea
+20-04-2022,Chelsea,2 -- 4,Arsenal
+24-04-2022,Chelsea,1 -- 0,West Ham
+28-04-2022,Man United,1 -- 1,Chelsea
+01-05-2022,Everton,1 -- 0,Chelsea
+07-05-2022,Chelsea,2 -- 2,Wolves
+11-05-2022,Leeds,0 -- 3,Chelsea
+19-05-2022,Chelsea,1 -- 1,Leicester
+22-05-2022,Chelsea,2 -- 1,Watford
+14-08-2021,Chelsea,3 -- 0,Crystal Palace
+21-08-2021,Crystal Palace,0 -- 0,Brentford
+28-08-2021,West Ham,2 -- 2,Crystal Palace
+11-09-2021,Crystal Palace,3 -- 0,Tottenham
+18-09-2021,Liverpool,3 -- 0,Crystal Palace
+27-09-2021,Crystal Palace,1 -- 1,Brighton
+03-10-2021,Crystal Palace,2 -- 2,Leicester
+18-10-2021,Arsenal,2 -- 2,Crystal Palace
+23-10-2021,Crystal Palace,1 -- 1,Newcastle
+30-10-2021,Man City,0 -- 2,Crystal Palace
+06-11-2021,Crystal Palace,2 -- 0,Wolves
+20-11-2021,Burnley,3 -- 3,Crystal Palace
+27-11-2021,Crystal Palace,1 -- 2,Aston Villa
+30-11-2021,Leeds,1 -- 0,Crystal Palace
+05-12-2021,Man United,1 -- 0,Crystal Palace
+12-12-2021,Crystal Palace,3 -- 1,Everton
+15-12-2021,Crystal Palace,2 -- 2,Southampton
+26-12-2021,Tottenham,3 -- 0,Crystal Palace
+28-12-2021,Crystal Palace,3 -- 0,Norwich
+01-01-2022,Crystal Palace,2 -- 3,West Ham
+14-01-2022,Brighton,1 -- 1,Crystal Palace
+23-01-2022,Crystal Palace,1 -- 3,Liverpool
+09-02-2022,Norwich,1 -- 1,Crystal Palace
+12-02-2022,Brentford,0 -- 0,Crystal Palace
+19-02-2022,Crystal Palace,0 -- 1,Chelsea
+23-02-2022,Watford,1 -- 4,Crystal Palace
+26-02-2022,Crystal Palace,1 -- 1,Burnley
+05-03-2022,Wolves,0 -- 2,Crystal Palace
+14-03-2022,Crystal Palace,0 -- 0,Man City
+04-04-2022,Crystal Palace,3 -- 0,Arsenal
+10-04-2022,Leicester,2 -- 1,Crystal Palace
+20-04-2022,Newcastle,1 -- 0,Crystal Palace
+25-04-2022,Crystal Palace,0 -- 0,Leeds
+30-04-2022,Southampton,1 -- 2,Crystal Palace
+07-05-2022,Crystal Palace,1 -- 0,Watford
+15-05-2022,Aston Villa,1 -- 1,Crystal Palace
+19-05-2022,Everton,3 -- 2,Crystal Palace
+22-05-2022,Crystal Palace,1 -- 0,Man United
+14-08-2021,Everton,3 -- 1,Southampton
+21-08-2021,Leeds,2 -- 2,Everton
+28-08-2021,Brighton,0 -- 2,Everton
+13-09-2021,Everton,3 -- 1,Burnley
+18-09-2021,Aston Villa,3 -- 0,Everton
+25-09-2021,Everton,2 -- 0,Norwich
+02-10-2021,Man United,1 -- 1,Everton
+17-10-2021,Everton,0 -- 1,West Ham
+23-10-2021,Everton,2 -- 5,Watford
+01-11-2021,Wolves,2 -- 1,Everton
+07-11-2021,Everton,0 -- 0,Tottenham
+21-11-2021,Man City,3 -- 0,Everton
+28-11-2021,Brentford,1 -- 0,Everton
+01-12-2021,Everton,1 -- 4,Liverpool
+06-12-2021,Everton,2 -- 1,Arsenal
+12-12-2021,Crystal Palace,3 -- 1,Everton
+16-12-2021,Chelsea,1 -- 1,Everton
+02-01-2022,Everton,2 -- 3,Brighton
+15-01-2022,Norwich,2 -- 1,Everton
+22-01-2022,Everton,0 -- 1,Aston Villa
+08-02-2022,Newcastle,3 -- 1,Everton
+12-02-2022,Everton,3 -- 0,Leeds
+19-02-2022,Southampton,2 -- 0,Everton
+26-02-2022,Everton,0 -- 1,Man City
+07-03-2022,Tottenham,5 -- 0,Everton
+13-03-2022,Everton,0 -- 1,Wolves
+17-03-2022,Everton,1 -- 0,Newcastle
+03-04-2022,West Ham,2 -- 1,Everton
+06-04-2022,Burnley,3 -- 2,Everton
+09-04-2022,Everton,1 -- 0,Man United
+20-04-2022,Everton,1 -- 1,Leicester
+24-04-2022,Liverpool,2 -- 0,Everton
+01-05-2022,Everton,1 -- 0,Chelsea
+08-05-2022,Leicester,1 -- 2,Everton
+11-05-2022,Watford,0 -- 0,Everton
+15-05-2022,Everton,2 -- 3,Brentford
+19-05-2022,Everton,3 -- 2,Crystal Palace
+22-05-2022,Arsenal,5 -- 1,Everton
+14-08-2021,Man United,5 -- 1,Leeds
+21-08-2021,Leeds,2 -- 2,Everton
+29-08-2021,Burnley,1 -- 1,Leeds
+12-09-2021,Leeds,0 -- 3,Liverpool
+17-09-2021,Newcastle,1 -- 1,Leeds
+25-09-2021,Leeds,1 -- 2,West Ham
+02-10-2021,Leeds,1 -- 0,Watford
+16-10-2021,Southampton,1 -- 0,Leeds
+23-10-2021,Leeds,1 -- 1,Wolves
+31-10-2021,Norwich,1 -- 2,Leeds
+07-11-2021,Leeds,1 -- 1,Leicester
+21-11-2021,Tottenham,2 -- 1,Leeds
+27-11-2021,Brighton,0 -- 0,Leeds
+30-11-2021,Leeds,1 -- 0,Crystal Palace
+05-12-2021,Leeds,2 -- 2,Brentford
+11-12-2021,Chelsea,3 -- 2,Leeds
+14-12-2021,Man City,7 -- 0,Leeds
+18-12-2021,Leeds,1 -- 4,Arsenal
+02-01-2022,Leeds,3 -- 1,Burnley
+16-01-2022,West Ham,2 -- 3,Leeds
+22-01-2022,Leeds,0 -- 1,Newcastle
+09-02-2022,Aston Villa,3 -- 3,Leeds
+12-02-2022,Everton,3 -- 0,Leeds
+20-02-2022,Leeds,2 -- 4,Man United
+23-02-2022,Liverpool,6 -- 0,Leeds
+26-02-2022,Leeds,0 -- 4,Tottenham
+05-03-2022,Leicester,1 -- 0,Leeds
+10-03-2022,Leeds,0 -- 3,Aston Villa
+13-03-2022,Leeds,2 -- 1,Norwich
+18-03-2022,Wolves,2 -- 3,Leeds
+02-04-2022,Leeds,1 -- 1,Southampton
+09-04-2022,Watford,0 -- 3,Leeds
+25-04-2022,Crystal Palace,0 -- 0,Leeds
+30-04-2022,Leeds,0 -- 4,Man City
+08-05-2022,Arsenal,2 -- 1,Leeds
+11-05-2022,Leeds,0 -- 3,Chelsea
+15-05-2022,Leeds,1 -- 1,Brighton
+22-05-2022,Brentford,1 -- 2,Leeds
+14-08-2021,Leicester,1 -- 0,Wolves
+23-08-2021,West Ham,4 -- 1,Leicester
+28-08-2021,Norwich,1 -- 2,Leicester
+11-09-2021,Leicester,0 -- 1,Man City
+19-09-2021,Brighton,2 -- 1,Leicester
+25-09-2021,Leicester,2 -- 2,Burnley
+03-10-2021,Crystal Palace,2 -- 2,Leicester
+16-10-2021,Leicester,4 -- 2,Man United
+24-10-2021,Brentford,1 -- 2,Leicester
+30-10-2021,Leicester,0 -- 2,Arsenal
+07-11-2021,Leeds,1 -- 1,Leicester
+20-11-2021,Leicester,0 -- 3,Chelsea
+28-11-2021,Leicester,4 -- 2,Watford
+01-12-2021,Southampton,2 -- 2,Leicester
+05-12-2021,Aston Villa,2 -- 1,Leicester
+12-12-2021,Leicester,4 -- 0,Newcastle
+26-12-2021,Man City,6 -- 3,Leicester
+28-12-2021,Leicester,1 -- 0,Liverpool
+19-01-2022,Leicester,2 -- 3,Tottenham
+23-01-2022,Leicester,1 -- 1,Brighton
+10-02-2022,Liverpool,2 -- 0,Leicester
+13-02-2022,Leicester,2 -- 2,West Ham
+20-02-2022,Wolves,2 -- 1,Leicester
+01-03-2022,Burnley,0 -- 2,Leicester
+05-03-2022,Leicester,1 -- 0,Leeds
+13-03-2022,Arsenal,2 -- 0,Leicester
+20-03-2022,Leicester,2 -- 1,Brentford
+02-04-2022,Man United,1 -- 1,Leicester
+10-04-2022,Leicester,2 -- 1,Crystal Palace
+17-04-2022,Newcastle,2 -- 1,Leicester
+20-04-2022,Everton,1 -- 1,Leicester
+23-04-2022,Leicester,0 -- 0,Aston Villa
+01-05-2022,Tottenham,3 -- 1,Leicester
+08-05-2022,Leicester,1 -- 2,Everton
+11-05-2022,Leicester,3 -- 0,Norwich
+15-05-2022,Watford,1 -- 5,Leicester
+19-05-2022,Chelsea,1 -- 1,Leicester
+22-05-2022,Leicester,4 -- 1,Southampton
+14-08-2021,Norwich,0 -- 3,Liverpool
+21-08-2021,Liverpool,2 -- 0,Burnley
+28-08-2021,Liverpool,1 -- 1,Chelsea
+12-09-2021,Leeds,0 -- 3,Liverpool
+18-09-2021,Liverpool,3 -- 0,Crystal Palace
+25-09-2021,Brentford,3 -- 3,Liverpool
+03-10-2021,Liverpool,2 -- 2,Man City
+16-10-2021,Watford,0 -- 5,Liverpool
+24-10-2021,Man United,0 -- 5,Liverpool
+30-10-2021,Liverpool,2 -- 2,Brighton
+07-11-2021,West Ham,3 -- 2,Liverpool
+20-11-2021,Liverpool,4 -- 0,Arsenal
+27-11-2021,Liverpool,4 -- 0,Southampton
+01-12-2021,Everton,1 -- 4,Liverpool
+04-12-2021,Wolves,0 -- 1,Liverpool
+11-12-2021,Liverpool,1 -- 0,Aston Villa
+16-12-2021,Liverpool,3 -- 1,Newcastle
+19-12-2021,Tottenham,2 -- 2,Liverpool
+28-12-2021,Leicester,1 -- 0,Liverpool
+02-01-2022,Chelsea,2 -- 2,Liverpool
+16-01-2022,Liverpool,3 -- 0,Brentford
+23-01-2022,Crystal Palace,1 -- 3,Liverpool
+10-02-2022,Liverpool,2 -- 0,Leicester
+13-02-2022,Burnley,0 -- 1,Liverpool
+19-02-2022,Liverpool,3 -- 1,Norwich
+23-02-2022,Liverpool,6 -- 0,Leeds
+05-03-2022,Liverpool,1 -- 0,West Ham
+12-03-2022,Brighton,0 -- 2,Liverpool
+16-03-2022,Arsenal,0 -- 2,Liverpool
+02-04-2022,Liverpool,2 -- 0,Watford
+10-04-2022,Man City,2 -- 2,Liverpool
+19-04-2022,Liverpool,4 -- 0,Man United
+24-04-2022,Liverpool,2 -- 0,Everton
+30-04-2022,Newcastle,0 -- 1,Liverpool
+07-05-2022,Liverpool,1 -- 1,Tottenham
+10-05-2022,Aston Villa,1 -- 2,Liverpool
+17-05-2022,Southampton,1 -- 2,Liverpool
+22-05-2022,Liverpool,3 -- 1,Wolves
+15-08-2021,Tottenham,1 -- 0,Man City
+21-08-2021,Man City,5 -- 0,Norwich
+28-08-2021,Man City,5 -- 0,Arsenal
+11-09-2021,Leicester,0 -- 1,Man City
+18-09-2021,Man City,0 -- 0,Southampton
+25-09-2021,Chelsea,0 -- 1,Man City
+03-10-2021,Liverpool,2 -- 2,Man City
+16-10-2021,Man City,2 -- 0,Burnley
+23-10-2021,Brighton,1 -- 4,Man City
+30-10-2021,Man City,0 -- 2,Crystal Palace
+06-11-2021,Man United,0 -- 2,Man City
+21-11-2021,Man City,3 -- 0,Everton
+28-11-2021,Man City,2 -- 1,West Ham
+01-12-2021,Aston Villa,1 -- 2,Man City
+04-12-2021,Watford,1 -- 3,Man City
+11-12-2021,Man City,1 -- 0,Wolves
+14-12-2021,Man City,7 -- 0,Leeds
+19-12-2021,Newcastle,0 -- 4,Man City
+26-12-2021,Man City,6 -- 3,Leicester
+29-12-2021,Brentford,0 -- 1,Man City
+01-01-2022,Arsenal,1 -- 2,Man City
+15-01-2022,Man City,1 -- 0,Chelsea
+22-01-2022,Southampton,1 -- 1,Man City
+09-02-2022,Man City,2 -- 0,Brentford
+12-02-2022,Norwich,0 -- 4,Man City
+19-02-2022,Man City,2 -- 3,Tottenham
+26-02-2022,Everton,0 -- 1,Man City
+06-03-2022,Man City,4 -- 1,Man United
+14-03-2022,Crystal Palace,0 -- 0,Man City
+02-04-2022,Burnley,0 -- 2,Man City
+10-04-2022,Man City,2 -- 2,Liverpool
+20-04-2022,Man City,3 -- 0,Brighton
+23-04-2022,Man City,5 -- 1,Watford
+30-04-2022,Leeds,0 -- 4,Man City
+08-05-2022,Man City,5 -- 0,Newcastle
+11-05-2022,Wolves,1 -- 5,Man City
+15-05-2022,West Ham,2 -- 2,Man City
+22-05-2022,Man City,3 -- 2,Aston Villa
+14-08-2021,Man United,5 -- 1,Leeds
+22-08-2021,Southampton,1 -- 1,Man United
+29-08-2021,Wolves,0 -- 1,Man United
+11-09-2021,Man United,4 -- 1,Newcastle
+19-09-2021,West Ham,1 -- 2,Man United
+25-09-2021,Man United,0 -- 1,Aston Villa
+02-10-2021,Man United,1 -- 1,Everton
+16-10-2021,Leicester,4 -- 2,Man United
+24-10-2021,Man United,0 -- 5,Liverpool
+30-10-2021,Tottenham,0 -- 3,Man United
+06-11-2021,Man United,0 -- 2,Man City
+20-11-2021,Watford,4 -- 1,Man United
+28-11-2021,Chelsea,1 -- 1,Man United
+02-12-2021,Man United,3 -- 2,Arsenal
+05-12-2021,Man United,1 -- 0,Crystal Palace
+11-12-2021,Norwich,0 -- 1,Man United
+27-12-2021,Newcastle,1 -- 1,Man United
+30-12-2021,Man United,3 -- 1,Burnley
+03-01-2022,Man United,0 -- 1,Wolves
+15-01-2022,Aston Villa,2 -- 2,Man United
+19-01-2022,Brentford,1 -- 3,Man United
+22-01-2022,Man United,1 -- 0,West Ham
+08-02-2022,Burnley,1 -- 1,Man United
+12-02-2022,Man United,1 -- 1,Southampton
+15-02-2022,Man United,2 -- 0,Brighton
+20-02-2022,Leeds,2 -- 4,Man United
+26-02-2022,Man United,0 -- 0,Watford
+06-03-2022,Man City,4 -- 1,Man United
+12-03-2022,Man United,3 -- 2,Tottenham
+02-04-2022,Man United,1 -- 1,Leicester
+09-04-2022,Everton,1 -- 0,Man United
+16-04-2022,Man United,3 -- 2,Norwich
+19-04-2022,Liverpool,4 -- 0,Man United
+23-04-2022,Arsenal,3 -- 1,Man United
+28-04-2022,Man United,1 -- 1,Chelsea
+02-05-2022,Man United,3 -- 0,Brentford
+07-05-2022,Brighton,4 -- 0,Man United
+22-05-2022,Crystal Palace,1 -- 0,Man United
+15-08-2021,Newcastle,2 -- 4,West Ham
+21-08-2021,Aston Villa,2 -- 0,Newcastle
+28-08-2021,Newcastle,2 -- 2,Southampton
+11-09-2021,Man United,4 -- 1,Newcastle
+17-09-2021,Newcastle,1 -- 1,Leeds
+25-09-2021,Watford,1 -- 1,Newcastle
+02-10-2021,Wolves,2 -- 1,Newcastle
+17-10-2021,Newcastle,2 -- 3,Tottenham
+23-10-2021,Crystal Palace,1 -- 1,Newcastle
+30-10-2021,Newcastle,0 -- 3,Chelsea
+06-11-2021,Brighton,1 -- 1,Newcastle
+20-11-2021,Newcastle,3 -- 3,Brentford
+27-11-2021,Arsenal,2 -- 0,Newcastle
+30-11-2021,Newcastle,1 -- 1,Norwich
+04-12-2021,Newcastle,1 -- 0,Burnley
+12-12-2021,Leicester,4 -- 0,Newcastle
+16-12-2021,Liverpool,3 -- 1,Newcastle
+19-12-2021,Newcastle,0 -- 4,Man City
+27-12-2021,Newcastle,1 -- 1,Man United
+15-01-2022,Newcastle,1 -- 1,Watford
+22-01-2022,Leeds,0 -- 1,Newcastle
+08-02-2022,Newcastle,3 -- 1,Everton
+13-02-2022,Newcastle,1 -- 0,Aston Villa
+19-02-2022,West Ham,1 -- 1,Newcastle
+26-02-2022,Brentford,0 -- 2,Newcastle
+05-03-2022,Newcastle,2 -- 1,Brighton
+10-03-2022,Southampton,1 -- 2,Newcastle
+13-03-2022,Chelsea,1 -- 0,Newcastle
+17-03-2022,Everton,1 -- 0,Newcastle
+03-04-2022,Tottenham,5 -- 1,Newcastle
+08-04-2022,Newcastle,1 -- 0,Wolves
+17-04-2022,Newcastle,2 -- 1,Leicester
+20-04-2022,Newcastle,1 -- 0,Crystal Palace
+23-04-2022,Norwich,0 -- 3,Newcastle
+30-04-2022,Newcastle,0 -- 1,Liverpool
+08-05-2022,Man City,5 -- 0,Newcastle
+16-05-2022,Newcastle,2 -- 0,Arsenal
+22-05-2022,Burnley,1 -- 2,Newcastle
+14-08-2021,Norwich,0 -- 3,Liverpool
+21-08-2021,Man City,5 -- 0,Norwich
+28-08-2021,Norwich,1 -- 2,Leicester
+11-09-2021,Arsenal,1 -- 0,Norwich
+18-09-2021,Norwich,1 -- 3,Watford
+25-09-2021,Everton,2 -- 0,Norwich
+02-10-2021,Burnley,0 -- 0,Norwich
+16-10-2021,Norwich,0 -- 0,Brighton
+23-10-2021,Chelsea,7 -- 0,Norwich
+31-10-2021,Norwich,1 -- 2,Leeds
+06-11-2021,Brentford,1 -- 2,Norwich
+20-11-2021,Norwich,2 -- 1,Southampton
+27-11-2021,Norwich,0 -- 0,Wolves
+30-11-2021,Newcastle,1 -- 1,Norwich
+05-12-2021,Tottenham,3 -- 0,Norwich
+11-12-2021,Norwich,0 -- 1,Man United
+14-12-2021,Norwich,0 -- 2,Aston Villa
+26-12-2021,Norwich,0 -- 5,Arsenal
+28-12-2021,Crystal Palace,3 -- 0,Norwich
+12-01-2022,West Ham,2 -- 0,Norwich
+15-01-2022,Norwich,2 -- 1,Everton
+21-01-2022,Watford,0 -- 3,Norwich
+09-02-2022,Norwich,1 -- 1,Crystal Palace
+12-02-2022,Norwich,0 -- 4,Man City
+19-02-2022,Liverpool,3 -- 1,Norwich
+25-02-2022,Southampton,2 -- 0,Norwich
+05-03-2022,Norwich,1 -- 3,Brentford
+10-03-2022,Norwich,1 -- 3,Chelsea
+13-03-2022,Leeds,2 -- 1,Norwich
+02-04-2022,Brighton,0 -- 0,Norwich
+10-04-2022,Norwich,2 -- 0,Burnley
+16-04-2022,Man United,3 -- 2,Norwich
+23-04-2022,Norwich,0 -- 3,Newcastle
+30-04-2022,Aston Villa,2 -- 0,Norwich
+08-05-2022,Norwich,0 -- 4,West Ham
+11-05-2022,Leicester,3 -- 0,Norwich
+15-05-2022,Wolves,1 -- 1,Norwich
+22-05-2022,Norwich,0 -- 5,Tottenham
+14-08-2021,Everton,3 -- 1,Southampton
+22-08-2021,Southampton,1 -- 1,Man United
+28-08-2021,Newcastle,2 -- 2,Southampton
+11-09-2021,Southampton,0 -- 0,West Ham
+18-09-2021,Man City,0 -- 0,Southampton
+26-09-2021,Southampton,0 -- 1,Wolves
+02-10-2021,Chelsea,3 -- 1,Southampton
+16-10-2021,Southampton,1 -- 0,Leeds
+23-10-2021,Southampton,2 -- 2,Burnley
+30-10-2021,Watford,0 -- 1,Southampton
+05-11-2021,Southampton,1 -- 0,Aston Villa
+20-11-2021,Norwich,2 -- 1,Southampton
+27-11-2021,Liverpool,4 -- 0,Southampton
+01-12-2021,Southampton,2 -- 2,Leicester
+04-12-2021,Southampton,1 -- 1,Brighton
+11-12-2021,Arsenal,3 -- 0,Southampton
+15-12-2021,Crystal Palace,2 -- 2,Southampton
+26-12-2021,West Ham,2 -- 3,Southampton
+28-12-2021,Southampton,1 -- 1,Tottenham
+11-01-2022,Southampton,4 -- 1,Brentford
+15-01-2022,Wolves,3 -- 1,Southampton
+22-01-2022,Southampton,1 -- 1,Man City
+09-02-2022,Tottenham,2 -- 3,Southampton
+12-02-2022,Man United,1 -- 1,Southampton
+19-02-2022,Southampton,2 -- 0,Everton
+25-02-2022,Southampton,2 -- 0,Norwich
+05-03-2022,Aston Villa,4 -- 0,Southampton
+10-03-2022,Southampton,1 -- 2,Newcastle
+13-03-2022,Southampton,1 -- 2,Watford
+02-04-2022,Leeds,1 -- 1,Southampton
+09-04-2022,Southampton,0 -- 6,Chelsea
+16-04-2022,Southampton,1 -- 0,Arsenal
+21-04-2022,Burnley,2 -- 0,Southampton
+24-04-2022,Brighton,2 -- 2,Southampton
+30-04-2022,Southampton,1 -- 2,Crystal Palace
+07-05-2022,Brentford,3 -- 0,Southampton
+17-05-2022,Southampton,1 -- 2,Liverpool
+22-05-2022,Leicester,4 -- 1,Southampton
+15-08-2021,Tottenham,1 -- 0,Man City
+22-08-2021,Wolves,0 -- 1,Tottenham
+29-08-2021,Tottenham,1 -- 0,Watford
+11-09-2021,Crystal Palace,3 -- 0,Tottenham
+19-09-2021,Tottenham,0 -- 3,Chelsea
+26-09-2021,Arsenal,3 -- 1,Tottenham
+03-10-2021,Tottenham,2 -- 1,Aston Villa
+17-10-2021,Newcastle,2 -- 3,Tottenham
+24-10-2021,West Ham,1 -- 0,Tottenham
+30-10-2021,Tottenham,0 -- 3,Man United
+07-11-2021,Everton,0 -- 0,Tottenham
+21-11-2021,Tottenham,2 -- 1,Leeds
+02-12-2021,Tottenham,2 -- 0,Brentford
+05-12-2021,Tottenham,3 -- 0,Norwich
+19-12-2021,Tottenham,2 -- 2,Liverpool
+26-12-2021,Tottenham,3 -- 0,Crystal Palace
+28-12-2021,Southampton,1 -- 1,Tottenham
+01-01-2022,Watford,0 -- 1,Tottenham
+19-01-2022,Leicester,2 -- 3,Tottenham
+23-01-2022,Chelsea,2 -- 0,Tottenham
+09-02-2022,Tottenham,2 -- 3,Southampton
+13-02-2022,Tottenham,0 -- 2,Wolves
+19-02-2022,Man City,2 -- 3,Tottenham
+23-02-2022,Burnley,1 -- 0,Tottenham
+26-02-2022,Leeds,0 -- 4,Tottenham
+07-03-2022,Tottenham,5 -- 0,Everton
+12-03-2022,Man United,3 -- 2,Tottenham
+16-03-2022,Brighton,0 -- 2,Tottenham
+20-03-2022,Tottenham,3 -- 1,West Ham
+03-04-2022,Tottenham,5 -- 1,Newcastle
+09-04-2022,Aston Villa,0 -- 4,Tottenham
+16-04-2022,Tottenham,0 -- 1,Brighton
+23-04-2022,Brentford,0 -- 0,Tottenham
+01-05-2022,Tottenham,3 -- 1,Leicester
+07-05-2022,Liverpool,1 -- 1,Tottenham
+12-05-2022,Tottenham,3 -- 0,Arsenal
+15-05-2022,Tottenham,1 -- 0,Burnley
+22-05-2022,Norwich,0 -- 5,Tottenham
+14-08-2021,Watford,3 -- 2,Aston Villa
+21-08-2021,Brighton,2 -- 0,Watford
+29-08-2021,Tottenham,1 -- 0,Watford
+11-09-2021,Watford,0 -- 2,Wolves
+18-09-2021,Norwich,1 -- 3,Watford
+25-09-2021,Watford,1 -- 1,Newcastle
+02-10-2021,Leeds,1 -- 0,Watford
+16-10-2021,Watford,0 -- 5,Liverpool
+23-10-2021,Everton,2 -- 5,Watford
+30-10-2021,Watford,0 -- 1,Southampton
+07-11-2021,Arsenal,1 -- 0,Watford
+20-11-2021,Watford,4 -- 1,Man United
+28-11-2021,Leicester,4 -- 2,Watford
+01-12-2021,Watford,1 -- 2,Chelsea
+04-12-2021,Watford,1 -- 3,Man City
+10-12-2021,Brentford,2 -- 1,Watford
+28-12-2021,Watford,1 -- 4,West Ham
+01-01-2022,Watford,0 -- 1,Tottenham
+15-01-2022,Newcastle,1 -- 1,Watford
+21-01-2022,Watford,0 -- 3,Norwich
+05-02-2022,Burnley,0 -- 0,Watford
+08-02-2022,West Ham,1 -- 0,Watford
+12-02-2022,Watford,0 -- 2,Brighton
+19-02-2022,Aston Villa,0 -- 1,Watford
+23-02-2022,Watford,1 -- 4,Crystal Palace
+26-02-2022,Man United,0 -- 0,Watford
+06-03-2022,Watford,2 -- 3,Arsenal
+10-03-2022,Wolves,4 -- 0,Watford
+13-03-2022,Southampton,1 -- 2,Watford
+02-04-2022,Liverpool,2 -- 0,Watford
+09-04-2022,Watford,0 -- 3,Leeds
+16-04-2022,Watford,1 -- 2,Brentford
+23-04-2022,Man City,5 -- 1,Watford
+30-04-2022,Watford,1 -- 2,Burnley
+07-05-2022,Crystal Palace,1 -- 0,Watford
+11-05-2022,Watford,0 -- 0,Everton
+15-05-2022,Watford,1 -- 5,Leicester
+22-05-2022,Chelsea,2 -- 1,Watford
+15-08-2021,Newcastle,2 -- 4,West Ham
+23-08-2021,West Ham,4 -- 1,Leicester
+28-08-2021,West Ham,2 -- 2,Crystal Palace
+11-09-2021,Southampton,0 -- 0,West Ham
+19-09-2021,West Ham,1 -- 2,Man United
+25-09-2021,Leeds,1 -- 2,West Ham
+03-10-2021,West Ham,1 -- 2,Brentford
+17-10-2021,Everton,0 -- 1,West Ham
+24-10-2021,West Ham,1 -- 0,Tottenham
+31-10-2021,Aston Villa,1 -- 4,West Ham
+07-11-2021,West Ham,3 -- 2,Liverpool
+20-11-2021,Wolves,1 -- 0,West Ham
+28-11-2021,Man City,2 -- 1,West Ham
+01-12-2021,West Ham,1 -- 1,Brighton
+04-12-2021,West Ham,3 -- 2,Chelsea
+12-12-2021,Burnley,0 -- 0,West Ham
+15-12-2021,Arsenal,2 -- 0,West Ham
+26-12-2021,West Ham,2 -- 3,Southampton
+28-12-2021,Watford,1 -- 4,West Ham
+01-01-2022,Crystal Palace,2 -- 3,West Ham
+12-01-2022,West Ham,2 -- 0,Norwich
+16-01-2022,West Ham,2 -- 3,Leeds
+22-01-2022,Man United,1 -- 0,West Ham
+08-02-2022,West Ham,1 -- 0,Watford
+13-02-2022,Leicester,2 -- 2,West Ham
+19-02-2022,West Ham,1 -- 1,Newcastle
+27-02-2022,West Ham,1 -- 0,Wolves
+05-03-2022,Liverpool,1 -- 0,West Ham
+13-03-2022,West Ham,2 -- 1,Aston Villa
+20-03-2022,Tottenham,3 -- 1,West Ham
+03-04-2022,West Ham,2 -- 1,Everton
+10-04-2022,Brentford,2 -- 0,West Ham
+17-04-2022,West Ham,1 -- 1,Burnley
+24-04-2022,Chelsea,1 -- 0,West Ham
+01-05-2022,West Ham,1 -- 2,Arsenal
+08-05-2022,Norwich,0 -- 4,West Ham
+15-05-2022,West Ham,2 -- 2,Man City
+22-05-2022,Brighton,3 -- 1,West Ham
+14-08-2021,Leicester,1 -- 0,Wolves
+22-08-2021,Wolves,0 -- 1,Tottenham
+29-08-2021,Wolves,0 -- 1,Man United
+11-09-2021,Watford,0 -- 2,Wolves
+18-09-2021,Wolves,0 -- 2,Brentford
+26-09-2021,Southampton,0 -- 1,Wolves
+02-10-2021,Wolves,2 -- 1,Newcastle
+16-10-2021,Aston Villa,2 -- 3,Wolves
+23-10-2021,Leeds,1 -- 1,Wolves
+01-11-2021,Wolves,2 -- 1,Everton
+06-11-2021,Crystal Palace,2 -- 0,Wolves
+20-11-2021,Wolves,1 -- 0,West Ham
+27-11-2021,Norwich,0 -- 0,Wolves
+01-12-2021,Wolves,0 -- 0,Burnley
+04-12-2021,Wolves,0 -- 1,Liverpool
+11-12-2021,Man City,1 -- 0,Wolves
+15-12-2021,Brighton,0 -- 1,Wolves
+19-12-2021,Wolves,0 -- 0,Chelsea
+03-01-2022,Man United,0 -- 1,Wolves
+15-01-2022,Wolves,3 -- 1,Southampton
+22-01-2022,Brentford,1 -- 2,Wolves
+10-02-2022,Wolves,0 -- 1,Arsenal
+13-02-2022,Tottenham,0 -- 2,Wolves
+20-02-2022,Wolves,2 -- 1,Leicester
+24-02-2022,Arsenal,2 -- 1,Wolves
+27-02-2022,West Ham,1 -- 0,Wolves
+05-03-2022,Wolves,0 -- 2,Crystal Palace
+10-03-2022,Wolves,4 -- 0,Watford
+13-03-2022,Everton,0 -- 1,Wolves
+18-03-2022,Wolves,2 -- 3,Leeds
+02-04-2022,Wolves,2 -- 1,Aston Villa
+08-04-2022,Newcastle,1 -- 0,Wolves
+24-04-2022,Burnley,1 -- 0,Wolves
+30-04-2022,Wolves,0 -- 3,Brighton
+07-05-2022,Chelsea,2 -- 2,Wolves
+11-05-2022,Wolves,1 -- 5,Man City
+15-05-2022,Wolves,1 -- 1,Norwich
+22-05-2022,Liverpool,3 -- 1,Wolves
+12-09-2020,Fulham,0 -- 3,Arsenal
+19-09-2020,Arsenal,2 -- 1,West Ham
+28-09-2020,Liverpool,3 -- 1,Arsenal
+04-10-2020,Arsenal,2 -- 1,Sheffield United
+17-10-2020,Man City,1 -- 0,Arsenal
+25-10-2020,Arsenal,0 -- 1,Leicester
+01-11-2020,Man United,0 -- 1,Arsenal
+08-11-2020,Arsenal,0 -- 3,Aston Villa
+22-11-2020,Leeds,0 -- 0,Arsenal
+29-11-2020,Arsenal,1 -- 2,Wolves
+06-12-2020,Tottenham,2 -- 0,Arsenal
+13-12-2020,Arsenal,0 -- 1,Burnley
+16-12-2020,Arsenal,1 -- 1,Southampton
+19-12-2020,Everton,2 -- 1,Arsenal
+26-12-2020,Arsenal,3 -- 1,Chelsea
+29-12-2020,Brighton,0 -- 1,Arsenal
+02-01-2021,West Brom,0 -- 4,Arsenal
+14-01-2021,Arsenal,0 -- 0,Crystal Palace
+18-01-2021,Arsenal,3 -- 0,Newcastle
+26-01-2021,Southampton,1 -- 3,Arsenal
+30-01-2021,Arsenal,0 -- 0,Man United
+02-02-2021,Wolves,2 -- 1,Arsenal
+06-02-2021,Aston Villa,1 -- 0,Arsenal
+14-02-2021,Arsenal,4 -- 2,Leeds
+21-02-2021,Arsenal,0 -- 1,Man City
+28-02-2021,Leicester,1 -- 3,Arsenal
+06-03-2021,Burnley,1 -- 1,Arsenal
+14-03-2021,Arsenal,2 -- 1,Tottenham
+21-03-2021,West Ham,3 -- 3,Arsenal
+03-04-2021,Arsenal,0 -- 3,Liverpool
+11-04-2021,Sheffield United,0 -- 3,Arsenal
+18-04-2021,Arsenal,1 -- 1,Fulham
+23-04-2021,Arsenal,0 -- 1,Everton
+02-05-2021,Newcastle,0 -- 2,Arsenal
+09-05-2021,Arsenal,3 -- 1,West Brom
+12-05-2021,Chelsea,0 -- 1,Arsenal
+19-05-2021,Crystal Palace,1 -- 3,Arsenal
+23-05-2021,Arsenal,2 -- 0,Brighton
+21-09-2020,Aston Villa,1 -- 0,Sheffield United
+28-09-2020,Fulham,0 -- 3,Aston Villa
+04-10-2020,Aston Villa,7 -- 2,Liverpool
+18-10-2020,Leicester,0 -- 1,Aston Villa
+23-10-2020,Aston Villa,0 -- 3,Leeds
+01-11-2020,Aston Villa,3 -- 4,Southampton
+08-11-2020,Arsenal,0 -- 3,Aston Villa
+21-11-2020,Aston Villa,1 -- 2,Brighton
+30-11-2020,West Ham,2 -- 1,Aston Villa
+12-12-2020,Wolves,0 -- 1,Aston Villa
+17-12-2020,Aston Villa,0 -- 0,Burnley
+20-12-2020,West Brom,0 -- 3,Aston Villa
+26-12-2020,Aston Villa,3 -- 0,Crystal Palace
+28-12-2020,Chelsea,1 -- 1,Aston Villa
+01-01-2021,Man United,2 -- 1,Aston Villa
+20-01-2021,Man City,2 -- 0,Aston Villa
+23-01-2021,Aston Villa,2 -- 0,Newcastle
+27-01-2021,Burnley,3 -- 2,Aston Villa
+30-01-2021,Southampton,0 -- 1,Aston Villa
+03-02-2021,Aston Villa,1 -- 3,West Ham
+06-02-2021,Aston Villa,1 -- 0,Arsenal
+13-02-2021,Brighton,0 -- 0,Aston Villa
+21-02-2021,Aston Villa,1 -- 2,Leicester
+27-02-2021,Leeds,0 -- 1,Aston Villa
+03-03-2021,Sheffield United,1 -- 0,Aston Villa
+06-03-2021,Aston Villa,0 -- 0,Wolves
+12-03-2021,Newcastle,1 -- 1,Aston Villa
+21-03-2021,Aston Villa,0 -- 2,Tottenham
+04-04-2021,Aston Villa,3 -- 1,Fulham
+10-04-2021,Liverpool,2 -- 1,Aston Villa
+21-04-2021,Aston Villa,1 -- 2,Man City
+25-04-2021,Aston Villa,2 -- 2,West Brom
+01-05-2021,Everton,1 -- 2,Aston Villa
+09-05-2021,Aston Villa,1 -- 3,Man United
+13-05-2021,Aston Villa,0 -- 0,Everton
+16-05-2021,Crystal Palace,3 -- 2,Aston Villa
+19-05-2021,Tottenham,1 -- 2,Aston Villa
+23-05-2021,Aston Villa,2 -- 1,Chelsea
+14-09-2020,Brighton,1 -- 3,Chelsea
+20-09-2020,Newcastle,0 -- 3,Brighton
+26-09-2020,Brighton,2 -- 3,Man United
+03-10-2020,Everton,4 -- 2,Brighton
+18-10-2020,Crystal Palace,1 -- 1,Brighton
+26-10-2020,Brighton,1 -- 1,West Brom
+01-11-2020,Tottenham,2 -- 1,Brighton
+06-11-2020,Brighton,0 -- 0,Burnley
+21-11-2020,Aston Villa,1 -- 2,Brighton
+28-11-2020,Brighton,1 -- 1,Liverpool
+07-12-2020,Brighton,1 -- 2,Southampton
+13-12-2020,Leicester,3 -- 0,Brighton
+16-12-2020,Fulham,0 -- 0,Brighton
+20-12-2020,Brighton,1 -- 1,Sheffield United
+27-12-2020,West Ham,2 -- 2,Brighton
+29-12-2020,Brighton,0 -- 1,Arsenal
+02-01-2021,Brighton,3 -- 3,Wolves
+13-01-2021,Man City,1 -- 0,Brighton
+16-01-2021,Leeds,0 -- 1,Brighton
+27-01-2021,Brighton,0 -- 0,Fulham
+31-01-2021,Brighton,1 -- 0,Tottenham
+03-02-2021,Liverpool,0 -- 1,Brighton
+06-02-2021,Burnley,1 -- 1,Brighton
+13-02-2021,Brighton,0 -- 0,Aston Villa
+22-02-2021,Brighton,1 -- 2,Crystal Palace
+27-02-2021,West Brom,1 -- 0,Brighton
+06-03-2021,Brighton,1 -- 2,Leicester
+14-03-2021,Southampton,1 -- 2,Brighton
+20-03-2021,Brighton,3 -- 0,Newcastle
+04-04-2021,Man United,2 -- 1,Brighton
+12-04-2021,Brighton,0 -- 0,Everton
+20-04-2021,Chelsea,0 -- 0,Brighton
+24-04-2021,Sheffield United,1 -- 0,Brighton
+01-05-2021,Brighton,2 -- 0,Leeds
+09-05-2021,Wolves,2 -- 1,Brighton
+15-05-2021,Brighton,1 -- 1,West Ham
+18-05-2021,Brighton,3 -- 2,Man City
+23-05-2021,Arsenal,2 -- 0,Brighton
+20-09-2020,Leicester,4 -- 2,Burnley
+26-09-2020,Burnley,0 -- 1,Southampton
+03-10-2020,Newcastle,3 -- 1,Burnley
+19-10-2020,West Brom,0 -- 0,Burnley
+26-10-2020,Burnley,0 -- 1,Tottenham
+31-10-2020,Burnley,0 -- 3,Chelsea
+06-11-2020,Brighton,0 -- 0,Burnley
+23-11-2020,Burnley,1 -- 0,Crystal Palace
+28-11-2020,Man City,5 -- 0,Burnley
+05-12-2020,Burnley,1 -- 1,Everton
+13-12-2020,Arsenal,0 -- 1,Burnley
+17-12-2020,Aston Villa,0 -- 0,Burnley
+21-12-2020,Burnley,2 -- 1,Wolves
+27-12-2020,Leeds,1 -- 0,Burnley
+29-12-2020,Burnley,1 -- 0,Sheffield United
+12-01-2021,Burnley,0 -- 1,Man United
+16-01-2021,West Ham,1 -- 0,Burnley
+21-01-2021,Liverpool,0 -- 1,Burnley
+27-01-2021,Burnley,3 -- 2,Aston Villa
+31-01-2021,Chelsea,2 -- 0,Burnley
+03-02-2021,Burnley,0 -- 2,Man City
+06-02-2021,Burnley,1 -- 1,Brighton
+13-02-2021,Crystal Palace,0 -- 3,Burnley
+17-02-2021,Burnley,1 -- 1,Fulham
+20-02-2021,Burnley,0 -- 0,West Brom
+28-02-2021,Tottenham,4 -- 0,Burnley
+03-03-2021,Burnley,1 -- 1,Leicester
+06-03-2021,Burnley,1 -- 1,Arsenal
+13-03-2021,Everton,1 -- 2,Burnley
+04-04-2021,Southampton,3 -- 2,Burnley
+11-04-2021,Burnley,1 -- 2,Newcastle
+18-04-2021,Man United,3 -- 1,Burnley
+25-04-2021,Wolves,0 -- 4,Burnley
+03-05-2021,Burnley,1 -- 2,West Ham
+10-05-2021,Fulham,0 -- 2,Burnley
+15-05-2021,Burnley,0 -- 4,Leeds
+19-05-2021,Burnley,0 -- 3,Liverpool
+23-05-2021,Sheffield United,1 -- 0,Burnley
+14-09-2020,Brighton,1 -- 3,Chelsea
+20-09-2020,Chelsea,0 -- 2,Liverpool
+26-09-2020,West Brom,3 -- 3,Chelsea
+03-10-2020,Chelsea,4 -- 0,Crystal Palace
+17-10-2020,Chelsea,3 -- 3,Southampton
+24-10-2020,Man United,0 -- 0,Chelsea
+31-10-2020,Burnley,0 -- 3,Chelsea
+07-11-2020,Chelsea,4 -- 1,Sheffield United
+21-11-2020,Newcastle,0 -- 2,Chelsea
+29-11-2020,Chelsea,0 -- 0,Tottenham
+05-12-2020,Chelsea,3 -- 1,Leeds
+12-12-2020,Everton,1 -- 0,Chelsea
+15-12-2020,Wolves,2 -- 1,Chelsea
+21-12-2020,Chelsea,3 -- 0,West Ham
+26-12-2020,Arsenal,3 -- 1,Chelsea
+28-12-2020,Chelsea,1 -- 1,Aston Villa
+03-01-2021,Chelsea,1 -- 3,Man City
+16-01-2021,Fulham,0 -- 1,Chelsea
+19-01-2021,Leicester,2 -- 0,Chelsea
+27-01-2021,Chelsea,0 -- 0,Wolves
+31-01-2021,Chelsea,2 -- 0,Burnley
+04-02-2021,Tottenham,0 -- 1,Chelsea
+07-02-2021,Sheffield United,1 -- 2,Chelsea
+15-02-2021,Chelsea,2 -- 0,Newcastle
+20-02-2021,Southampton,1 -- 1,Chelsea
+28-02-2021,Chelsea,0 -- 0,Man United
+04-03-2021,Liverpool,0 -- 1,Chelsea
+08-03-2021,Chelsea,2 -- 0,Everton
+13-03-2021,Leeds,0 -- 0,Chelsea
+03-04-2021,Chelsea,2 -- 5,West Brom
+10-04-2021,Crystal Palace,1 -- 4,Chelsea
+20-04-2021,Chelsea,0 -- 0,Brighton
+24-04-2021,West Ham,0 -- 1,Chelsea
+01-05-2021,Chelsea,2 -- 0,Fulham
+08-05-2021,Man City,1 -- 2,Chelsea
+12-05-2021,Chelsea,0 -- 1,Arsenal
+18-05-2021,Chelsea,2 -- 1,Leicester
+23-05-2021,Aston Villa,2 -- 1,Chelsea
+12-09-2020,Crystal Palace,1 -- 0,Southampton
+19-09-2020,Man United,1 -- 3,Crystal Palace
+26-09-2020,Crystal Palace,1 -- 2,Everton
+03-10-2020,Chelsea,4 -- 0,Crystal Palace
+18-10-2020,Crystal Palace,1 -- 1,Brighton
+24-10-2020,Fulham,1 -- 2,Crystal Palace
+30-10-2020,Wolves,2 -- 0,Crystal Palace
+07-11-2020,Crystal Palace,4 -- 1,Leeds
+23-11-2020,Burnley,1 -- 0,Crystal Palace
+27-11-2020,Crystal Palace,0 -- 2,Newcastle
+06-12-2020,West Brom,1 -- 5,Crystal Palace
+13-12-2020,Crystal Palace,1 -- 1,Tottenham
+16-12-2020,West Ham,1 -- 1,Crystal Palace
+19-12-2020,Crystal Palace,0 -- 7,Liverpool
+26-12-2020,Aston Villa,3 -- 0,Crystal Palace
+28-12-2020,Crystal Palace,1 -- 1,Leicester
+02-01-2021,Crystal Palace,2 -- 0,Sheffield United
+14-01-2021,Arsenal,0 -- 0,Crystal Palace
+17-01-2021,Man City,4 -- 0,Crystal Palace
+26-01-2021,Crystal Palace,2 -- 3,West Ham
+30-01-2021,Crystal Palace,1 -- 0,Wolves
+02-02-2021,Newcastle,1 -- 2,Crystal Palace
+08-02-2021,Leeds,2 -- 0,Crystal Palace
+13-02-2021,Crystal Palace,0 -- 3,Burnley
+22-02-2021,Brighton,1 -- 2,Crystal Palace
+28-02-2021,Crystal Palace,0 -- 0,Fulham
+03-03-2021,Crystal Palace,0 -- 0,Man United
+07-03-2021,Tottenham,4 -- 1,Crystal Palace
+13-03-2021,Crystal Palace,1 -- 0,West Brom
+05-04-2021,Everton,1 -- 1,Crystal Palace
+10-04-2021,Crystal Palace,1 -- 4,Chelsea
+26-04-2021,Leicester,2 -- 1,Crystal Palace
+01-05-2021,Crystal Palace,0 -- 2,Man City
+08-05-2021,Sheffield United,0 -- 2,Crystal Palace
+11-05-2021,Southampton,3 -- 1,Crystal Palace
+16-05-2021,Crystal Palace,3 -- 2,Aston Villa
+19-05-2021,Crystal Palace,1 -- 3,Arsenal
+23-05-2021,Liverpool,2 -- 0,Crystal Palace
+13-09-2020,Tottenham,0 -- 1,Everton
+19-09-2020,Everton,5 -- 2,West Brom
+26-09-2020,Crystal Palace,1 -- 2,Everton
+03-10-2020,Everton,4 -- 2,Brighton
+17-10-2020,Everton,2 -- 2,Liverpool
+25-10-2020,Southampton,2 -- 0,Everton
+01-11-2020,Newcastle,2 -- 1,Everton
+07-11-2020,Everton,1 -- 3,Man United
+22-11-2020,Fulham,2 -- 3,Everton
+28-11-2020,Everton,0 -- 1,Leeds
+05-12-2020,Burnley,1 -- 1,Everton
+12-12-2020,Everton,1 -- 0,Chelsea
+16-12-2020,Leicester,0 -- 2,Everton
+19-12-2020,Everton,2 -- 1,Arsenal
+26-12-2020,Sheffield United,0 -- 1,Everton
+01-01-2021,Everton,0 -- 1,West Ham
+12-01-2021,Wolves,1 -- 2,Everton
+27-01-2021,Everton,1 -- 1,Leicester
+30-01-2021,Everton,0 -- 2,Newcastle
+03-02-2021,Leeds,1 -- 2,Everton
+06-02-2021,Man United,3 -- 3,Everton
+14-02-2021,Everton,0 -- 2,Fulham
+17-02-2021,Everton,1 -- 3,Man City
+20-02-2021,Liverpool,0 -- 2,Everton
+01-03-2021,Everton,1 -- 0,Southampton
+04-03-2021,West Brom,0 -- 1,Everton
+08-03-2021,Chelsea,2 -- 0,Everton
+13-03-2021,Everton,1 -- 2,Burnley
+05-04-2021,Everton,1 -- 1,Crystal Palace
+12-04-2021,Brighton,0 -- 0,Everton
+16-04-2021,Everton,2 -- 2,Tottenham
+23-04-2021,Arsenal,0 -- 1,Everton
+01-05-2021,Everton,1 -- 2,Aston Villa
+09-05-2021,West Ham,0 -- 1,Everton
+13-05-2021,Aston Villa,0 -- 0,Everton
+16-05-2021,Everton,0 -- 1,Sheffield United
+19-05-2021,Everton,1 -- 0,Wolves
+23-05-2021,Man City,5 -- 0,Everton
+12-09-2020,Fulham,0 -- 3,Arsenal
+19-09-2020,Leeds,4 -- 3,Fulham
+28-09-2020,Fulham,0 -- 3,Aston Villa
+04-10-2020,Wolves,1 -- 0,Fulham
+18-10-2020,Sheffield United,1 -- 1,Fulham
+24-10-2020,Fulham,1 -- 2,Crystal Palace
+02-11-2020,Fulham,2 -- 0,West Brom
+07-11-2020,West Ham,1 -- 0,Fulham
+22-11-2020,Fulham,2 -- 3,Everton
+30-11-2020,Leicester,1 -- 2,Fulham
+05-12-2020,Man City,2 -- 0,Fulham
+13-12-2020,Fulham,1 -- 1,Liverpool
+16-12-2020,Fulham,0 -- 0,Brighton
+19-12-2020,Newcastle,1 -- 1,Fulham
+26-12-2020,Fulham,0 -- 0,Southampton
+13-01-2021,Tottenham,1 -- 1,Fulham
+16-01-2021,Fulham,0 -- 1,Chelsea
+20-01-2021,Fulham,1 -- 2,Man United
+27-01-2021,Brighton,0 -- 0,Fulham
+30-01-2021,West Brom,2 -- 2,Fulham
+03-02-2021,Fulham,0 -- 2,Leicester
+06-02-2021,Fulham,0 -- 0,West Ham
+14-02-2021,Everton,0 -- 2,Fulham
+17-02-2021,Burnley,1 -- 1,Fulham
+20-02-2021,Fulham,1 -- 0,Sheffield United
+28-02-2021,Crystal Palace,0 -- 0,Fulham
+04-03-2021,Fulham,0 -- 1,Tottenham
+07-03-2021,Liverpool,0 -- 1,Fulham
+13-03-2021,Fulham,0 -- 3,Man City
+19-03-2021,Fulham,1 -- 2,Leeds
+04-04-2021,Aston Villa,3 -- 1,Fulham
+09-04-2021,Fulham,0 -- 1,Wolves
+18-04-2021,Arsenal,1 -- 1,Fulham
+01-05-2021,Chelsea,2 -- 0,Fulham
+10-05-2021,Fulham,0 -- 2,Burnley
+15-05-2021,Southampton,3 -- 1,Fulham
+18-05-2021,Man United,1 -- 1,Fulham
+23-05-2021,Fulham,0 -- 2,Newcastle
+12-09-2020,Liverpool,4 -- 3,Leeds
+19-09-2020,Leeds,4 -- 3,Fulham
+27-09-2020,Sheffield United,0 -- 1,Leeds
+03-10-2020,Leeds,1 -- 1,Man City
+19-10-2020,Leeds,0 -- 1,Wolves
+23-10-2020,Aston Villa,0 -- 3,Leeds
+02-11-2020,Leeds,1 -- 4,Leicester
+07-11-2020,Crystal Palace,4 -- 1,Leeds
+22-11-2020,Leeds,0 -- 0,Arsenal
+28-11-2020,Everton,0 -- 1,Leeds
+05-12-2020,Chelsea,3 -- 1,Leeds
+11-12-2020,Leeds,1 -- 2,West Ham
+16-12-2020,Leeds,5 -- 2,Newcastle
+20-12-2020,Man United,6 -- 2,Leeds
+27-12-2020,Leeds,1 -- 0,Burnley
+29-12-2020,West Brom,0 -- 5,Leeds
+02-01-2021,Tottenham,3 -- 0,Leeds
+16-01-2021,Leeds,0 -- 1,Brighton
+26-01-2021,Newcastle,1 -- 2,Leeds
+31-01-2021,Leicester,1 -- 3,Leeds
+03-02-2021,Leeds,1 -- 2,Everton
+08-02-2021,Leeds,2 -- 0,Crystal Palace
+14-02-2021,Arsenal,4 -- 2,Leeds
+19-02-2021,Wolves,1 -- 0,Leeds
+23-02-2021,Leeds,3 -- 0,Southampton
+27-02-2021,Leeds,0 -- 1,Aston Villa
+08-03-2021,West Ham,2 -- 0,Leeds
+13-03-2021,Leeds,0 -- 0,Chelsea
+19-03-2021,Fulham,1 -- 2,Leeds
+03-04-2021,Leeds,2 -- 1,Sheffield United
+10-04-2021,Man City,1 -- 2,Leeds
+19-04-2021,Leeds,1 -- 1,Liverpool
+25-04-2021,Leeds,0 -- 0,Man United
+01-05-2021,Brighton,2 -- 0,Leeds
+08-05-2021,Leeds,3 -- 1,Tottenham
+15-05-2021,Burnley,0 -- 4,Leeds
+18-05-2021,Southampton,0 -- 2,Leeds
+23-05-2021,Leeds,3 -- 1,West Brom
+13-09-2020,West Brom,0 -- 3,Leicester
+20-09-2020,Leicester,4 -- 2,Burnley
+27-09-2020,Man City,2 -- 5,Leicester
+04-10-2020,Leicester,0 -- 3,West Ham
+18-10-2020,Leicester,0 -- 1,Aston Villa
+25-10-2020,Arsenal,0 -- 1,Leicester
+02-11-2020,Leeds,1 -- 4,Leicester
+08-11-2020,Leicester,1 -- 0,Wolves
+22-11-2020,Liverpool,3 -- 0,Leicester
+30-11-2020,Leicester,1 -- 2,Fulham
+06-12-2020,Sheffield United,1 -- 2,Leicester
+13-12-2020,Leicester,3 -- 0,Brighton
+16-12-2020,Leicester,0 -- 2,Everton
+20-12-2020,Tottenham,0 -- 2,Leicester
+26-12-2020,Leicester,2 -- 2,Man United
+28-12-2020,Crystal Palace,1 -- 1,Leicester
+03-01-2021,Newcastle,1 -- 2,Leicester
+16-01-2021,Leicester,2 -- 0,Southampton
+19-01-2021,Leicester,2 -- 0,Chelsea
+27-01-2021,Everton,1 -- 1,Leicester
+31-01-2021,Leicester,1 -- 3,Leeds
+03-02-2021,Fulham,0 -- 2,Leicester
+07-02-2021,Wolves,0 -- 0,Leicester
+13-02-2021,Leicester,3 -- 1,Liverpool
+21-02-2021,Aston Villa,1 -- 2,Leicester
+28-02-2021,Leicester,1 -- 3,Arsenal
+03-03-2021,Burnley,1 -- 1,Leicester
+06-03-2021,Brighton,1 -- 2,Leicester
+14-03-2021,Leicester,5 -- 0,Sheffield United
+03-04-2021,Leicester,0 -- 2,Man City
+11-04-2021,West Ham,3 -- 2,Leicester
+22-04-2021,Leicester,3 -- 0,West Brom
+26-04-2021,Leicester,2 -- 1,Crystal Palace
+30-04-2021,Southampton,1 -- 1,Leicester
+07-05-2021,Leicester,2 -- 4,Newcastle
+11-05-2021,Man United,1 -- 2,Leicester
+18-05-2021,Chelsea,2 -- 1,Leicester
+23-05-2021,Leicester,2 -- 4,Tottenham
+12-09-2020,Liverpool,4 -- 3,Leeds
+20-09-2020,Chelsea,0 -- 2,Liverpool
+28-09-2020,Liverpool,3 -- 1,Arsenal
+04-10-2020,Aston Villa,7 -- 2,Liverpool
+17-10-2020,Everton,2 -- 2,Liverpool
+24-10-2020,Liverpool,2 -- 1,Sheffield United
+31-10-2020,Liverpool,2 -- 1,West Ham
+08-11-2020,Man City,1 -- 1,Liverpool
+22-11-2020,Liverpool,3 -- 0,Leicester
+28-11-2020,Brighton,1 -- 1,Liverpool
+06-12-2020,Liverpool,4 -- 0,Wolves
+13-12-2020,Fulham,1 -- 1,Liverpool
+16-12-2020,Liverpool,2 -- 1,Tottenham
+19-12-2020,Crystal Palace,0 -- 7,Liverpool
+27-12-2020,Liverpool,1 -- 1,West Brom
+30-12-2020,Newcastle,0 -- 0,Liverpool
+04-01-2021,Southampton,1 -- 0,Liverpool
+17-01-2021,Liverpool,0 -- 0,Man United
+21-01-2021,Liverpool,0 -- 1,Burnley
+28-01-2021,Tottenham,1 -- 3,Liverpool
+31-01-2021,West Ham,1 -- 3,Liverpool
+03-02-2021,Liverpool,0 -- 1,Brighton
+07-02-2021,Liverpool,1 -- 4,Man City
+13-02-2021,Leicester,3 -- 1,Liverpool
+20-02-2021,Liverpool,0 -- 2,Everton
+28-02-2021,Sheffield United,0 -- 2,Liverpool
+04-03-2021,Liverpool,0 -- 1,Chelsea
+07-03-2021,Liverpool,0 -- 1,Fulham
+15-03-2021,Wolves,0 -- 1,Liverpool
+03-04-2021,Arsenal,0 -- 3,Liverpool
+10-04-2021,Liverpool,2 -- 1,Aston Villa
+19-04-2021,Leeds,1 -- 1,Liverpool
+24-04-2021,Liverpool,1 -- 1,Newcastle
+08-05-2021,Liverpool,2 -- 0,Southampton
+13-05-2021,Man United,2 -- 4,Liverpool
+16-05-2021,West Brom,1 -- 2,Liverpool
+19-05-2021,Burnley,0 -- 3,Liverpool
+23-05-2021,Liverpool,2 -- 0,Crystal Palace
+21-09-2020,Wolves,1 -- 3,Man City
+27-09-2020,Man City,2 -- 5,Leicester
+03-10-2020,Leeds,1 -- 1,Man City
+17-10-2020,Man City,1 -- 0,Arsenal
+24-10-2020,West Ham,1 -- 1,Man City
+31-10-2020,Sheffield United,0 -- 1,Man City
+08-11-2020,Man City,1 -- 1,Liverpool
+21-11-2020,Tottenham,2 -- 0,Man City
+28-11-2020,Man City,5 -- 0,Burnley
+05-12-2020,Man City,2 -- 0,Fulham
+12-12-2020,Man United,0 -- 0,Man City
+15-12-2020,Man City,1 -- 1,West Brom
+19-12-2020,Southampton,0 -- 1,Man City
+26-12-2020,Man City,2 -- 0,Newcastle
+03-01-2021,Chelsea,1 -- 3,Man City
+13-01-2021,Man City,1 -- 0,Brighton
+17-01-2021,Man City,4 -- 0,Crystal Palace
+20-01-2021,Man City,2 -- 0,Aston Villa
+26-01-2021,West Brom,0 -- 5,Man City
+30-01-2021,Man City,1 -- 0,Sheffield United
+03-02-2021,Burnley,0 -- 2,Man City
+07-02-2021,Liverpool,1 -- 4,Man City
+13-02-2021,Man City,3 -- 0,Tottenham
+17-02-2021,Everton,1 -- 3,Man City
+21-02-2021,Arsenal,0 -- 1,Man City
+27-02-2021,Man City,2 -- 1,West Ham
+02-03-2021,Man City,4 -- 1,Wolves
+07-03-2021,Man City,0 -- 2,Man United
+10-03-2021,Man City,5 -- 2,Southampton
+13-03-2021,Fulham,0 -- 3,Man City
+03-04-2021,Leicester,0 -- 2,Man City
+10-04-2021,Man City,1 -- 2,Leeds
+21-04-2021,Aston Villa,1 -- 2,Man City
+01-05-2021,Crystal Palace,0 -- 2,Man City
+08-05-2021,Man City,1 -- 2,Chelsea
+14-05-2021,Newcastle,3 -- 4,Man City
+18-05-2021,Brighton,3 -- 2,Man City
+23-05-2021,Man City,5 -- 0,Everton
+19-09-2020,Man United,1 -- 3,Crystal Palace
+26-09-2020,Brighton,2 -- 3,Man United
+04-10-2020,Man United,1 -- 6,Tottenham
+17-10-2020,Newcastle,1 -- 4,Man United
+24-10-2020,Man United,0 -- 0,Chelsea
+01-11-2020,Man United,0 -- 1,Arsenal
+07-11-2020,Everton,1 -- 3,Man United
+21-11-2020,Man United,1 -- 0,West Brom
+29-11-2020,Southampton,2 -- 3,Man United
+05-12-2020,West Ham,1 -- 3,Man United
+12-12-2020,Man United,0 -- 0,Man City
+17-12-2020,Sheffield United,2 -- 3,Man United
+20-12-2020,Man United,6 -- 2,Leeds
+26-12-2020,Leicester,2 -- 2,Man United
+29-12-2020,Man United,1 -- 0,Wolves
+01-01-2021,Man United,2 -- 1,Aston Villa
+12-01-2021,Burnley,0 -- 1,Man United
+17-01-2021,Liverpool,0 -- 0,Man United
+20-01-2021,Fulham,1 -- 2,Man United
+27-01-2021,Man United,1 -- 2,Sheffield United
+30-01-2021,Arsenal,0 -- 0,Man United
+02-02-2021,Man United,9 -- 0,Southampton
+06-02-2021,Man United,3 -- 3,Everton
+14-02-2021,West Brom,1 -- 1,Man United
+21-02-2021,Man United,3 -- 1,Newcastle
+28-02-2021,Chelsea,0 -- 0,Man United
+03-03-2021,Crystal Palace,0 -- 0,Man United
+07-03-2021,Man City,0 -- 2,Man United
+14-03-2021,Man United,1 -- 0,West Ham
+04-04-2021,Man United,2 -- 1,Brighton
+11-04-2021,Tottenham,1 -- 3,Man United
+18-04-2021,Man United,3 -- 1,Burnley
+25-04-2021,Leeds,0 -- 0,Man United
+09-05-2021,Aston Villa,1 -- 3,Man United
+11-05-2021,Man United,1 -- 2,Leicester
+13-05-2021,Man United,2 -- 4,Liverpool
+18-05-2021,Man United,1 -- 1,Fulham
+23-05-2021,Wolves,1 -- 2,Man United
+12-09-2020,West Ham,0 -- 2,Newcastle
+20-09-2020,Newcastle,0 -- 3,Brighton
+27-09-2020,Tottenham,1 -- 1,Newcastle
+03-10-2020,Newcastle,3 -- 1,Burnley
+17-10-2020,Newcastle,1 -- 4,Man United
+25-10-2020,Wolves,1 -- 1,Newcastle
+01-11-2020,Newcastle,2 -- 1,Everton
+06-11-2020,Southampton,2 -- 0,Newcastle
+21-11-2020,Newcastle,0 -- 2,Chelsea
+27-11-2020,Crystal Palace,0 -- 2,Newcastle
+12-12-2020,Newcastle,2 -- 1,West Brom
+16-12-2020,Leeds,5 -- 2,Newcastle
+19-12-2020,Newcastle,1 -- 1,Fulham
+26-12-2020,Man City,2 -- 0,Newcastle
+30-12-2020,Newcastle,0 -- 0,Liverpool
+03-01-2021,Newcastle,1 -- 2,Leicester
+12-01-2021,Sheffield United,1 -- 0,Newcastle
+18-01-2021,Arsenal,3 -- 0,Newcastle
+23-01-2021,Aston Villa,2 -- 0,Newcastle
+26-01-2021,Newcastle,1 -- 2,Leeds
+30-01-2021,Everton,0 -- 2,Newcastle
+02-02-2021,Newcastle,1 -- 2,Crystal Palace
+06-02-2021,Newcastle,3 -- 2,Southampton
+15-02-2021,Chelsea,2 -- 0,Newcastle
+21-02-2021,Man United,3 -- 1,Newcastle
+27-02-2021,Newcastle,1 -- 1,Wolves
+07-03-2021,West Brom,0 -- 0,Newcastle
+12-03-2021,Newcastle,1 -- 1,Aston Villa
+20-03-2021,Brighton,3 -- 0,Newcastle
+04-04-2021,Newcastle,2 -- 2,Tottenham
+11-04-2021,Burnley,1 -- 2,Newcastle
+17-04-2021,Newcastle,3 -- 2,West Ham
+24-04-2021,Liverpool,1 -- 1,Newcastle
+02-05-2021,Newcastle,0 -- 2,Arsenal
+07-05-2021,Leicester,2 -- 4,Newcastle
+14-05-2021,Newcastle,3 -- 4,Man City
+19-05-2021,Newcastle,1 -- 0,Sheffield United
+23-05-2021,Fulham,0 -- 2,Newcastle
+14-09-2020,Sheffield United,0 -- 2,Wolves
+21-09-2020,Aston Villa,1 -- 0,Sheffield United
+27-09-2020,Sheffield United,0 -- 1,Leeds
+04-10-2020,Arsenal,2 -- 1,Sheffield United
+18-10-2020,Sheffield United,1 -- 1,Fulham
+24-10-2020,Liverpool,2 -- 1,Sheffield United
+31-10-2020,Sheffield United,0 -- 1,Man City
+07-11-2020,Chelsea,4 -- 1,Sheffield United
+22-11-2020,Sheffield United,0 -- 1,West Ham
+28-11-2020,West Brom,1 -- 0,Sheffield United
+06-12-2020,Sheffield United,1 -- 2,Leicester
+13-12-2020,Southampton,3 -- 0,Sheffield United
+17-12-2020,Sheffield United,2 -- 3,Man United
+20-12-2020,Brighton,1 -- 1,Sheffield United
+26-12-2020,Sheffield United,0 -- 1,Everton
+29-12-2020,Burnley,1 -- 0,Sheffield United
+02-01-2021,Crystal Palace,2 -- 0,Sheffield United
+12-01-2021,Sheffield United,1 -- 0,Newcastle
+17-01-2021,Sheffield United,1 -- 3,Tottenham
+27-01-2021,Man United,1 -- 2,Sheffield United
+30-01-2021,Man City,1 -- 0,Sheffield United
+02-02-2021,Sheffield United,2 -- 1,West Brom
+07-02-2021,Sheffield United,1 -- 2,Chelsea
+15-02-2021,West Ham,3 -- 0,Sheffield United
+20-02-2021,Fulham,1 -- 0,Sheffield United
+28-02-2021,Sheffield United,0 -- 2,Liverpool
+03-03-2021,Sheffield United,1 -- 0,Aston Villa
+06-03-2021,Sheffield United,0 -- 2,Southampton
+14-03-2021,Leicester,5 -- 0,Sheffield United
+03-04-2021,Leeds,2 -- 1,Sheffield United
+11-04-2021,Sheffield United,0 -- 3,Arsenal
+17-04-2021,Wolves,1 -- 0,Sheffield United
+24-04-2021,Sheffield United,1 -- 0,Brighton
+02-05-2021,Tottenham,4 -- 0,Sheffield United
+08-05-2021,Sheffield United,0 -- 2,Crystal Palace
+16-05-2021,Everton,0 -- 1,Sheffield United
+19-05-2021,Newcastle,1 -- 0,Sheffield United
+23-05-2021,Sheffield United,1 -- 0,Burnley
+12-09-2020,Crystal Palace,1 -- 0,Southampton
+20-09-2020,Southampton,2 -- 5,Tottenham
+26-09-2020,Burnley,0 -- 1,Southampton
+04-10-2020,Southampton,2 -- 0,West Brom
+17-10-2020,Chelsea,3 -- 3,Southampton
+25-10-2020,Southampton,2 -- 0,Everton
+01-11-2020,Aston Villa,3 -- 4,Southampton
+06-11-2020,Southampton,2 -- 0,Newcastle
+23-11-2020,Wolves,1 -- 1,Southampton
+29-11-2020,Southampton,2 -- 3,Man United
+07-12-2020,Brighton,1 -- 2,Southampton
+13-12-2020,Southampton,3 -- 0,Sheffield United
+16-12-2020,Arsenal,1 -- 1,Southampton
+19-12-2020,Southampton,0 -- 1,Man City
+26-12-2020,Fulham,0 -- 0,Southampton
+29-12-2020,Southampton,0 -- 0,West Ham
+04-01-2021,Southampton,1 -- 0,Liverpool
+16-01-2021,Leicester,2 -- 0,Southampton
+26-01-2021,Southampton,1 -- 3,Arsenal
+30-01-2021,Southampton,0 -- 1,Aston Villa
+02-02-2021,Man United,9 -- 0,Southampton
+06-02-2021,Newcastle,3 -- 2,Southampton
+14-02-2021,Southampton,1 -- 2,Wolves
+20-02-2021,Southampton,1 -- 1,Chelsea
+23-02-2021,Leeds,3 -- 0,Southampton
+01-03-2021,Everton,1 -- 0,Southampton
+06-03-2021,Sheffield United,0 -- 2,Southampton
+10-03-2021,Man City,5 -- 2,Southampton
+14-03-2021,Southampton,1 -- 2,Brighton
+04-04-2021,Southampton,3 -- 2,Burnley
+12-04-2021,West Brom,3 -- 0,Southampton
+21-04-2021,Tottenham,2 -- 1,Southampton
+30-04-2021,Southampton,1 -- 1,Leicester
+08-05-2021,Liverpool,2 -- 0,Southampton
+11-05-2021,Southampton,3 -- 1,Crystal Palace
+15-05-2021,Southampton,3 -- 1,Fulham
+18-05-2021,Southampton,0 -- 2,Leeds
+23-05-2021,West Ham,3 -- 0,Southampton
+13-09-2020,Tottenham,0 -- 1,Everton
+20-09-2020,Southampton,2 -- 5,Tottenham
+27-09-2020,Tottenham,1 -- 1,Newcastle
+04-10-2020,Man United,1 -- 6,Tottenham
+18-10-2020,Tottenham,3 -- 3,West Ham
+26-10-2020,Burnley,0 -- 1,Tottenham
+01-11-2020,Tottenham,2 -- 1,Brighton
+08-11-2020,West Brom,0 -- 1,Tottenham
+21-11-2020,Tottenham,2 -- 0,Man City
+29-11-2020,Chelsea,0 -- 0,Tottenham
+06-12-2020,Tottenham,2 -- 0,Arsenal
+13-12-2020,Crystal Palace,1 -- 1,Tottenham
+16-12-2020,Liverpool,2 -- 1,Tottenham
+20-12-2020,Tottenham,0 -- 2,Leicester
+27-12-2020,Wolves,1 -- 1,Tottenham
+02-01-2021,Tottenham,3 -- 0,Leeds
+13-01-2021,Tottenham,1 -- 1,Fulham
+17-01-2021,Sheffield United,1 -- 3,Tottenham
+28-01-2021,Tottenham,1 -- 3,Liverpool
+31-01-2021,Brighton,1 -- 0,Tottenham
+04-02-2021,Tottenham,0 -- 1,Chelsea
+07-02-2021,Tottenham,2 -- 0,West Brom
+13-02-2021,Man City,3 -- 0,Tottenham
+21-02-2021,West Ham,2 -- 1,Tottenham
+28-02-2021,Tottenham,4 -- 0,Burnley
+04-03-2021,Fulham,0 -- 1,Tottenham
+07-03-2021,Tottenham,4 -- 1,Crystal Palace
+14-03-2021,Arsenal,2 -- 1,Tottenham
+21-03-2021,Aston Villa,0 -- 2,Tottenham
+04-04-2021,Newcastle,2 -- 2,Tottenham
+11-04-2021,Tottenham,1 -- 3,Man United
+16-04-2021,Everton,2 -- 2,Tottenham
+21-04-2021,Tottenham,2 -- 1,Southampton
+02-05-2021,Tottenham,4 -- 0,Sheffield United
+08-05-2021,Leeds,3 -- 1,Tottenham
+16-05-2021,Tottenham,2 -- 0,Wolves
+19-05-2021,Tottenham,1 -- 2,Aston Villa
+23-05-2021,Leicester,2 -- 4,Tottenham
+13-09-2020,West Brom,0 -- 3,Leicester
+19-09-2020,Everton,5 -- 2,West Brom
+26-09-2020,West Brom,3 -- 3,Chelsea
+04-10-2020,Southampton,2 -- 0,West Brom
+19-10-2020,West Brom,0 -- 0,Burnley
+26-10-2020,Brighton,1 -- 1,West Brom
+02-11-2020,Fulham,2 -- 0,West Brom
+08-11-2020,West Brom,0 -- 1,Tottenham
+21-11-2020,Man United,1 -- 0,West Brom
+28-11-2020,West Brom,1 -- 0,Sheffield United
+06-12-2020,West Brom,1 -- 5,Crystal Palace
+12-12-2020,Newcastle,2 -- 1,West Brom
+15-12-2020,Man City,1 -- 1,West Brom
+20-12-2020,West Brom,0 -- 3,Aston Villa
+27-12-2020,Liverpool,1 -- 1,West Brom
+29-12-2020,West Brom,0 -- 5,Leeds
+02-01-2021,West Brom,0 -- 4,Arsenal
+16-01-2021,Wolves,2 -- 3,West Brom
+19-01-2021,West Ham,2 -- 1,West Brom
+26-01-2021,West Brom,0 -- 5,Man City
+30-01-2021,West Brom,2 -- 2,Fulham
+02-02-2021,Sheffield United,2 -- 1,West Brom
+07-02-2021,Tottenham,2 -- 0,West Brom
+14-02-2021,West Brom,1 -- 1,Man United
+20-02-2021,Burnley,0 -- 0,West Brom
+27-02-2021,West Brom,1 -- 0,Brighton
+04-03-2021,West Brom,0 -- 1,Everton
+07-03-2021,West Brom,0 -- 0,Newcastle
+13-03-2021,Crystal Palace,1 -- 0,West Brom
+03-04-2021,Chelsea,2 -- 5,West Brom
+12-04-2021,West Brom,3 -- 0,Southampton
+22-04-2021,Leicester,3 -- 0,West Brom
+25-04-2021,Aston Villa,2 -- 2,West Brom
+03-05-2021,West Brom,1 -- 1,Wolves
+09-05-2021,Arsenal,3 -- 1,West Brom
+16-05-2021,West Brom,1 -- 2,Liverpool
+19-05-2021,West Brom,1 -- 3,West Ham
+23-05-2021,Leeds,3 -- 1,West Brom
+12-09-2020,West Ham,0 -- 2,Newcastle
+19-09-2020,Arsenal,2 -- 1,West Ham
+27-09-2020,West Ham,4 -- 0,Wolves
+04-10-2020,Leicester,0 -- 3,West Ham
+18-10-2020,Tottenham,3 -- 3,West Ham
+24-10-2020,West Ham,1 -- 1,Man City
+31-10-2020,Liverpool,2 -- 1,West Ham
+07-11-2020,West Ham,1 -- 0,Fulham
+22-11-2020,Sheffield United,0 -- 1,West Ham
+30-11-2020,West Ham,2 -- 1,Aston Villa
+05-12-2020,West Ham,1 -- 3,Man United
+11-12-2020,Leeds,1 -- 2,West Ham
+16-12-2020,West Ham,1 -- 1,Crystal Palace
+21-12-2020,Chelsea,3 -- 0,West Ham
+27-12-2020,West Ham,2 -- 2,Brighton
+29-12-2020,Southampton,0 -- 0,West Ham
+01-01-2021,Everton,0 -- 1,West Ham
+16-01-2021,West Ham,1 -- 0,Burnley
+19-01-2021,West Ham,2 -- 1,West Brom
+26-01-2021,Crystal Palace,2 -- 3,West Ham
+31-01-2021,West Ham,1 -- 3,Liverpool
+03-02-2021,Aston Villa,1 -- 3,West Ham
+06-02-2021,Fulham,0 -- 0,West Ham
+15-02-2021,West Ham,3 -- 0,Sheffield United
+21-02-2021,West Ham,2 -- 1,Tottenham
+27-02-2021,Man City,2 -- 1,West Ham
+08-03-2021,West Ham,2 -- 0,Leeds
+14-03-2021,Man United,1 -- 0,West Ham
+21-03-2021,West Ham,3 -- 3,Arsenal
+05-04-2021,Wolves,2 -- 3,West Ham
+11-04-2021,West Ham,3 -- 2,Leicester
+17-04-2021,Newcastle,3 -- 2,West Ham
+24-04-2021,West Ham,0 -- 1,Chelsea
+03-05-2021,Burnley,1 -- 2,West Ham
+09-05-2021,West Ham,0 -- 1,Everton
+15-05-2021,Brighton,1 -- 1,West Ham
+19-05-2021,West Brom,1 -- 3,West Ham
+23-05-2021,West Ham,3 -- 0,Southampton
+14-09-2020,Sheffield United,0 -- 2,Wolves
+21-09-2020,Wolves,1 -- 3,Man City
+27-09-2020,West Ham,4 -- 0,Wolves
+04-10-2020,Wolves,1 -- 0,Fulham
+19-10-2020,Leeds,0 -- 1,Wolves
+25-10-2020,Wolves,1 -- 1,Newcastle
+30-10-2020,Wolves,2 -- 0,Crystal Palace
+08-11-2020,Leicester,1 -- 0,Wolves
+23-11-2020,Wolves,1 -- 1,Southampton
+29-11-2020,Arsenal,1 -- 2,Wolves
+06-12-2020,Liverpool,4 -- 0,Wolves
+12-12-2020,Wolves,0 -- 1,Aston Villa
+15-12-2020,Wolves,2 -- 1,Chelsea
+21-12-2020,Burnley,2 -- 1,Wolves
+27-12-2020,Wolves,1 -- 1,Tottenham
+29-12-2020,Man United,1 -- 0,Wolves
+02-01-2021,Brighton,3 -- 3,Wolves
+12-01-2021,Wolves,1 -- 2,Everton
+16-01-2021,Wolves,2 -- 3,West Brom
+27-01-2021,Chelsea,0 -- 0,Wolves
+30-01-2021,Crystal Palace,1 -- 0,Wolves
+02-02-2021,Wolves,2 -- 1,Arsenal
+07-02-2021,Wolves,0 -- 0,Leicester
+14-02-2021,Southampton,1 -- 2,Wolves
+19-02-2021,Wolves,1 -- 0,Leeds
+27-02-2021,Newcastle,1 -- 1,Wolves
+02-03-2021,Man City,4 -- 1,Wolves
+06-03-2021,Aston Villa,0 -- 0,Wolves
+15-03-2021,Wolves,0 -- 1,Liverpool
+05-04-2021,Wolves,2 -- 3,West Ham
+09-04-2021,Fulham,0 -- 1,Wolves
+17-04-2021,Wolves,1 -- 0,Sheffield United
+25-04-2021,Wolves,0 -- 4,Burnley
+03-05-2021,West Brom,1 -- 1,Wolves
+09-05-2021,Wolves,2 -- 1,Brighton
+16-05-2021,Tottenham,2 -- 0,Wolves
+19-05-2021,Everton,1 -- 0,Wolves
+23-05-2021,Wolves,1 -- 2,Man United
+14-08-2021,Alaves,1 -- 4,Real Madrid
+21-08-2021,Alaves,0 -- 1,Mallorca
+27-08-2021,Valencia,3 -- 0,Alaves
+18-09-2021,Alaves,0 -- 2,Osasuna
+22-09-2021,Espanol,1 -- 0,Alaves
+25-09-2021,Alaves,1 -- 0,Ath Madrid
+01-10-2021,Ath Bilbao,1 -- 0,Alaves
+18-10-2021,Alaves,0 -- 1,Betis
+23-10-2021,Cadiz,0 -- 2,Alaves
+26-10-2021,Alaves,1 -- 0,Elche
+30-10-2021,Barcelona,1 -- 1,Alaves
+06-11-2021,Alaves,2 -- 1,Levante
+20-11-2021,Sevilla,2 -- 2,Alaves
+27-11-2021,Alaves,1 -- 2,Celta
+03-12-2021,Granada,2 -- 1,Alaves
+11-12-2021,Alaves,1 -- 1,Getafe
+18-12-2021,Vallecano,2 -- 0,Alaves
+21-12-2021,Villarreal,5 -- 2,Alaves
+02-01-2022,Alaves,1 -- 1,Sociedad
+09-01-2022,Alaves,0 -- 0,Ath Bilbao
+18-01-2022,Betis,4 -- 0,Alaves
+23-01-2022,Alaves,0 -- 1,Barcelona
+05-02-2022,Elche,3 -- 1,Alaves
+13-02-2022,Alaves,2 -- 1,Valencia
+19-02-2022,Real Madrid,3 -- 0,Alaves
+26-02-2022,Getafe,2 -- 2,Alaves
+04-03-2022,Alaves,0 -- 0,Sevilla
+13-03-2022,Sociedad,1 -- 0,Alaves
+19-03-2022,Alaves,2 -- 3,Granada
+02-04-2022,Ath Madrid,4 -- 1,Alaves
+10-04-2022,Osasuna,1 -- 0,Alaves
+16-04-2022,Alaves,1 -- 0,Vallecano
+19-04-2022,Mallorca,2 -- 1,Alaves
+30-04-2022,Alaves,2 -- 1,Villarreal
+07-05-2022,Celta,4 -- 0,Alaves
+11-05-2022,Alaves,2 -- 1,Espanol
+15-05-2022,Levante,3 -- 1,Alaves
+22-05-2022,Alaves,0 -- 1,Cadiz
+16-08-2021,Elche,0 -- 0,Ath Bilbao
+21-08-2021,Ath Bilbao,1 -- 1,Barcelona
+28-08-2021,Celta,0 -- 1,Ath Bilbao
+11-09-2021,Ath Bilbao,2 -- 0,Mallorca
+18-09-2021,Ath Madrid,0 -- 0,Ath Bilbao
+21-09-2021,Ath Bilbao,1 -- 2,Vallecano
+25-09-2021,Valencia,1 -- 1,Ath Bilbao
+01-10-2021,Ath Bilbao,1 -- 0,Alaves
+23-10-2021,Ath Bilbao,2 -- 1,Villarreal
+26-10-2021,Espanol,1 -- 1,Ath Bilbao
+31-10-2021,Sociedad,1 -- 1,Ath Bilbao
+05-11-2021,Ath Bilbao,0 -- 1,Cadiz
+19-11-2021,Levante,0 -- 0,Ath Bilbao
+26-11-2021,Ath Bilbao,2 -- 2,Granada
+01-12-2021,Real Madrid,1 -- 0,Ath Bilbao
+06-12-2021,Getafe,0 -- 0,Ath Bilbao
+11-12-2021,Ath Bilbao,0 -- 1,Sevilla
+19-12-2021,Ath Bilbao,3 -- 2,Betis
+22-12-2021,Ath Bilbao,1 -- 2,Real Madrid
+03-01-2022,Osasuna,1 -- 3,Ath Bilbao
+09-01-2022,Alaves,0 -- 0,Ath Bilbao
+23-01-2022,Vallecano,0 -- 1,Ath Bilbao
+07-02-2022,Ath Bilbao,2 -- 1,Espanol
+14-02-2022,Mallorca,3 -- 2,Ath Bilbao
+20-02-2022,Ath Bilbao,4 -- 0,Sociedad
+27-02-2022,Barcelona,4 -- 0,Ath Bilbao
+07-03-2022,Ath Bilbao,3 -- 1,Levante
+13-03-2022,Betis,1 -- 0,Ath Bilbao
+18-03-2022,Ath Bilbao,1 -- 1,Getafe
+03-04-2022,Ath Bilbao,2 -- 1,Elche
+09-04-2022,Villarreal,1 -- 1,Ath Bilbao
+17-04-2022,Ath Bilbao,0 -- 2,Celta
+21-04-2022,Cadiz,2 -- 3,Ath Bilbao
+30-04-2022,Ath Bilbao,2 -- 0,Ath Madrid
+07-05-2022,Ath Bilbao,0 -- 0,Valencia
+10-05-2022,Granada,1 -- 0,Ath Bilbao
+15-05-2022,Ath Bilbao,2 -- 0,Osasuna
+22-05-2022,Sevilla,1 -- 0,Ath Bilbao
+15-08-2021,Celta,1 -- 2,Ath Madrid
+22-08-2021,Ath Madrid,1 -- 0,Elche
+29-08-2021,Ath Madrid,2 -- 2,Villarreal
+12-09-2021,Espanol,1 -- 2,Ath Madrid
+18-09-2021,Ath Madrid,0 -- 0,Ath Bilbao
+21-09-2021,Getafe,1 -- 2,Ath Madrid
+25-09-2021,Alaves,1 -- 0,Ath Madrid
+02-10-2021,Ath Madrid,2 -- 0,Barcelona
+24-10-2021,Ath Madrid,2 -- 2,Sociedad
+28-10-2021,Levante,2 -- 2,Ath Madrid
+31-10-2021,Ath Madrid,3 -- 0,Betis
+07-11-2021,Valencia,3 -- 3,Ath Madrid
+20-11-2021,Ath Madrid,1 -- 0,Osasuna
+28-11-2021,Cadiz,1 -- 4,Ath Madrid
+04-12-2021,Ath Madrid,1 -- 2,Mallorca
+12-12-2021,Real Madrid,2 -- 0,Ath Madrid
+18-12-2021,Sevilla,2 -- 1,Ath Madrid
+22-12-2021,Granada,2 -- 1,Ath Madrid
+02-01-2022,Ath Madrid,2 -- 0,Vallecano
+09-01-2022,Villarreal,2 -- 2,Ath Madrid
+22-01-2022,Ath Madrid,3 -- 2,Valencia
+06-02-2022,Barcelona,4 -- 2,Ath Madrid
+12-02-2022,Ath Madrid,4 -- 3,Getafe
+16-02-2022,Ath Madrid,0 -- 1,Levante
+19-02-2022,Osasuna,0 -- 3,Ath Madrid
+26-02-2022,Ath Madrid,2 -- 0,Celta
+06-03-2022,Betis,1 -- 3,Ath Madrid
+11-03-2022,Ath Madrid,2 -- 1,Cadiz
+19-03-2022,Vallecano,0 -- 1,Ath Madrid
+02-04-2022,Ath Madrid,4 -- 1,Alaves
+09-04-2022,Mallorca,1 -- 0,Ath Madrid
+17-04-2022,Ath Madrid,2 -- 1,Espanol
+20-04-2022,Ath Madrid,0 -- 0,Granada
+30-04-2022,Ath Bilbao,2 -- 0,Ath Madrid
+08-05-2022,Ath Madrid,1 -- 0,Real Madrid
+11-05-2022,Elche,0 -- 2,Ath Madrid
+15-05-2022,Ath Madrid,1 -- 1,Sevilla
+22-05-2022,Sociedad,1 -- 2,Ath Madrid
+15-08-2021,Barcelona,4 -- 2,Sociedad
+21-08-2021,Ath Bilbao,1 -- 1,Barcelona
+29-08-2021,Barcelona,2 -- 1,Getafe
+20-09-2021,Barcelona,1 -- 1,Granada
+23-09-2021,Cadiz,0 -- 0,Barcelona
+26-09-2021,Barcelona,3 -- 0,Levante
+02-10-2021,Ath Madrid,2 -- 0,Barcelona
+17-10-2021,Barcelona,3 -- 1,Valencia
+24-10-2021,Barcelona,1 -- 2,Real Madrid
+27-10-2021,Vallecano,1 -- 0,Barcelona
+30-10-2021,Barcelona,1 -- 1,Alaves
+06-11-2021,Celta,3 -- 3,Barcelona
+20-11-2021,Barcelona,1 -- 0,Espanol
+27-11-2021,Villarreal,1 -- 3,Barcelona
+04-12-2021,Barcelona,0 -- 1,Betis
+12-12-2021,Osasuna,2 -- 2,Barcelona
+18-12-2021,Barcelona,3 -- 2,Elche
+21-12-2021,Sevilla,1 -- 1,Barcelona
+02-01-2022,Mallorca,0 -- 1,Barcelona
+08-01-2022,Granada,1 -- 1,Barcelona
+23-01-2022,Alaves,0 -- 1,Barcelona
+06-02-2022,Barcelona,4 -- 2,Ath Madrid
+13-02-2022,Espanol,2 -- 2,Barcelona
+20-02-2022,Valencia,1 -- 4,Barcelona
+27-02-2022,Barcelona,4 -- 0,Ath Bilbao
+06-03-2022,Elche,1 -- 2,Barcelona
+13-03-2022,Barcelona,4 -- 0,Osasuna
+20-03-2022,Real Madrid,0 -- 4,Barcelona
+03-04-2022,Barcelona,1 -- 0,Sevilla
+10-04-2022,Levante,2 -- 3,Barcelona
+18-04-2022,Barcelona,0 -- 1,Cadiz
+21-04-2022,Sociedad,0 -- 1,Barcelona
+24-04-2022,Barcelona,0 -- 1,Vallecano
+01-05-2022,Barcelona,2 -- 1,Mallorca
+07-05-2022,Betis,1 -- 2,Barcelona
+10-05-2022,Barcelona,3 -- 1,Celta
+15-05-2022,Getafe,0 -- 0,Barcelona
+22-05-2022,Barcelona,0 -- 2,Villarreal
+14-08-2021,Mallorca,1 -- 1,Betis
+20-08-2021,Betis,1 -- 1,Cadiz
+28-08-2021,Betis,0 -- 1,Real Madrid
+13-09-2021,Granada,1 -- 2,Betis
+19-09-2021,Betis,2 -- 2,Espanol
+23-09-2021,Osasuna,1 -- 3,Betis
+26-09-2021,Betis,2 -- 0,Getafe
+03-10-2021,Villarreal,2 -- 0,Betis
+18-10-2021,Alaves,0 -- 1,Betis
+24-10-2021,Betis,3 -- 2,Vallecano
+27-10-2021,Betis,4 -- 1,Valencia
+31-10-2021,Ath Madrid,3 -- 0,Betis
+07-11-2021,Betis,0 -- 2,Sevilla
+21-11-2021,Elche,0 -- 3,Betis
+28-11-2021,Betis,3 -- 1,Levante
+04-12-2021,Barcelona,0 -- 1,Betis
+12-12-2021,Betis,4 -- 0,Sociedad
+19-12-2021,Ath Bilbao,3 -- 2,Betis
+02-01-2022,Betis,0 -- 2,Celta
+09-01-2022,Vallecano,1 -- 1,Betis
+18-01-2022,Betis,4 -- 0,Alaves
+21-01-2022,Espanol,1 -- 4,Betis
+06-02-2022,Betis,0 -- 2,Villarreal
+13-02-2022,Levante,2 -- 4,Betis
+20-02-2022,Betis,2 -- 1,Mallorca
+27-02-2022,Sevilla,2 -- 1,Betis
+06-03-2022,Betis,1 -- 3,Ath Madrid
+13-03-2022,Betis,1 -- 0,Ath Bilbao
+20-03-2022,Celta,0 -- 0,Betis
+03-04-2022,Betis,4 -- 1,Osasuna
+09-04-2022,Cadiz,1 -- 2,Betis
+15-04-2022,Sociedad,0 -- 0,Betis
+19-04-2022,Betis,0 -- 1,Elche
+02-05-2022,Getafe,0 -- 0,Betis
+07-05-2022,Betis,1 -- 2,Barcelona
+10-05-2022,Valencia,0 -- 3,Betis
+15-05-2022,Betis,2 -- 0,Granada
+20-05-2022,Real Madrid,0 -- 0,Betis
+14-08-2021,Cadiz,1 -- 1,Levante
+20-08-2021,Betis,1 -- 1,Cadiz
+29-08-2021,Cadiz,2 -- 3,Osasuna
+12-09-2021,Cadiz,0 -- 2,Sociedad
+17-09-2021,Celta,1 -- 2,Cadiz
+23-09-2021,Cadiz,0 -- 0,Barcelona
+26-09-2021,Vallecano,3 -- 1,Cadiz
+02-10-2021,Cadiz,0 -- 0,Valencia
+18-10-2021,Espanol,2 -- 0,Cadiz
+23-10-2021,Cadiz,0 -- 2,Alaves
+26-10-2021,Villarreal,3 -- 3,Cadiz
+31-10-2021,Cadiz,1 -- 1,Mallorca
+05-11-2021,Ath Bilbao,0 -- 1,Cadiz
+21-11-2021,Getafe,4 -- 0,Cadiz
+28-11-2021,Cadiz,1 -- 4,Ath Madrid
+05-12-2021,Elche,3 -- 1,Cadiz
+13-12-2021,Cadiz,1 -- 1,Granada
+19-12-2021,Real Madrid,0 -- 0,Cadiz
+03-01-2022,Cadiz,0 -- 1,Sevilla
+09-01-2022,Osasuna,2 -- 0,Cadiz
+18-01-2022,Cadiz,2 -- 2,Espanol
+22-01-2022,Levante,0 -- 2,Cadiz
+05-02-2022,Mallorca,2 -- 1,Cadiz
+12-02-2022,Cadiz,0 -- 0,Celta
+19-02-2022,Cadiz,1 -- 1,Getafe
+28-02-2022,Granada,0 -- 0,Cadiz
+06-03-2022,Cadiz,2 -- 0,Vallecano
+11-03-2022,Ath Madrid,2 -- 1,Cadiz
+20-03-2022,Cadiz,1 -- 0,Villarreal
+03-04-2022,Valencia,0 -- 0,Cadiz
+09-04-2022,Cadiz,1 -- 2,Betis
+18-04-2022,Barcelona,0 -- 1,Cadiz
+21-04-2022,Cadiz,2 -- 3,Ath Bilbao
+29-04-2022,Sevilla,1 -- 1,Cadiz
+07-05-2022,Cadiz,3 -- 0,Elche
+12-05-2022,Sociedad,3 -- 0,Cadiz
+15-05-2022,Cadiz,1 -- 1,Real Madrid
+22-05-2022,Alaves,0 -- 1,Cadiz
+15-08-2021,Celta,1 -- 2,Ath Madrid
+23-08-2021,Osasuna,0 -- 0,Celta
+28-08-2021,Celta,0 -- 1,Ath Bilbao
+12-09-2021,Real Madrid,5 -- 2,Celta
+17-09-2021,Celta,1 -- 2,Cadiz
+21-09-2021,Levante,0 -- 2,Celta
+27-09-2021,Celta,1 -- 0,Granada
+03-10-2021,Elche,1 -- 0,Celta
+17-10-2021,Celta,0 -- 1,Sevilla
+25-10-2021,Getafe,0 -- 3,Celta
+28-10-2021,Celta,0 -- 2,Sociedad
+01-11-2021,Vallecano,0 -- 0,Celta
+06-11-2021,Celta,3 -- 3,Barcelona
+20-11-2021,Celta,1 -- 1,Villarreal
+27-11-2021,Alaves,1 -- 2,Celta
+05-12-2021,Celta,1 -- 2,Valencia
+10-12-2021,Mallorca,0 -- 0,Celta
+17-12-2021,Celta,3 -- 1,Espanol
+02-01-2022,Betis,0 -- 2,Celta
+08-01-2022,Sociedad,1 -- 0,Celta
+19-01-2022,Celta,2 -- 0,Osasuna
+22-01-2022,Sevilla,2 -- 2,Celta
+05-02-2022,Celta,2 -- 0,Vallecano
+12-02-2022,Cadiz,0 -- 0,Celta
+21-02-2022,Celta,1 -- 1,Levante
+26-02-2022,Ath Madrid,2 -- 0,Celta
+06-03-2022,Celta,4 -- 3,Mallorca
+12-03-2022,Villarreal,1 -- 0,Celta
+20-03-2022,Celta,0 -- 0,Betis
+02-04-2022,Celta,1 -- 2,Real Madrid
+10-04-2022,Espanol,1 -- 0,Celta
+17-04-2022,Ath Bilbao,0 -- 2,Celta
+20-04-2022,Celta,0 -- 2,Getafe
+01-05-2022,Granada,1 -- 1,Celta
+07-05-2022,Celta,4 -- 0,Alaves
+10-05-2022,Barcelona,3 -- 1,Celta
+15-05-2022,Celta,1 -- 0,Elche
+21-05-2022,Valencia,2 -- 0,Celta
+16-08-2021,Elche,0 -- 0,Ath Bilbao
+22-08-2021,Ath Madrid,1 -- 0,Elche
+28-08-2021,Elche,1 -- 1,Sevilla
+13-09-2021,Getafe,0 -- 1,Elche
+18-09-2021,Elche,1 -- 1,Levante
+22-09-2021,Villarreal,4 -- 1,Elche
+26-09-2021,Sociedad,1 -- 0,Elche
+03-10-2021,Elche,1 -- 0,Celta
+17-10-2021,Vallecano,2 -- 1,Elche
+23-10-2021,Elche,2 -- 2,Espanol
+26-10-2021,Alaves,1 -- 0,Elche
+30-10-2021,Elche,1 -- 2,Real Madrid
+07-11-2021,Mallorca,2 -- 2,Elche
+21-11-2021,Elche,0 -- 3,Betis
+29-11-2021,Osasuna,1 -- 1,Elche
+05-12-2021,Elche,3 -- 1,Cadiz
+11-12-2021,Valencia,2 -- 1,Elche
+18-12-2021,Barcelona,3 -- 2,Elche
+02-01-2022,Elche,0 -- 0,Granada
+10-01-2022,Espanol,1 -- 2,Elche
+16-01-2022,Elche,1 -- 0,Villarreal
+23-01-2022,Real Madrid,2 -- 2,Elche
+05-02-2022,Elche,3 -- 1,Alaves
+11-02-2022,Sevilla,2 -- 0,Elche
+18-02-2022,Elche,2 -- 1,Vallecano
+25-02-2022,Levante,3 -- 0,Elche
+06-03-2022,Elche,1 -- 2,Barcelona
+12-03-2022,Granada,0 -- 1,Elche
+19-03-2022,Elche,0 -- 1,Valencia
+03-04-2022,Ath Bilbao,2 -- 1,Elche
+10-04-2022,Elche,1 -- 2,Sociedad
+16-04-2022,Elche,3 -- 0,Mallorca
+19-04-2022,Betis,0 -- 1,Elche
+01-05-2022,Elche,1 -- 1,Osasuna
+07-05-2022,Cadiz,3 -- 0,Elche
+11-05-2022,Elche,0 -- 2,Ath Madrid
+15-05-2022,Celta,1 -- 0,Elche
+22-05-2022,Elche,3 -- 1,Getafe
+14-08-2021,Osasuna,0 -- 0,Espanol
+21-08-2021,Espanol,0 -- 0,Villarreal
+27-08-2021,Mallorca,1 -- 0,Espanol
+12-09-2021,Espanol,1 -- 2,Ath Madrid
+19-09-2021,Betis,2 -- 2,Espanol
+22-09-2021,Espanol,1 -- 0,Alaves
+25-09-2021,Sevilla,2 -- 0,Espanol
+03-10-2021,Espanol,2 -- 1,Real Madrid
+18-10-2021,Espanol,2 -- 0,Cadiz
+23-10-2021,Elche,2 -- 2,Espanol
+26-10-2021,Espanol,1 -- 1,Ath Bilbao
+31-10-2021,Getafe,2 -- 1,Espanol
+06-11-2021,Espanol,2 -- 0,Granada
+20-11-2021,Barcelona,1 -- 0,Espanol
+28-11-2021,Espanol,1 -- 0,Sociedad
+05-12-2021,Vallecano,1 -- 0,Espanol
+11-12-2021,Espanol,4 -- 3,Levante
+17-12-2021,Celta,3 -- 1,Espanol
+31-12-2021,Valencia,1 -- 2,Espanol
+10-01-2022,Espanol,1 -- 2,Elche
+18-01-2022,Cadiz,2 -- 2,Espanol
+21-01-2022,Espanol,1 -- 4,Betis
+07-02-2022,Ath Bilbao,2 -- 1,Espanol
+13-02-2022,Espanol,2 -- 2,Barcelona
+20-02-2022,Espanol,1 -- 1,Sevilla
+27-02-2022,Villarreal,5 -- 1,Espanol
+05-03-2022,Espanol,2 -- 0,Getafe
+12-03-2022,Levante,1 -- 1,Espanol
+20-03-2022,Espanol,1 -- 0,Mallorca
+04-04-2022,Sociedad,1 -- 0,Espanol
+10-04-2022,Espanol,1 -- 0,Celta
+17-04-2022,Ath Madrid,2 -- 1,Espanol
+21-04-2022,Espanol,0 -- 1,Vallecano
+30-04-2022,Real Madrid,4 -- 0,Espanol
+08-05-2022,Espanol,1 -- 1,Osasuna
+11-05-2022,Alaves,2 -- 1,Espanol
+14-05-2022,Espanol,1 -- 1,Valencia
+22-05-2022,Granada,0 -- 0,Espanol
+13-08-2021,Valencia,1 -- 0,Getafe
+23-08-2021,Getafe,0 -- 1,Sevilla
+29-08-2021,Barcelona,2 -- 1,Getafe
+13-09-2021,Getafe,0 -- 1,Elche
+18-09-2021,Vallecano,3 -- 0,Getafe
+21-09-2021,Getafe,1 -- 2,Ath Madrid
+26-09-2021,Betis,2 -- 0,Getafe
+03-10-2021,Getafe,1 -- 1,Sociedad
+16-10-2021,Levante,0 -- 0,Getafe
+25-10-2021,Getafe,0 -- 3,Celta
+28-10-2021,Granada,1 -- 1,Getafe
+31-10-2021,Getafe,2 -- 1,Espanol
+07-11-2021,Villarreal,1 -- 0,Getafe
+21-11-2021,Getafe,4 -- 0,Cadiz
+27-11-2021,Mallorca,0 -- 0,Getafe
+06-12-2021,Getafe,0 -- 0,Ath Bilbao
+11-12-2021,Alaves,1 -- 1,Getafe
+19-12-2021,Getafe,1 -- 0,Osasuna
+02-01-2022,Getafe,1 -- 0,Real Madrid
+09-01-2022,Sevilla,1 -- 0,Getafe
+20-01-2022,Getafe,4 -- 2,Granada
+23-01-2022,Sociedad,0 -- 0,Getafe
+04-02-2022,Getafe,3 -- 0,Levante
+12-02-2022,Ath Madrid,4 -- 3,Getafe
+19-02-2022,Cadiz,1 -- 1,Getafe
+26-02-2022,Getafe,2 -- 2,Alaves
+05-03-2022,Espanol,2 -- 0,Getafe
+12-03-2022,Getafe,0 -- 0,Valencia
+18-03-2022,Ath Bilbao,1 -- 1,Getafe
+02-04-2022,Getafe,1 -- 0,Mallorca
+09-04-2022,Real Madrid,2 -- 0,Getafe
+16-04-2022,Getafe,1 -- 2,Villarreal
+20-04-2022,Celta,0 -- 2,Getafe
+02-05-2022,Getafe,0 -- 0,Betis
+08-05-2022,Getafe,0 -- 0,Vallecano
+11-05-2022,Osasuna,1 -- 1,Getafe
+15-05-2022,Getafe,0 -- 0,Barcelona
+22-05-2022,Elche,3 -- 1,Getafe
+16-08-2021,Villarreal,0 -- 0,Granada
+21-08-2021,Granada,1 -- 1,Valencia
+29-08-2021,Vallecano,4 -- 0,Granada
+13-09-2021,Granada,1 -- 2,Betis
+20-09-2021,Barcelona,1 -- 1,Granada
+23-09-2021,Granada,2 -- 3,Sociedad
+27-09-2021,Celta,1 -- 0,Granada
+03-10-2021,Granada,1 -- 0,Sevilla
+22-10-2021,Osasuna,1 -- 1,Granada
+28-10-2021,Granada,1 -- 1,Getafe
+01-11-2021,Levante,0 -- 3,Granada
+06-11-2021,Espanol,2 -- 0,Granada
+21-11-2021,Granada,1 -- 4,Real Madrid
+26-11-2021,Ath Bilbao,2 -- 2,Granada
+03-12-2021,Granada,2 -- 1,Alaves
+13-12-2021,Cadiz,1 -- 1,Granada
+19-12-2021,Granada,4 -- 1,Mallorca
+22-12-2021,Granada,2 -- 1,Ath Madrid
+02-01-2022,Elche,0 -- 0,Granada
+08-01-2022,Granada,1 -- 1,Barcelona
+20-01-2022,Getafe,4 -- 2,Granada
+23-01-2022,Granada,0 -- 2,Osasuna
+06-02-2022,Real Madrid,1 -- 0,Granada
+13-02-2022,Sociedad,2 -- 0,Granada
+19-02-2022,Granada,1 -- 4,Villarreal
+28-02-2022,Granada,0 -- 0,Cadiz
+05-03-2022,Valencia,3 -- 1,Granada
+12-03-2022,Granada,0 -- 1,Elche
+19-03-2022,Alaves,2 -- 3,Granada
+03-04-2022,Granada,2 -- 2,Vallecano
+08-04-2022,Sevilla,4 -- 2,Granada
+17-04-2022,Granada,1 -- 4,Levante
+20-04-2022,Ath Madrid,0 -- 0,Granada
+01-05-2022,Granada,1 -- 1,Celta
+07-05-2022,Mallorca,2 -- 6,Granada
+10-05-2022,Granada,1 -- 0,Ath Bilbao
+15-05-2022,Betis,2 -- 0,Granada
+22-05-2022,Granada,0 -- 0,Espanol
+14-08-2021,Cadiz,1 -- 1,Levante
+22-08-2021,Levante,3 -- 3,Real Madrid
+28-08-2021,Sociedad,1 -- 0,Levante
+11-09-2021,Levante,1 -- 1,Vallecano
+18-09-2021,Elche,1 -- 1,Levante
+21-09-2021,Levante,0 -- 2,Celta
+26-09-2021,Barcelona,3 -- 0,Levante
+02-10-2021,Mallorca,1 -- 0,Levante
+16-10-2021,Levante,0 -- 0,Getafe
+24-10-2021,Sevilla,5 -- 3,Levante
+28-10-2021,Levante,2 -- 2,Ath Madrid
+01-11-2021,Levante,0 -- 3,Granada
+06-11-2021,Alaves,2 -- 1,Levante
+19-11-2021,Levante,0 -- 0,Ath Bilbao
+28-11-2021,Betis,3 -- 1,Levante
+05-12-2021,Levante,0 -- 0,Osasuna
+11-12-2021,Espanol,4 -- 3,Levante
+20-12-2021,Levante,3 -- 4,Valencia
+03-01-2022,Villarreal,5 -- 0,Levante
+08-01-2022,Levante,2 -- 0,Mallorca
+22-01-2022,Levante,0 -- 2,Cadiz
+04-02-2022,Getafe,3 -- 0,Levante
+13-02-2022,Levante,2 -- 4,Betis
+16-02-2022,Ath Madrid,0 -- 1,Levante
+21-02-2022,Celta,1 -- 1,Levante
+25-02-2022,Levante,3 -- 0,Elche
+07-03-2022,Ath Bilbao,3 -- 1,Levante
+12-03-2022,Levante,1 -- 1,Espanol
+19-03-2022,Osasuna,3 -- 1,Levante
+02-04-2022,Levante,2 -- 0,Villarreal
+10-04-2022,Levante,2 -- 3,Barcelona
+17-04-2022,Granada,1 -- 4,Levante
+21-04-2022,Levante,2 -- 3,Sevilla
+30-04-2022,Valencia,1 -- 1,Levante
+06-05-2022,Levante,2 -- 1,Sociedad
+12-05-2022,Real Madrid,6 -- 0,Levante
+15-05-2022,Levante,3 -- 1,Alaves
+20-05-2022,Vallecano,2 -- 4,Levante
+14-08-2021,Mallorca,1 -- 1,Betis
+21-08-2021,Alaves,0 -- 1,Mallorca
+27-08-2021,Mallorca,1 -- 0,Espanol
+11-09-2021,Ath Bilbao,2 -- 0,Mallorca
+19-09-2021,Mallorca,0 -- 0,Villarreal
+22-09-2021,Real Madrid,6 -- 1,Mallorca
+26-09-2021,Mallorca,2 -- 3,Osasuna
+02-10-2021,Mallorca,1 -- 0,Levante
+16-10-2021,Sociedad,1 -- 0,Mallorca
+23-10-2021,Valencia,2 -- 2,Mallorca
+27-10-2021,Mallorca,1 -- 1,Sevilla
+31-10-2021,Cadiz,1 -- 1,Mallorca
+07-11-2021,Mallorca,2 -- 2,Elche
+22-11-2021,Vallecano,3 -- 1,Mallorca
+27-11-2021,Mallorca,0 -- 0,Getafe
+04-12-2021,Ath Madrid,1 -- 2,Mallorca
+10-12-2021,Mallorca,0 -- 0,Celta
+19-12-2021,Granada,4 -- 1,Mallorca
+02-01-2022,Mallorca,0 -- 1,Barcelona
+08-01-2022,Levante,2 -- 0,Mallorca
+22-01-2022,Villarreal,3 -- 0,Mallorca
+05-02-2022,Mallorca,2 -- 1,Cadiz
+14-02-2022,Mallorca,3 -- 2,Ath Bilbao
+20-02-2022,Betis,2 -- 1,Mallorca
+26-02-2022,Mallorca,0 -- 1,Valencia
+02-03-2022,Mallorca,0 -- 2,Sociedad
+06-03-2022,Celta,4 -- 3,Mallorca
+14-03-2022,Mallorca,0 -- 3,Real Madrid
+20-03-2022,Espanol,1 -- 0,Mallorca
+02-04-2022,Getafe,1 -- 0,Mallorca
+09-04-2022,Mallorca,1 -- 0,Ath Madrid
+16-04-2022,Elche,3 -- 0,Mallorca
+19-04-2022,Mallorca,2 -- 1,Alaves
+01-05-2022,Barcelona,2 -- 1,Mallorca
+07-05-2022,Mallorca,2 -- 6,Granada
+11-05-2022,Sevilla,0 -- 0,Mallorca
+15-05-2022,Mallorca,2 -- 1,Vallecano
+22-05-2022,Osasuna,0 -- 2,Mallorca
+14-08-2021,Osasuna,0 -- 0,Espanol
+23-08-2021,Osasuna,0 -- 0,Celta
+29-08-2021,Cadiz,2 -- 3,Osasuna
+12-09-2021,Osasuna,1 -- 4,Valencia
+18-09-2021,Alaves,0 -- 2,Osasuna
+23-09-2021,Osasuna,1 -- 3,Betis
+26-09-2021,Mallorca,2 -- 3,Osasuna
+02-10-2021,Osasuna,1 -- 0,Vallecano
+17-10-2021,Villarreal,1 -- 2,Osasuna
+22-10-2021,Osasuna,1 -- 1,Granada
+27-10-2021,Real Madrid,0 -- 0,Osasuna
+30-10-2021,Sevilla,2 -- 0,Osasuna
+07-11-2021,Osasuna,0 -- 2,Sociedad
+20-11-2021,Ath Madrid,1 -- 0,Osasuna
+29-11-2021,Osasuna,1 -- 1,Elche
+05-12-2021,Levante,0 -- 0,Osasuna
+12-12-2021,Osasuna,2 -- 2,Barcelona
+19-12-2021,Getafe,1 -- 0,Osasuna
+03-01-2022,Osasuna,1 -- 3,Ath Bilbao
+09-01-2022,Osasuna,2 -- 0,Cadiz
+19-01-2022,Celta,2 -- 0,Osasuna
+23-01-2022,Granada,0 -- 2,Osasuna
+05-02-2022,Osasuna,0 -- 0,Sevilla
+12-02-2022,Vallecano,0 -- 3,Osasuna
+19-02-2022,Osasuna,0 -- 3,Ath Madrid
+27-02-2022,Sociedad,1 -- 0,Osasuna
+05-03-2022,Osasuna,1 -- 0,Villarreal
+13-03-2022,Barcelona,4 -- 0,Osasuna
+19-03-2022,Osasuna,3 -- 1,Levante
+03-04-2022,Betis,4 -- 1,Osasuna
+10-04-2022,Osasuna,1 -- 0,Alaves
+16-04-2022,Valencia,1 -- 2,Osasuna
+20-04-2022,Osasuna,1 -- 3,Real Madrid
+01-05-2022,Elche,1 -- 1,Osasuna
+08-05-2022,Espanol,1 -- 1,Osasuna
+11-05-2022,Osasuna,1 -- 1,Getafe
+15-05-2022,Ath Bilbao,2 -- 0,Osasuna
+22-05-2022,Osasuna,0 -- 2,Mallorca
+14-08-2021,Alaves,1 -- 4,Real Madrid
+22-08-2021,Levante,3 -- 3,Real Madrid
+28-08-2021,Betis,0 -- 1,Real Madrid
+12-09-2021,Real Madrid,5 -- 2,Celta
+19-09-2021,Valencia,1 -- 2,Real Madrid
+22-09-2021,Real Madrid,6 -- 1,Mallorca
+25-09-2021,Real Madrid,0 -- 0,Villarreal
+03-10-2021,Espanol,2 -- 1,Real Madrid
+24-10-2021,Barcelona,1 -- 2,Real Madrid
+27-10-2021,Real Madrid,0 -- 0,Osasuna
+30-10-2021,Elche,1 -- 2,Real Madrid
+06-11-2021,Real Madrid,2 -- 1,Vallecano
+21-11-2021,Granada,1 -- 4,Real Madrid
+28-11-2021,Real Madrid,2 -- 1,Sevilla
+01-12-2021,Real Madrid,1 -- 0,Ath Bilbao
+04-12-2021,Sociedad,0 -- 2,Real Madrid
+12-12-2021,Real Madrid,2 -- 0,Ath Madrid
+19-12-2021,Real Madrid,0 -- 0,Cadiz
+22-12-2021,Ath Bilbao,1 -- 2,Real Madrid
+02-01-2022,Getafe,1 -- 0,Real Madrid
+08-01-2022,Real Madrid,4 -- 1,Valencia
+23-01-2022,Real Madrid,2 -- 2,Elche
+06-02-2022,Real Madrid,1 -- 0,Granada
+12-02-2022,Villarreal,0 -- 0,Real Madrid
+19-02-2022,Real Madrid,3 -- 0,Alaves
+26-02-2022,Vallecano,0 -- 1,Real Madrid
+05-03-2022,Real Madrid,4 -- 1,Sociedad
+14-03-2022,Mallorca,0 -- 3,Real Madrid
+20-03-2022,Real Madrid,0 -- 4,Barcelona
+02-04-2022,Celta,1 -- 2,Real Madrid
+09-04-2022,Real Madrid,2 -- 0,Getafe
+17-04-2022,Sevilla,2 -- 3,Real Madrid
+20-04-2022,Osasuna,1 -- 3,Real Madrid
+30-04-2022,Real Madrid,4 -- 0,Espanol
+08-05-2022,Ath Madrid,1 -- 0,Real Madrid
+12-05-2022,Real Madrid,6 -- 0,Levante
+15-05-2022,Cadiz,1 -- 1,Real Madrid
+20-05-2022,Real Madrid,0 -- 0,Betis
+15-08-2021,Sevilla,3 -- 0,Vallecano
+23-08-2021,Getafe,0 -- 1,Sevilla
+28-08-2021,Elche,1 -- 1,Sevilla
+19-09-2021,Sociedad,0 -- 0,Sevilla
+22-09-2021,Sevilla,3 -- 1,Valencia
+25-09-2021,Sevilla,2 -- 0,Espanol
+03-10-2021,Granada,1 -- 0,Sevilla
+17-10-2021,Celta,0 -- 1,Sevilla
+24-10-2021,Sevilla,5 -- 3,Levante
+27-10-2021,Mallorca,1 -- 1,Sevilla
+30-10-2021,Sevilla,2 -- 0,Osasuna
+07-11-2021,Betis,0 -- 2,Sevilla
+20-11-2021,Sevilla,2 -- 2,Alaves
+28-11-2021,Real Madrid,2 -- 1,Sevilla
+04-12-2021,Sevilla,1 -- 0,Villarreal
+11-12-2021,Ath Bilbao,0 -- 1,Sevilla
+18-12-2021,Sevilla,2 -- 1,Ath Madrid
+21-12-2021,Sevilla,1 -- 1,Barcelona
+03-01-2022,Cadiz,0 -- 1,Sevilla
+09-01-2022,Sevilla,1 -- 0,Getafe
+19-01-2022,Valencia,1 -- 1,Sevilla
+22-01-2022,Sevilla,2 -- 2,Celta
+05-02-2022,Osasuna,0 -- 0,Sevilla
+11-02-2022,Sevilla,2 -- 0,Elche
+20-02-2022,Espanol,1 -- 1,Sevilla
+27-02-2022,Sevilla,2 -- 1,Betis
+04-03-2022,Alaves,0 -- 0,Sevilla
+13-03-2022,Vallecano,1 -- 1,Sevilla
+20-03-2022,Sevilla,0 -- 0,Sociedad
+03-04-2022,Barcelona,1 -- 0,Sevilla
+08-04-2022,Sevilla,4 -- 2,Granada
+17-04-2022,Sevilla,2 -- 3,Real Madrid
+21-04-2022,Levante,2 -- 3,Sevilla
+29-04-2022,Sevilla,1 -- 1,Cadiz
+08-05-2022,Villarreal,1 -- 1,Sevilla
+11-05-2022,Sevilla,0 -- 0,Mallorca
+15-05-2022,Ath Madrid,1 -- 1,Sevilla
+22-05-2022,Sevilla,1 -- 0,Ath Bilbao
+15-08-2021,Barcelona,4 -- 2,Sociedad
+22-08-2021,Sociedad,1 -- 0,Vallecano
+28-08-2021,Sociedad,1 -- 0,Levante
+12-09-2021,Cadiz,0 -- 2,Sociedad
+19-09-2021,Sociedad,0 -- 0,Sevilla
+23-09-2021,Granada,2 -- 3,Sociedad
+26-09-2021,Sociedad,1 -- 0,Elche
+03-10-2021,Getafe,1 -- 1,Sociedad
+16-10-2021,Sociedad,1 -- 0,Mallorca
+24-10-2021,Ath Madrid,2 -- 2,Sociedad
+28-10-2021,Celta,0 -- 2,Sociedad
+31-10-2021,Sociedad,1 -- 1,Ath Bilbao
+07-11-2021,Osasuna,0 -- 2,Sociedad
+21-11-2021,Sociedad,0 -- 0,Valencia
+28-11-2021,Espanol,1 -- 0,Sociedad
+04-12-2021,Sociedad,0 -- 2,Real Madrid
+12-12-2021,Betis,4 -- 0,Sociedad
+18-12-2021,Sociedad,1 -- 3,Villarreal
+02-01-2022,Alaves,1 -- 1,Sociedad
+08-01-2022,Sociedad,1 -- 0,Celta
+23-01-2022,Sociedad,0 -- 0,Getafe
+06-02-2022,Valencia,0 -- 0,Sociedad
+13-02-2022,Sociedad,2 -- 0,Granada
+20-02-2022,Ath Bilbao,4 -- 0,Sociedad
+27-02-2022,Sociedad,1 -- 0,Osasuna
+02-03-2022,Mallorca,0 -- 2,Sociedad
+05-03-2022,Real Madrid,4 -- 1,Sociedad
+13-03-2022,Sociedad,1 -- 0,Alaves
+20-03-2022,Sevilla,0 -- 0,Sociedad
+04-04-2022,Sociedad,1 -- 0,Espanol
+10-04-2022,Elche,1 -- 2,Sociedad
+15-04-2022,Sociedad,0 -- 0,Betis
+21-04-2022,Sociedad,0 -- 1,Barcelona
+01-05-2022,Vallecano,1 -- 1,Sociedad
+06-05-2022,Levante,2 -- 1,Sociedad
+12-05-2022,Sociedad,3 -- 0,Cadiz
+15-05-2022,Villarreal,1 -- 2,Sociedad
+22-05-2022,Sociedad,1 -- 2,Ath Madrid
+13-08-2021,Valencia,1 -- 0,Getafe
+21-08-2021,Granada,1 -- 1,Valencia
+27-08-2021,Valencia,3 -- 0,Alaves
+12-09-2021,Osasuna,1 -- 4,Valencia
+19-09-2021,Valencia,1 -- 2,Real Madrid
+22-09-2021,Sevilla,3 -- 1,Valencia
+25-09-2021,Valencia,1 -- 1,Ath Bilbao
+02-10-2021,Cadiz,0 -- 0,Valencia
+17-10-2021,Barcelona,3 -- 1,Valencia
+23-10-2021,Valencia,2 -- 2,Mallorca
+27-10-2021,Betis,4 -- 1,Valencia
+30-10-2021,Valencia,2 -- 0,Villarreal
+07-11-2021,Valencia,3 -- 3,Ath Madrid
+21-11-2021,Sociedad,0 -- 0,Valencia
+27-11-2021,Valencia,1 -- 1,Vallecano
+05-12-2021,Celta,1 -- 2,Valencia
+11-12-2021,Valencia,2 -- 1,Elche
+20-12-2021,Levante,3 -- 4,Valencia
+31-12-2021,Valencia,1 -- 2,Espanol
+08-01-2022,Real Madrid,4 -- 1,Valencia
+19-01-2022,Valencia,1 -- 1,Sevilla
+22-01-2022,Ath Madrid,3 -- 2,Valencia
+06-02-2022,Valencia,0 -- 0,Sociedad
+13-02-2022,Alaves,2 -- 1,Valencia
+20-02-2022,Valencia,1 -- 4,Barcelona
+26-02-2022,Mallorca,0 -- 1,Valencia
+05-03-2022,Valencia,3 -- 1,Granada
+12-03-2022,Getafe,0 -- 0,Valencia
+19-03-2022,Elche,0 -- 1,Valencia
+03-04-2022,Valencia,0 -- 0,Cadiz
+11-04-2022,Vallecano,1 -- 1,Valencia
+16-04-2022,Valencia,1 -- 2,Osasuna
+19-04-2022,Villarreal,2 -- 0,Valencia
+30-04-2022,Valencia,1 -- 1,Levante
+07-05-2022,Ath Bilbao,0 -- 0,Valencia
+10-05-2022,Valencia,0 -- 3,Betis
+14-05-2022,Espanol,1 -- 1,Valencia
+21-05-2022,Valencia,2 -- 0,Celta
+15-08-2021,Sevilla,3 -- 0,Vallecano
+22-08-2021,Sociedad,1 -- 0,Vallecano
+29-08-2021,Vallecano,4 -- 0,Granada
+11-09-2021,Levante,1 -- 1,Vallecano
+18-09-2021,Vallecano,3 -- 0,Getafe
+21-09-2021,Ath Bilbao,1 -- 2,Vallecano
+26-09-2021,Vallecano,3 -- 1,Cadiz
+02-10-2021,Osasuna,1 -- 0,Vallecano
+17-10-2021,Vallecano,2 -- 1,Elche
+24-10-2021,Betis,3 -- 2,Vallecano
+27-10-2021,Vallecano,1 -- 0,Barcelona
+01-11-2021,Vallecano,0 -- 0,Celta
+06-11-2021,Real Madrid,2 -- 1,Vallecano
+22-11-2021,Vallecano,3 -- 1,Mallorca
+27-11-2021,Valencia,1 -- 1,Vallecano
+05-12-2021,Vallecano,1 -- 0,Espanol
+12-12-2021,Villarreal,2 -- 0,Vallecano
+18-12-2021,Vallecano,2 -- 0,Alaves
+02-01-2022,Ath Madrid,2 -- 0,Vallecano
+09-01-2022,Vallecano,1 -- 1,Betis
+23-01-2022,Vallecano,0 -- 1,Ath Bilbao
+05-02-2022,Celta,2 -- 0,Vallecano
+12-02-2022,Vallecano,0 -- 3,Osasuna
+18-02-2022,Elche,2 -- 1,Vallecano
+26-02-2022,Vallecano,0 -- 1,Real Madrid
+06-03-2022,Cadiz,2 -- 0,Vallecano
+13-03-2022,Vallecano,1 -- 1,Sevilla
+19-03-2022,Vallecano,0 -- 1,Ath Madrid
+03-04-2022,Granada,2 -- 2,Vallecano
+11-04-2022,Vallecano,1 -- 1,Valencia
+16-04-2022,Alaves,1 -- 0,Vallecano
+21-04-2022,Espanol,0 -- 1,Vallecano
+24-04-2022,Barcelona,0 -- 1,Vallecano
+01-05-2022,Vallecano,1 -- 1,Sociedad
+08-05-2022,Getafe,0 -- 0,Vallecano
+12-05-2022,Vallecano,1 -- 5,Villarreal
+15-05-2022,Mallorca,2 -- 1,Vallecano
+20-05-2022,Vallecano,2 -- 4,Levante
+16-08-2021,Villarreal,0 -- 0,Granada
+21-08-2021,Espanol,0 -- 0,Villarreal
+29-08-2021,Ath Madrid,2 -- 2,Villarreal
+19-09-2021,Mallorca,0 -- 0,Villarreal
+22-09-2021,Villarreal,4 -- 1,Elche
+25-09-2021,Real Madrid,0 -- 0,Villarreal
+03-10-2021,Villarreal,2 -- 0,Betis
+17-10-2021,Villarreal,1 -- 2,Osasuna
+23-10-2021,Ath Bilbao,2 -- 1,Villarreal
+26-10-2021,Villarreal,3 -- 3,Cadiz
+30-10-2021,Valencia,2 -- 0,Villarreal
+07-11-2021,Villarreal,1 -- 0,Getafe
+20-11-2021,Celta,1 -- 1,Villarreal
+27-11-2021,Villarreal,1 -- 3,Barcelona
+04-12-2021,Sevilla,1 -- 0,Villarreal
+12-12-2021,Villarreal,2 -- 0,Vallecano
+18-12-2021,Sociedad,1 -- 3,Villarreal
+21-12-2021,Villarreal,5 -- 2,Alaves
+03-01-2022,Villarreal,5 -- 0,Levante
+09-01-2022,Villarreal,2 -- 2,Ath Madrid
+16-01-2022,Elche,1 -- 0,Villarreal
+22-01-2022,Villarreal,3 -- 0,Mallorca
+06-02-2022,Betis,0 -- 2,Villarreal
+12-02-2022,Villarreal,0 -- 0,Real Madrid
+19-02-2022,Granada,1 -- 4,Villarreal
+27-02-2022,Villarreal,5 -- 1,Espanol
+05-03-2022,Osasuna,1 -- 0,Villarreal
+12-03-2022,Villarreal,1 -- 0,Celta
+20-03-2022,Cadiz,1 -- 0,Villarreal
+02-04-2022,Levante,2 -- 0,Villarreal
+09-04-2022,Villarreal,1 -- 1,Ath Bilbao
+16-04-2022,Getafe,1 -- 2,Villarreal
+19-04-2022,Villarreal,2 -- 0,Valencia
+30-04-2022,Alaves,2 -- 1,Villarreal
+08-05-2022,Villarreal,1 -- 1,Sevilla
+12-05-2022,Vallecano,1 -- 5,Villarreal
+15-05-2022,Villarreal,1 -- 2,Sociedad
+22-05-2022,Barcelona,0 -- 2,Villarreal
+13-09-2020,Alaves,0 -- 1,Betis
+20-09-2020,Granada,2 -- 1,Alaves
+26-09-2020,Alaves,0 -- 0,Getafe
+30-09-2020,Villarreal,3 -- 1,Alaves
+04-10-2020,Alaves,1 -- 0,Ath Bilbao
+18-10-2020,Alaves,0 -- 2,Elche
+25-10-2020,Valladolid,0 -- 2,Alaves
+31-10-2020,Alaves,1 -- 1,Barcelona
+08-11-2020,Levante,1 -- 1,Alaves
+22-11-2020,Alaves,2 -- 2,Valencia
+28-11-2020,Real Madrid,1 -- 2,Alaves
+06-12-2020,Alaves,0 -- 0,Sociedad
+12-12-2020,Huesca,1 -- 0,Alaves
+20-12-2020,Celta,2 -- 0,Alaves
+23-12-2020,Alaves,2 -- 1,Eibar
+31-12-2020,Osasuna,1 -- 1,Alaves
+03-01-2021,Alaves,1 -- 2,Ath Madrid
+10-01-2021,Cadiz,3 -- 1,Alaves
+19-01-2021,Alaves,1 -- 2,Sevilla
+23-01-2021,Alaves,1 -- 4,Real Madrid
+31-01-2021,Getafe,0 -- 0,Alaves
+05-02-2021,Alaves,1 -- 0,Valladolid
+13-02-2021,Barcelona,5 -- 1,Alaves
+21-02-2021,Sociedad,4 -- 0,Alaves
+27-02-2021,Alaves,0 -- 1,Osasuna
+08-03-2021,Betis,3 -- 2,Alaves
+13-03-2021,Alaves,1 -- 1,Cadiz
+21-03-2021,Ath Madrid,1 -- 0,Alaves
+04-04-2021,Alaves,1 -- 3,Celta
+10-04-2021,Ath Bilbao,0 -- 0,Alaves
+18-04-2021,Alaves,1 -- 0,Huesca
+21-04-2021,Alaves,2 -- 1,Villarreal
+24-04-2021,Valencia,1 -- 1,Alaves
+01-05-2021,Eibar,3 -- 0,Alaves
+08-05-2021,Alaves,2 -- 2,Levante
+11-05-2021,Elche,0 -- 2,Alaves
+16-05-2021,Alaves,4 -- 2,Granada
+23-05-2021,Sevilla,1 -- 0,Alaves
+12-09-2020,Granada,2 -- 0,Ath Bilbao
+27-09-2020,Eibar,1 -- 2,Ath Bilbao
+01-10-2020,Ath Bilbao,0 -- 1,Cadiz
+04-10-2020,Alaves,1 -- 0,Ath Bilbao
+18-10-2020,Ath Bilbao,2 -- 0,Levante
+24-10-2020,Osasuna,1 -- 0,Ath Bilbao
+31-10-2020,Ath Bilbao,2 -- 1,Sevilla
+08-11-2020,Valladolid,2 -- 1,Ath Bilbao
+23-11-2020,Ath Bilbao,4 -- 0,Betis
+29-11-2020,Getafe,1 -- 1,Ath Bilbao
+04-12-2020,Ath Bilbao,0 -- 2,Celta
+12-12-2020,Valencia,2 -- 2,Ath Bilbao
+15-12-2020,Real Madrid,3 -- 1,Ath Bilbao
+18-12-2020,Ath Bilbao,2 -- 0,Huesca
+22-12-2020,Villarreal,1 -- 1,Ath Bilbao
+31-12-2020,Ath Bilbao,0 -- 1,Sociedad
+03-01-2021,Ath Bilbao,1 -- 0,Elche
+06-01-2021,Ath Bilbao,2 -- 3,Barcelona
+25-01-2021,Ath Bilbao,5 -- 1,Getafe
+31-01-2021,Barcelona,2 -- 1,Ath Bilbao
+07-02-2021,Ath Bilbao,1 -- 1,Valencia
+15-02-2021,Cadiz,0 -- 4,Ath Bilbao
+21-02-2021,Ath Bilbao,1 -- 1,Villarreal
+26-02-2021,Levante,1 -- 1,Ath Bilbao
+07-03-2021,Ath Bilbao,2 -- 1,Granada
+10-03-2021,Ath Madrid,2 -- 1,Ath Bilbao
+14-03-2021,Celta,0 -- 0,Ath Bilbao
+20-03-2021,Ath Bilbao,1 -- 1,Eibar
+07-04-2021,Sociedad,1 -- 1,Ath Bilbao
+10-04-2021,Ath Bilbao,0 -- 0,Alaves
+21-04-2021,Betis,0 -- 0,Ath Bilbao
+25-04-2021,Ath Bilbao,2 -- 1,Ath Madrid
+28-04-2021,Ath Bilbao,2 -- 2,Valladolid
+03-05-2021,Sevilla,0 -- 1,Ath Bilbao
+08-05-2021,Ath Bilbao,2 -- 2,Osasuna
+12-05-2021,Huesca,1 -- 0,Ath Bilbao
+16-05-2021,Ath Bilbao,0 -- 1,Real Madrid
+22-05-2021,Elche,2 -- 0,Ath Bilbao
+27-09-2020,Ath Madrid,6 -- 1,Granada
+30-09-2020,Huesca,0 -- 0,Ath Madrid
+03-10-2020,Ath Madrid,0 -- 0,Villarreal
+17-10-2020,Celta,0 -- 2,Ath Madrid
+24-10-2020,Ath Madrid,2 -- 0,Betis
+31-10-2020,Osasuna,1 -- 3,Ath Madrid
+07-11-2020,Ath Madrid,4 -- 0,Cadiz
+21-11-2020,Ath Madrid,1 -- 0,Barcelona
+28-11-2020,Valencia,0 -- 1,Ath Madrid
+05-12-2020,Ath Madrid,2 -- 0,Valladolid
+12-12-2020,Real Madrid,2 -- 0,Ath Madrid
+19-12-2020,Ath Madrid,3 -- 1,Elche
+22-12-2020,Sociedad,0 -- 2,Ath Madrid
+30-12-2020,Ath Madrid,1 -- 0,Getafe
+03-01-2021,Alaves,1 -- 2,Ath Madrid
+12-01-2021,Ath Madrid,2 -- 0,Sevilla
+21-01-2021,Eibar,1 -- 2,Ath Madrid
+24-01-2021,Ath Madrid,3 -- 1,Valencia
+31-01-2021,Cadiz,2 -- 4,Ath Madrid
+08-02-2021,Ath Madrid,2 -- 2,Celta
+13-02-2021,Granada,1 -- 2,Ath Madrid
+17-02-2021,Levante,1 -- 1,Ath Madrid
+20-02-2021,Ath Madrid,0 -- 2,Levante
+28-02-2021,Villarreal,0 -- 2,Ath Madrid
+07-03-2021,Ath Madrid,1 -- 1,Real Madrid
+10-03-2021,Ath Madrid,2 -- 1,Ath Bilbao
+13-03-2021,Getafe,0 -- 0,Ath Madrid
+21-03-2021,Ath Madrid,1 -- 0,Alaves
+04-04-2021,Sevilla,1 -- 0,Ath Madrid
+11-04-2021,Betis,1 -- 1,Ath Madrid
+18-04-2021,Ath Madrid,5 -- 0,Eibar
+22-04-2021,Ath Madrid,2 -- 0,Huesca
+25-04-2021,Ath Bilbao,2 -- 1,Ath Madrid
+01-05-2021,Elche,0 -- 1,Ath Madrid
+08-05-2021,Barcelona,0 -- 0,Ath Madrid
+12-05-2021,Ath Madrid,2 -- 1,Sociedad
+16-05-2021,Ath Madrid,2 -- 1,Osasuna
+22-05-2021,Valladolid,1 -- 2,Ath Madrid
+27-09-2020,Barcelona,4 -- 0,Villarreal
+01-10-2020,Celta,0 -- 3,Barcelona
+04-10-2020,Barcelona,1 -- 1,Sevilla
+17-10-2020,Getafe,1 -- 0,Barcelona
+24-10-2020,Barcelona,1 -- 3,Real Madrid
+31-10-2020,Alaves,1 -- 1,Barcelona
+07-11-2020,Barcelona,5 -- 2,Betis
+21-11-2020,Ath Madrid,1 -- 0,Barcelona
+29-11-2020,Barcelona,4 -- 0,Osasuna
+05-12-2020,Cadiz,2 -- 1,Barcelona
+13-12-2020,Barcelona,1 -- 0,Levante
+16-12-2020,Barcelona,2 -- 1,Sociedad
+19-12-2020,Barcelona,2 -- 2,Valencia
+22-12-2020,Valladolid,0 -- 3,Barcelona
+29-12-2020,Barcelona,1 -- 1,Eibar
+03-01-2021,Huesca,0 -- 1,Barcelona
+06-01-2021,Ath Bilbao,2 -- 3,Barcelona
+09-01-2021,Granada,0 -- 4,Barcelona
+24-01-2021,Elche,0 -- 2,Barcelona
+31-01-2021,Barcelona,2 -- 1,Ath Bilbao
+07-02-2021,Betis,2 -- 3,Barcelona
+13-02-2021,Barcelona,5 -- 1,Alaves
+21-02-2021,Barcelona,1 -- 1,Cadiz
+24-02-2021,Barcelona,3 -- 0,Elche
+27-02-2021,Sevilla,0 -- 2,Barcelona
+06-03-2021,Osasuna,0 -- 2,Barcelona
+15-03-2021,Barcelona,4 -- 1,Huesca
+21-03-2021,Sociedad,1 -- 6,Barcelona
+05-04-2021,Barcelona,1 -- 0,Valladolid
+10-04-2021,Real Madrid,2 -- 1,Barcelona
+22-04-2021,Barcelona,5 -- 2,Getafe
+25-04-2021,Villarreal,1 -- 2,Barcelona
+29-04-2021,Barcelona,1 -- 2,Granada
+02-05-2021,Valencia,2 -- 3,Barcelona
+08-05-2021,Barcelona,0 -- 0,Ath Madrid
+11-05-2021,Levante,3 -- 3,Barcelona
+16-05-2021,Barcelona,1 -- 2,Celta
+22-05-2021,Eibar,0 -- 1,Barcelona
+13-09-2020,Alaves,0 -- 1,Betis
+20-09-2020,Betis,2 -- 0,Valladolid
+26-09-2020,Betis,2 -- 3,Real Madrid
+29-09-2020,Getafe,3 -- 0,Betis
+03-10-2020,Valencia,0 -- 2,Betis
+18-10-2020,Betis,0 -- 3,Sociedad
+24-10-2020,Ath Madrid,2 -- 0,Betis
+01-11-2020,Betis,3 -- 1,Elche
+07-11-2020,Barcelona,5 -- 2,Betis
+23-11-2020,Ath Bilbao,4 -- 0,Betis
+30-11-2020,Betis,0 -- 2,Eibar
+06-12-2020,Osasuna,0 -- 2,Betis
+13-12-2020,Betis,1 -- 1,Villarreal
+20-12-2020,Granada,2 -- 0,Betis
+23-12-2020,Betis,1 -- 0,Cadiz
+29-12-2020,Levante,4 -- 3,Betis
+02-01-2021,Betis,1 -- 1,Sevilla
+11-01-2021,Huesca,0 -- 2,Betis
+20-01-2021,Betis,2 -- 1,Celta
+23-01-2021,Sociedad,2 -- 2,Betis
+01-02-2021,Betis,1 -- 0,Osasuna
+07-02-2021,Betis,2 -- 3,Barcelona
+14-02-2021,Villarreal,1 -- 2,Betis
+19-02-2021,Betis,1 -- 0,Getafe
+28-02-2021,Cadiz,0 -- 1,Betis
+08-03-2021,Betis,3 -- 2,Alaves
+14-03-2021,Sevilla,1 -- 0,Betis
+19-03-2021,Betis,2 -- 0,Levante
+04-04-2021,Elche,1 -- 1,Betis
+11-04-2021,Betis,1 -- 1,Ath Madrid
+18-04-2021,Betis,2 -- 2,Valencia
+21-04-2021,Betis,0 -- 0,Ath Bilbao
+24-04-2021,Real Madrid,0 -- 0,Betis
+02-05-2021,Valladolid,1 -- 1,Betis
+10-05-2021,Betis,2 -- 1,Granada
+13-05-2021,Eibar,1 -- 1,Betis
+16-05-2021,Betis,1 -- 0,Huesca
+22-05-2021,Celta,2 -- 3,Betis
+12-09-2020,Cadiz,0 -- 2,Osasuna
+20-09-2020,Huesca,0 -- 2,Cadiz
+27-09-2020,Cadiz,1 -- 3,Sevilla
+01-10-2020,Ath Bilbao,0 -- 1,Cadiz
+04-10-2020,Cadiz,1 -- 1,Granada
+17-10-2020,Real Madrid,0 -- 1,Cadiz
+25-10-2020,Cadiz,0 -- 0,Villarreal
+30-10-2020,Eibar,0 -- 2,Cadiz
+07-11-2020,Ath Madrid,4 -- 0,Cadiz
+22-11-2020,Cadiz,0 -- 1,Sociedad
+28-11-2020,Elche,1 -- 1,Cadiz
+05-12-2020,Cadiz,2 -- 1,Barcelona
+14-12-2020,Celta,4 -- 0,Cadiz
+20-12-2020,Cadiz,0 -- 2,Getafe
+23-12-2020,Betis,1 -- 0,Cadiz
+29-12-2020,Cadiz,0 -- 0,Valladolid
+04-01-2021,Valencia,1 -- 1,Cadiz
+10-01-2021,Cadiz,3 -- 1,Alaves
+19-01-2021,Cadiz,2 -- 2,Levante
+23-01-2021,Sevilla,3 -- 0,Cadiz
+31-01-2021,Cadiz,2 -- 4,Ath Madrid
+07-02-2021,Sociedad,4 -- 1,Cadiz
+15-02-2021,Cadiz,0 -- 4,Ath Bilbao
+21-02-2021,Barcelona,1 -- 1,Cadiz
+28-02-2021,Cadiz,0 -- 1,Betis
+06-03-2021,Cadiz,1 -- 0,Eibar
+13-03-2021,Alaves,1 -- 1,Cadiz
+21-03-2021,Villarreal,2 -- 1,Cadiz
+04-04-2021,Cadiz,2 -- 1,Valencia
+10-04-2021,Getafe,0 -- 1,Cadiz
+18-04-2021,Cadiz,0 -- 0,Celta
+21-04-2021,Cadiz,0 -- 3,Real Madrid
+24-04-2021,Valladolid,1 -- 1,Cadiz
+02-05-2021,Granada,0 -- 1,Cadiz
+08-05-2021,Cadiz,2 -- 1,Huesca
+11-05-2021,Osasuna,3 -- 2,Cadiz
+16-05-2021,Cadiz,1 -- 3,Elche
+21-05-2021,Levante,2 -- 2,Cadiz
+12-09-2020,Eibar,0 -- 0,Celta
+19-09-2020,Celta,2 -- 1,Valencia
+27-09-2020,Valladolid,1 -- 1,Celta
+01-10-2020,Celta,0 -- 3,Barcelona
+04-10-2020,Osasuna,2 -- 0,Celta
+17-10-2020,Celta,0 -- 2,Ath Madrid
+26-10-2020,Levante,1 -- 1,Celta
+01-11-2020,Celta,1 -- 4,Sociedad
+06-11-2020,Elche,1 -- 1,Celta
+21-11-2020,Sevilla,4 -- 2,Celta
+29-11-2020,Celta,3 -- 1,Granada
+04-12-2020,Ath Bilbao,0 -- 2,Celta
+14-12-2020,Celta,4 -- 0,Cadiz
+20-12-2020,Celta,2 -- 0,Alaves
+23-12-2020,Getafe,1 -- 1,Celta
+30-12-2020,Celta,2 -- 1,Huesca
+02-01-2021,Real Madrid,2 -- 0,Celta
+08-01-2021,Celta,0 -- 4,Villarreal
+20-01-2021,Betis,2 -- 1,Celta
+24-01-2021,Celta,1 -- 1,Eibar
+31-01-2021,Granada,0 -- 0,Celta
+08-02-2021,Ath Madrid,2 -- 2,Celta
+12-02-2021,Celta,3 -- 1,Elche
+20-02-2021,Valencia,2 -- 0,Celta
+28-02-2021,Celta,1 -- 1,Valladolid
+07-03-2021,Huesca,3 -- 4,Celta
+14-03-2021,Celta,0 -- 0,Ath Bilbao
+20-03-2021,Celta,1 -- 3,Real Madrid
+04-04-2021,Alaves,1 -- 3,Celta
+12-04-2021,Celta,3 -- 4,Sevilla
+18-04-2021,Cadiz,0 -- 0,Celta
+22-04-2021,Sociedad,2 -- 1,Celta
+25-04-2021,Celta,2 -- 1,Osasuna
+30-04-2021,Celta,2 -- 0,Levante
+09-05-2021,Villarreal,2 -- 4,Celta
+12-05-2021,Celta,1 -- 0,Getafe
+16-05-2021,Barcelona,1 -- 2,Celta
+22-05-2021,Celta,2 -- 3,Betis
+12-09-2020,Eibar,0 -- 0,Celta
+19-09-2020,Villarreal,2 -- 1,Eibar
+27-09-2020,Eibar,1 -- 2,Ath Bilbao
+30-09-2020,Eibar,0 -- 1,Elche
+03-10-2020,Valladolid,1 -- 2,Eibar
+18-10-2020,Eibar,0 -- 0,Osasuna
+24-10-2020,Sevilla,0 -- 1,Eibar
+30-10-2020,Eibar,0 -- 2,Cadiz
+07-11-2020,Huesca,1 -- 1,Eibar
+22-11-2020,Eibar,0 -- 0,Getafe
+30-11-2020,Betis,0 -- 2,Eibar
+07-12-2020,Eibar,0 -- 0,Valencia
+13-12-2020,Sociedad,1 -- 1,Eibar
+20-12-2020,Eibar,1 -- 3,Real Madrid
+23-12-2020,Alaves,2 -- 1,Eibar
+29-12-2020,Barcelona,1 -- 1,Eibar
+03-01-2021,Eibar,2 -- 0,Granada
+10-01-2021,Levante,2 -- 1,Eibar
+21-01-2021,Eibar,1 -- 2,Ath Madrid
+24-01-2021,Celta,1 -- 1,Eibar
+30-01-2021,Eibar,0 -- 2,Sevilla
+07-02-2021,Osasuna,2 -- 1,Eibar
+13-02-2021,Eibar,1 -- 1,Valladolid
+20-02-2021,Elche,1 -- 0,Eibar
+27-02-2021,Eibar,1 -- 1,Huesca
+06-03-2021,Cadiz,1 -- 0,Eibar
+14-03-2021,Eibar,1 -- 3,Villarreal
+20-03-2021,Ath Bilbao,1 -- 1,Eibar
+03-04-2021,Real Madrid,2 -- 0,Eibar
+10-04-2021,Eibar,0 -- 1,Levante
+18-04-2021,Ath Madrid,5 -- 0,Eibar
+22-04-2021,Granada,4 -- 1,Eibar
+26-04-2021,Eibar,0 -- 1,Sociedad
+01-05-2021,Eibar,3 -- 0,Alaves
+09-05-2021,Getafe,0 -- 1,Eibar
+13-05-2021,Eibar,1 -- 1,Betis
+16-05-2021,Valencia,4 -- 1,Eibar
+22-05-2021,Eibar,0 -- 1,Barcelona
+26-09-2020,Elche,0 -- 3,Sociedad
+30-09-2020,Eibar,0 -- 1,Elche
+03-10-2020,Elche,0 -- 0,Huesca
+18-10-2020,Alaves,0 -- 2,Elche
+23-10-2020,Elche,2 -- 1,Valencia
+01-11-2020,Betis,3 -- 1,Elche
+06-11-2020,Elche,1 -- 1,Celta
+21-11-2020,Levante,1 -- 1,Elche
+28-11-2020,Elche,1 -- 1,Cadiz
+06-12-2020,Villarreal,0 -- 0,Elche
+13-12-2020,Elche,0 -- 1,Granada
+19-12-2020,Ath Madrid,3 -- 1,Elche
+22-12-2020,Elche,2 -- 2,Osasuna
+30-12-2020,Elche,1 -- 1,Real Madrid
+03-01-2021,Ath Bilbao,1 -- 0,Elche
+11-01-2021,Elche,1 -- 3,Getafe
+19-01-2021,Valladolid,2 -- 2,Elche
+24-01-2021,Elche,0 -- 2,Barcelona
+30-01-2021,Valencia,1 -- 0,Elche
+06-02-2021,Elche,2 -- 2,Villarreal
+12-02-2021,Celta,3 -- 1,Elche
+20-02-2021,Elche,1 -- 0,Eibar
+24-02-2021,Barcelona,3 -- 0,Elche
+28-02-2021,Granada,2 -- 1,Elche
+06-03-2021,Elche,2 -- 1,Sevilla
+13-03-2021,Real Madrid,2 -- 1,Elche
+17-03-2021,Sevilla,2 -- 0,Elche
+21-03-2021,Getafe,1 -- 1,Elche
+04-04-2021,Elche,1 -- 1,Betis
+09-04-2021,Huesca,3 -- 1,Elche
+18-04-2021,Osasuna,2 -- 0,Elche
+21-04-2021,Elche,1 -- 1,Valladolid
+24-04-2021,Elche,1 -- 0,Levante
+01-05-2021,Elche,0 -- 1,Ath Madrid
+07-05-2021,Sociedad,2 -- 0,Elche
+11-05-2021,Elche,0 -- 2,Alaves
+16-05-2021,Cadiz,1 -- 3,Elche
+22-05-2021,Elche,2 -- 0,Ath Bilbao
+19-09-2020,Getafe,1 -- 0,Osasuna
+26-09-2020,Alaves,0 -- 0,Getafe
+29-09-2020,Getafe,3 -- 0,Betis
+03-10-2020,Sociedad,3 -- 0,Getafe
+17-10-2020,Getafe,1 -- 0,Barcelona
+25-10-2020,Getafe,0 -- 1,Granada
+01-11-2020,Valencia,2 -- 2,Getafe
+08-11-2020,Getafe,1 -- 3,Villarreal
+22-11-2020,Eibar,0 -- 0,Getafe
+29-11-2020,Getafe,1 -- 1,Ath Bilbao
+05-12-2020,Levante,3 -- 0,Getafe
+12-12-2020,Getafe,0 -- 1,Sevilla
+20-12-2020,Cadiz,0 -- 2,Getafe
+23-12-2020,Getafe,1 -- 1,Celta
+30-12-2020,Ath Madrid,1 -- 0,Getafe
+02-01-2021,Getafe,0 -- 1,Valladolid
+11-01-2021,Elche,1 -- 3,Getafe
+20-01-2021,Getafe,1 -- 0,Huesca
+25-01-2021,Ath Bilbao,5 -- 1,Getafe
+31-01-2021,Getafe,0 -- 0,Alaves
+06-02-2021,Sevilla,3 -- 0,Getafe
+09-02-2021,Real Madrid,2 -- 0,Getafe
+14-02-2021,Getafe,0 -- 1,Sociedad
+19-02-2021,Betis,1 -- 0,Getafe
+27-02-2021,Getafe,3 -- 0,Valencia
+06-03-2021,Valladolid,2 -- 1,Getafe
+13-03-2021,Getafe,0 -- 0,Ath Madrid
+21-03-2021,Getafe,1 -- 1,Elche
+03-04-2021,Osasuna,0 -- 0,Getafe
+10-04-2021,Getafe,0 -- 1,Cadiz
+18-04-2021,Getafe,0 -- 0,Real Madrid
+22-04-2021,Barcelona,5 -- 2,Getafe
+25-04-2021,Huesca,0 -- 2,Getafe
+02-05-2021,Villarreal,1 -- 0,Getafe
+09-05-2021,Getafe,0 -- 1,Eibar
+12-05-2021,Celta,1 -- 0,Getafe
+16-05-2021,Getafe,2 -- 1,Levante
+23-05-2021,Granada,0 -- 0,Getafe
+12-09-2020,Granada,2 -- 0,Ath Bilbao
+20-09-2020,Granada,2 -- 1,Alaves
+27-09-2020,Ath Madrid,6 -- 1,Granada
+04-10-2020,Cadiz,1 -- 1,Granada
+17-10-2020,Granada,1 -- 0,Sevilla
+25-10-2020,Getafe,0 -- 1,Granada
+01-11-2020,Granada,1 -- 1,Levante
+08-11-2020,Sociedad,2 -- 0,Granada
+22-11-2020,Granada,1 -- 3,Valladolid
+29-11-2020,Celta,3 -- 1,Granada
+06-12-2020,Granada,3 -- 3,Huesca
+13-12-2020,Elche,0 -- 1,Granada
+20-12-2020,Granada,2 -- 0,Betis
+23-12-2020,Real Madrid,2 -- 0,Granada
+30-12-2020,Granada,2 -- 1,Valencia
+03-01-2021,Eibar,2 -- 0,Granada
+09-01-2021,Granada,0 -- 4,Barcelona
+12-01-2021,Granada,2 -- 0,Osasuna
+20-01-2021,Villarreal,2 -- 2,Granada
+24-01-2021,Osasuna,3 -- 1,Granada
+31-01-2021,Granada,0 -- 0,Celta
+06-02-2021,Levante,2 -- 2,Granada
+13-02-2021,Granada,1 -- 2,Ath Madrid
+21-02-2021,Huesca,3 -- 2,Granada
+28-02-2021,Granada,2 -- 1,Elche
+07-03-2021,Ath Bilbao,2 -- 1,Granada
+14-03-2021,Granada,1 -- 0,Sociedad
+21-03-2021,Valencia,2 -- 1,Granada
+03-04-2021,Granada,0 -- 3,Villarreal
+11-04-2021,Valladolid,1 -- 2,Granada
+22-04-2021,Granada,4 -- 1,Eibar
+25-04-2021,Sevilla,2 -- 1,Granada
+29-04-2021,Barcelona,1 -- 2,Granada
+02-05-2021,Granada,0 -- 1,Cadiz
+10-05-2021,Betis,2 -- 1,Granada
+13-05-2021,Granada,1 -- 4,Real Madrid
+16-05-2021,Alaves,4 -- 2,Granada
+23-05-2021,Granada,0 -- 0,Getafe
+13-09-2020,Villarreal,1 -- 1,Huesca
+20-09-2020,Huesca,0 -- 2,Cadiz
+26-09-2020,Valencia,1 -- 1,Huesca
+30-09-2020,Huesca,0 -- 0,Ath Madrid
+03-10-2020,Elche,0 -- 0,Huesca
+18-10-2020,Huesca,2 -- 2,Valladolid
+25-10-2020,Sociedad,4 -- 1,Huesca
+31-10-2020,Real Madrid,4 -- 1,Huesca
+07-11-2020,Huesca,1 -- 1,Eibar
+20-11-2020,Osasuna,1 -- 1,Huesca
+28-11-2020,Huesca,0 -- 1,Sevilla
+06-12-2020,Granada,3 -- 3,Huesca
+12-12-2020,Huesca,1 -- 0,Alaves
+18-12-2020,Ath Bilbao,2 -- 0,Huesca
+22-12-2020,Huesca,1 -- 1,Levante
+30-12-2020,Celta,2 -- 1,Huesca
+03-01-2021,Huesca,0 -- 1,Barcelona
+11-01-2021,Huesca,0 -- 2,Betis
+20-01-2021,Getafe,1 -- 0,Huesca
+23-01-2021,Huesca,0 -- 0,Villarreal
+29-01-2021,Valladolid,1 -- 3,Huesca
+06-02-2021,Huesca,1 -- 2,Real Madrid
+13-02-2021,Sevilla,1 -- 0,Huesca
+21-02-2021,Huesca,3 -- 2,Granada
+27-02-2021,Eibar,1 -- 1,Huesca
+07-03-2021,Huesca,3 -- 4,Celta
+15-03-2021,Barcelona,4 -- 1,Huesca
+20-03-2021,Huesca,0 -- 0,Osasuna
+02-04-2021,Levante,0 -- 2,Huesca
+09-04-2021,Huesca,3 -- 1,Elche
+18-04-2021,Alaves,1 -- 0,Huesca
+22-04-2021,Ath Madrid,2 -- 0,Huesca
+25-04-2021,Huesca,0 -- 2,Getafe
+01-05-2021,Huesca,1 -- 0,Sociedad
+08-05-2021,Cadiz,2 -- 1,Huesca
+12-05-2021,Huesca,1 -- 0,Ath Bilbao
+16-05-2021,Betis,1 -- 0,Huesca
+22-05-2021,Huesca,0 -- 0,Valencia
+13-09-2020,Valencia,4 -- 2,Levante
+27-09-2020,Osasuna,1 -- 3,Levante
+01-10-2020,Sevilla,1 -- 0,Levante
+04-10-2020,Levante,0 -- 2,Real Madrid
+18-10-2020,Ath Bilbao,2 -- 0,Levante
+26-10-2020,Levante,1 -- 1,Celta
+01-11-2020,Granada,1 -- 1,Levante
+08-11-2020,Levante,1 -- 1,Alaves
+21-11-2020,Levante,1 -- 1,Elche
+27-11-2020,Valladolid,1 -- 1,Levante
+05-12-2020,Levante,3 -- 0,Getafe
+13-12-2020,Barcelona,1 -- 0,Levante
+19-12-2020,Levante,2 -- 1,Sociedad
+22-12-2020,Huesca,1 -- 1,Levante
+29-12-2020,Levante,4 -- 3,Betis
+02-01-2021,Villarreal,2 -- 1,Levante
+10-01-2021,Levante,2 -- 1,Eibar
+19-01-2021,Cadiz,2 -- 2,Levante
+22-01-2021,Levante,2 -- 2,Valladolid
+30-01-2021,Real Madrid,1 -- 2,Levante
+06-02-2021,Levante,2 -- 2,Granada
+14-02-2021,Levante,0 -- 1,Osasuna
+17-02-2021,Levante,1 -- 1,Ath Madrid
+20-02-2021,Ath Madrid,0 -- 2,Levante
+26-02-2021,Levante,1 -- 1,Ath Bilbao
+07-03-2021,Sociedad,1 -- 0,Levante
+12-03-2021,Levante,1 -- 0,Valencia
+19-03-2021,Betis,2 -- 0,Levante
+02-04-2021,Levante,0 -- 2,Huesca
+10-04-2021,Eibar,0 -- 1,Levante
+18-04-2021,Levante,1 -- 5,Villarreal
+21-04-2021,Levante,0 -- 1,Sevilla
+24-04-2021,Elche,1 -- 0,Levante
+30-04-2021,Celta,2 -- 0,Levante
+08-05-2021,Alaves,2 -- 2,Levante
+11-05-2021,Levante,3 -- 3,Barcelona
+16-05-2021,Getafe,2 -- 1,Levante
+21-05-2021,Levante,2 -- 2,Cadiz
+12-09-2020,Cadiz,0 -- 2,Osasuna
+19-09-2020,Getafe,1 -- 0,Osasuna
+27-09-2020,Osasuna,1 -- 3,Levante
+04-10-2020,Osasuna,2 -- 0,Celta
+18-10-2020,Eibar,0 -- 0,Osasuna
+24-10-2020,Osasuna,1 -- 0,Ath Bilbao
+31-10-2020,Osasuna,1 -- 3,Ath Madrid
+07-11-2020,Sevilla,1 -- 0,Osasuna
+20-11-2020,Osasuna,1 -- 1,Huesca
+29-11-2020,Barcelona,4 -- 0,Osasuna
+06-12-2020,Osasuna,0 -- 2,Betis
+11-12-2020,Valladolid,3 -- 2,Osasuna
+19-12-2020,Osasuna,1 -- 3,Villarreal
+22-12-2020,Elche,2 -- 2,Osasuna
+31-12-2020,Osasuna,1 -- 1,Alaves
+03-01-2021,Sociedad,1 -- 1,Osasuna
+09-01-2021,Osasuna,0 -- 0,Real Madrid
+12-01-2021,Granada,2 -- 0,Osasuna
+21-01-2021,Valencia,1 -- 1,Osasuna
+24-01-2021,Osasuna,3 -- 1,Granada
+01-02-2021,Betis,1 -- 0,Osasuna
+07-02-2021,Osasuna,2 -- 1,Eibar
+14-02-2021,Levante,0 -- 1,Osasuna
+22-02-2021,Osasuna,0 -- 2,Sevilla
+27-02-2021,Alaves,0 -- 1,Osasuna
+06-03-2021,Osasuna,0 -- 2,Barcelona
+13-03-2021,Osasuna,0 -- 0,Valladolid
+20-03-2021,Huesca,0 -- 0,Osasuna
+03-04-2021,Osasuna,0 -- 0,Getafe
+11-04-2021,Villarreal,1 -- 2,Osasuna
+18-04-2021,Osasuna,2 -- 0,Elche
+21-04-2021,Osasuna,3 -- 1,Valencia
+25-04-2021,Celta,2 -- 1,Osasuna
+01-05-2021,Real Madrid,2 -- 0,Osasuna
+08-05-2021,Ath Bilbao,2 -- 2,Osasuna
+11-05-2021,Osasuna,3 -- 2,Cadiz
+16-05-2021,Ath Madrid,2 -- 1,Osasuna
+22-05-2021,Osasuna,0 -- 1,Sociedad
+20-09-2020,Sociedad,0 -- 0,Real Madrid
+26-09-2020,Betis,2 -- 3,Real Madrid
+30-09-2020,Real Madrid,1 -- 0,Valladolid
+04-10-2020,Levante,0 -- 2,Real Madrid
+17-10-2020,Real Madrid,0 -- 1,Cadiz
+24-10-2020,Barcelona,1 -- 3,Real Madrid
+31-10-2020,Real Madrid,4 -- 1,Huesca
+08-11-2020,Valencia,4 -- 1,Real Madrid
+21-11-2020,Villarreal,1 -- 1,Real Madrid
+28-11-2020,Real Madrid,1 -- 2,Alaves
+05-12-2020,Sevilla,0 -- 1,Real Madrid
+12-12-2020,Real Madrid,2 -- 0,Ath Madrid
+15-12-2020,Real Madrid,3 -- 1,Ath Bilbao
+20-12-2020,Eibar,1 -- 3,Real Madrid
+23-12-2020,Real Madrid,2 -- 0,Granada
+30-12-2020,Elche,1 -- 1,Real Madrid
+02-01-2021,Real Madrid,2 -- 0,Celta
+09-01-2021,Osasuna,0 -- 0,Real Madrid
+23-01-2021,Alaves,1 -- 4,Real Madrid
+30-01-2021,Real Madrid,1 -- 2,Levante
+06-02-2021,Huesca,1 -- 2,Real Madrid
+09-02-2021,Real Madrid,2 -- 0,Getafe
+14-02-2021,Real Madrid,2 -- 0,Valencia
+20-02-2021,Valladolid,0 -- 1,Real Madrid
+01-03-2021,Real Madrid,1 -- 1,Sociedad
+07-03-2021,Ath Madrid,1 -- 1,Real Madrid
+13-03-2021,Real Madrid,2 -- 1,Elche
+20-03-2021,Celta,1 -- 3,Real Madrid
+03-04-2021,Real Madrid,2 -- 0,Eibar
+10-04-2021,Real Madrid,2 -- 1,Barcelona
+18-04-2021,Getafe,0 -- 0,Real Madrid
+21-04-2021,Cadiz,0 -- 3,Real Madrid
+24-04-2021,Real Madrid,0 -- 0,Betis
+01-05-2021,Real Madrid,2 -- 0,Osasuna
+09-05-2021,Real Madrid,2 -- 2,Sevilla
+13-05-2021,Granada,1 -- 4,Real Madrid
+16-05-2021,Ath Bilbao,0 -- 1,Real Madrid
+22-05-2021,Real Madrid,2 -- 1,Villarreal
+27-09-2020,Cadiz,1 -- 3,Sevilla
+01-10-2020,Sevilla,1 -- 0,Levante
+04-10-2020,Barcelona,1 -- 1,Sevilla
+17-10-2020,Granada,1 -- 0,Sevilla
+24-10-2020,Sevilla,0 -- 1,Eibar
+31-10-2020,Ath Bilbao,2 -- 1,Sevilla
+07-11-2020,Sevilla,1 -- 0,Osasuna
+21-11-2020,Sevilla,4 -- 2,Celta
+28-11-2020,Huesca,0 -- 1,Sevilla
+05-12-2020,Sevilla,0 -- 1,Real Madrid
+12-12-2020,Getafe,0 -- 1,Sevilla
+19-12-2020,Sevilla,1 -- 1,Valladolid
+22-12-2020,Valencia,0 -- 1,Sevilla
+29-12-2020,Sevilla,2 -- 0,Villarreal
+02-01-2021,Betis,1 -- 1,Sevilla
+09-01-2021,Sevilla,3 -- 2,Sociedad
+12-01-2021,Ath Madrid,2 -- 0,Sevilla
+19-01-2021,Alaves,1 -- 2,Sevilla
+23-01-2021,Sevilla,3 -- 0,Cadiz
+30-01-2021,Eibar,0 -- 2,Sevilla
+06-02-2021,Sevilla,3 -- 0,Getafe
+13-02-2021,Sevilla,1 -- 0,Huesca
+22-02-2021,Osasuna,0 -- 2,Sevilla
+27-02-2021,Sevilla,0 -- 2,Barcelona
+06-03-2021,Elche,2 -- 1,Sevilla
+14-03-2021,Sevilla,1 -- 0,Betis
+17-03-2021,Sevilla,2 -- 0,Elche
+20-03-2021,Valladolid,1 -- 1,Sevilla
+04-04-2021,Sevilla,1 -- 0,Ath Madrid
+12-04-2021,Celta,3 -- 4,Sevilla
+18-04-2021,Sociedad,1 -- 2,Sevilla
+21-04-2021,Levante,0 -- 1,Sevilla
+25-04-2021,Sevilla,2 -- 1,Granada
+03-05-2021,Sevilla,0 -- 1,Ath Bilbao
+09-05-2021,Real Madrid,2 -- 2,Sevilla
+12-05-2021,Sevilla,1 -- 0,Valencia
+16-05-2021,Villarreal,4 -- 0,Sevilla
+23-05-2021,Sevilla,1 -- 0,Alaves
+13-09-2020,Valladolid,1 -- 1,Sociedad
+20-09-2020,Sociedad,0 -- 0,Real Madrid
+26-09-2020,Elche,0 -- 3,Sociedad
+29-09-2020,Sociedad,0 -- 1,Valencia
+03-10-2020,Sociedad,3 -- 0,Getafe
+18-10-2020,Betis,0 -- 3,Sociedad
+25-10-2020,Sociedad,4 -- 1,Huesca
+01-11-2020,Celta,1 -- 4,Sociedad
+08-11-2020,Sociedad,2 -- 0,Granada
+22-11-2020,Cadiz,0 -- 1,Sociedad
+29-11-2020,Sociedad,1 -- 1,Villarreal
+06-12-2020,Alaves,0 -- 0,Sociedad
+13-12-2020,Sociedad,1 -- 1,Eibar
+16-12-2020,Barcelona,2 -- 1,Sociedad
+19-12-2020,Levante,2 -- 1,Sociedad
+22-12-2020,Sociedad,0 -- 2,Ath Madrid
+31-12-2020,Ath Bilbao,0 -- 1,Sociedad
+03-01-2021,Sociedad,1 -- 1,Osasuna
+09-01-2021,Sevilla,3 -- 2,Sociedad
+23-01-2021,Sociedad,2 -- 2,Betis
+30-01-2021,Villarreal,1 -- 1,Sociedad
+07-02-2021,Sociedad,4 -- 1,Cadiz
+14-02-2021,Getafe,0 -- 1,Sociedad
+21-02-2021,Sociedad,4 -- 0,Alaves
+01-03-2021,Real Madrid,1 -- 1,Sociedad
+07-03-2021,Sociedad,1 -- 0,Levante
+14-03-2021,Granada,1 -- 0,Sociedad
+21-03-2021,Sociedad,1 -- 6,Barcelona
+07-04-2021,Sociedad,1 -- 1,Ath Bilbao
+11-04-2021,Valencia,2 -- 2,Sociedad
+18-04-2021,Sociedad,1 -- 2,Sevilla
+22-04-2021,Sociedad,2 -- 1,Celta
+26-04-2021,Eibar,0 -- 1,Sociedad
+01-05-2021,Huesca,1 -- 0,Sociedad
+07-05-2021,Sociedad,2 -- 0,Elche
+12-05-2021,Ath Madrid,2 -- 1,Sociedad
+16-05-2021,Sociedad,4 -- 1,Valladolid
+22-05-2021,Osasuna,0 -- 1,Sociedad
+13-09-2020,Valencia,4 -- 2,Levante
+19-09-2020,Celta,2 -- 1,Valencia
+26-09-2020,Valencia,1 -- 1,Huesca
+29-09-2020,Sociedad,0 -- 1,Valencia
+03-10-2020,Valencia,0 -- 2,Betis
+18-10-2020,Villarreal,2 -- 1,Valencia
+23-10-2020,Elche,2 -- 1,Valencia
+01-11-2020,Valencia,2 -- 2,Getafe
+08-11-2020,Valencia,4 -- 1,Real Madrid
+22-11-2020,Alaves,2 -- 2,Valencia
+28-11-2020,Valencia,0 -- 1,Ath Madrid
+07-12-2020,Eibar,0 -- 0,Valencia
+12-12-2020,Valencia,2 -- 2,Ath Bilbao
+19-12-2020,Barcelona,2 -- 2,Valencia
+22-12-2020,Valencia,0 -- 1,Sevilla
+30-12-2020,Granada,2 -- 1,Valencia
+04-01-2021,Valencia,1 -- 1,Cadiz
+10-01-2021,Valladolid,0 -- 1,Valencia
+21-01-2021,Valencia,1 -- 1,Osasuna
+24-01-2021,Ath Madrid,3 -- 1,Valencia
+30-01-2021,Valencia,1 -- 0,Elche
+07-02-2021,Ath Bilbao,1 -- 1,Valencia
+14-02-2021,Real Madrid,2 -- 0,Valencia
+20-02-2021,Valencia,2 -- 0,Celta
+27-02-2021,Getafe,3 -- 0,Valencia
+05-03-2021,Valencia,2 -- 1,Villarreal
+12-03-2021,Levante,1 -- 0,Valencia
+21-03-2021,Valencia,2 -- 1,Granada
+04-04-2021,Cadiz,2 -- 1,Valencia
+11-04-2021,Valencia,2 -- 2,Sociedad
+18-04-2021,Betis,2 -- 2,Valencia
+21-04-2021,Osasuna,3 -- 1,Valencia
+24-04-2021,Valencia,1 -- 1,Alaves
+02-05-2021,Valencia,2 -- 3,Barcelona
+09-05-2021,Valencia,3 -- 0,Valladolid
+12-05-2021,Sevilla,1 -- 0,Valencia
+16-05-2021,Valencia,4 -- 1,Eibar
+22-05-2021,Huesca,0 -- 0,Valencia
+13-09-2020,Valladolid,1 -- 1,Sociedad
+20-09-2020,Betis,2 -- 0,Valladolid
+27-09-2020,Valladolid,1 -- 1,Celta
+30-09-2020,Real Madrid,1 -- 0,Valladolid
+03-10-2020,Valladolid,1 -- 2,Eibar
+18-10-2020,Huesca,2 -- 2,Valladolid
+25-10-2020,Valladolid,0 -- 2,Alaves
+02-11-2020,Villarreal,2 -- 0,Valladolid
+08-11-2020,Valladolid,2 -- 1,Ath Bilbao
+22-11-2020,Granada,1 -- 3,Valladolid
+27-11-2020,Valladolid,1 -- 1,Levante
+05-12-2020,Ath Madrid,2 -- 0,Valladolid
+11-12-2020,Valladolid,3 -- 2,Osasuna
+19-12-2020,Sevilla,1 -- 1,Valladolid
+22-12-2020,Valladolid,0 -- 3,Barcelona
+29-12-2020,Cadiz,0 -- 0,Valladolid
+02-01-2021,Getafe,0 -- 1,Valladolid
+10-01-2021,Valladolid,0 -- 1,Valencia
+19-01-2021,Valladolid,2 -- 2,Elche
+22-01-2021,Levante,2 -- 2,Valladolid
+29-01-2021,Valladolid,1 -- 3,Huesca
+05-02-2021,Alaves,1 -- 0,Valladolid
+13-02-2021,Eibar,1 -- 1,Valladolid
+20-02-2021,Valladolid,0 -- 1,Real Madrid
+28-02-2021,Celta,1 -- 1,Valladolid
+06-03-2021,Valladolid,2 -- 1,Getafe
+13-03-2021,Osasuna,0 -- 0,Valladolid
+20-03-2021,Valladolid,1 -- 1,Sevilla
+05-04-2021,Barcelona,1 -- 0,Valladolid
+11-04-2021,Valladolid,1 -- 2,Granada
+21-04-2021,Elche,1 -- 1,Valladolid
+24-04-2021,Valladolid,1 -- 1,Cadiz
+28-04-2021,Ath Bilbao,2 -- 2,Valladolid
+02-05-2021,Valladolid,1 -- 1,Betis
+09-05-2021,Valencia,3 -- 0,Valladolid
+13-05-2021,Valladolid,0 -- 2,Villarreal
+16-05-2021,Sociedad,4 -- 1,Valladolid
+22-05-2021,Valladolid,1 -- 2,Ath Madrid
+13-09-2020,Villarreal,1 -- 1,Huesca
+19-09-2020,Villarreal,2 -- 1,Eibar
+27-09-2020,Barcelona,4 -- 0,Villarreal
+30-09-2020,Villarreal,3 -- 1,Alaves
+03-10-2020,Ath Madrid,0 -- 0,Villarreal
+18-10-2020,Villarreal,2 -- 1,Valencia
+25-10-2020,Cadiz,0 -- 0,Villarreal
+02-11-2020,Villarreal,2 -- 0,Valladolid
+08-11-2020,Getafe,1 -- 3,Villarreal
+21-11-2020,Villarreal,1 -- 1,Real Madrid
+29-11-2020,Sociedad,1 -- 1,Villarreal
+06-12-2020,Villarreal,0 -- 0,Elche
+13-12-2020,Betis,1 -- 1,Villarreal
+19-12-2020,Osasuna,1 -- 3,Villarreal
+22-12-2020,Villarreal,1 -- 1,Ath Bilbao
+29-12-2020,Sevilla,2 -- 0,Villarreal
+02-01-2021,Villarreal,2 -- 1,Levante
+08-01-2021,Celta,0 -- 4,Villarreal
+20-01-2021,Villarreal,2 -- 2,Granada
+23-01-2021,Huesca,0 -- 0,Villarreal
+30-01-2021,Villarreal,1 -- 1,Sociedad
+06-02-2021,Elche,2 -- 2,Villarreal
+14-02-2021,Villarreal,1 -- 2,Betis
+21-02-2021,Ath Bilbao,1 -- 1,Villarreal
+28-02-2021,Villarreal,0 -- 2,Ath Madrid
+05-03-2021,Valencia,2 -- 1,Villarreal
+14-03-2021,Eibar,1 -- 3,Villarreal
+21-03-2021,Villarreal,2 -- 1,Cadiz
+03-04-2021,Granada,0 -- 3,Villarreal
+11-04-2021,Villarreal,1 -- 2,Osasuna
+18-04-2021,Levante,1 -- 5,Villarreal
+21-04-2021,Alaves,2 -- 1,Villarreal
+25-04-2021,Villarreal,1 -- 2,Barcelona
+02-05-2021,Villarreal,1 -- 0,Getafe
+09-05-2021,Villarreal,2 -- 4,Celta
+13-05-2021,Valladolid,0 -- 2,Villarreal
+16-05-2021,Villarreal,4 -- 0,Sevilla
+22-05-2021,Real Madrid,2 -- 1,Villarreal
